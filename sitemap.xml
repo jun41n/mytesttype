@@ -1,32 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Core pages -->
+  <!-- ── Core pages ─────────────────────────────────────── -->
   <url><loc>https://innermeter.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://innermeter.app/tests</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://innermeter.app/tarot</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://innermeter.app/k-shaman</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-
-  <!-- Tests -->
-  <url><loc>https://innermeter.app/tests/mbti-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://innermeter.app/tests/love-style-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://innermeter.app/tests/hidden-personality-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://innermeter.app/tests/how-friends-see-me-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://innermeter.app/tests/attachment-style-test</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://innermeter.app/tests/destiny-age-test</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://innermeter.app/tests/teto-egen-test</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://innermeter.app/tests/extreme-tf-test</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://innermeter.app/tests/inner-child-test</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://innermeter.app/tests/intuition-vs-logic-test</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://innermeter.app/tests/love-villain-test</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://innermeter.app/tests/meddling-test</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://innermeter.app/tests/over-immersion-test</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://innermeter.app/tests/villain-type-test</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-
-  <!-- Info pages -->
+  <url><loc>https://innermeter.app/tarot</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://innermeter.app/k-shaman</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
   <url><loc>https://innermeter.app/about</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://innermeter.app/privacy</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://innermeter.app/terms</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://innermeter.app/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://innermeter.app/privacy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://innermeter.app/terms</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://innermeter.app/contact</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+
+  <!-- ── Test landing pages ─────────────────────────────── -->
+  <url><loc>https://innermeter.app/tests/love-style-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/attachment-style-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/hidden-personality-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/over-immersion-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/how-friends-see-me-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/intuition-vs-logic-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/mbti-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/destiny-age-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/teto-egen-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/villain-type-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/extreme-tf-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/meddling-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/inner-child-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/love-villain-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/love-language-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/narcissist-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/tests/psychopath-test</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- ── Result pages: love-style-test ─────────────────── -->
+  <url><loc>https://innermeter.app/results/love-style-test?result=direct-romantic</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/love-style-test?result=direct-realist</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/love-style-test?result=passive-romantic</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/love-style-test?result=passive-realist</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: attachment-style-test ───────────── -->
+  <url><loc>https://innermeter.app/results/attachment-style-test?result=secure</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/attachment-style-test?result=anxious</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/attachment-style-test?result=avoidant</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/attachment-style-test?result=mixed</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: hidden-personality-test ─────────── -->
+  <url><loc>https://innermeter.app/results/hidden-personality-test?result=extrovert</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/hidden-personality-test?result=introvert</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/hidden-personality-test?result=chameleon</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/hidden-personality-test?result=balanced</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: over-immersion-test ─────────────── -->
+  <url><loc>https://innermeter.app/results/over-immersion-test?result=extreme</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/over-immersion-test?result=high</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/over-immersion-test?result=medium</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/over-immersion-test?result=realist</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: how-friends-see-me-test ─────────── -->
+  <url><loc>https://innermeter.app/results/how-friends-see-me-test?result=mood-maker</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/how-friends-see-me-test?result=parent</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/how-friends-see-me-test?result=hidden-comedian</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/how-friends-see-me-test?result=observer</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: intuition-vs-logic-test ─────────── -->
+  <url><loc>https://innermeter.app/results/intuition-vs-logic-test?result=extreme-intuition</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/intuition-vs-logic-test?result=extreme-logic</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/intuition-vs-logic-test?result=emotional-logic</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/intuition-vs-logic-test?result=balanced-thinker</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: mbti-test (16 types) ────────────── -->
+  <url><loc>https://innermeter.app/results/mbti-test?result=ENTJ</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ENTP</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ENFJ</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ENFP</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ESTJ</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ESFJ</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ESTP</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ESFP</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=INTJ</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=INTP</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=INFJ</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=INFP</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ISTJ</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ISFJ</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ISTP</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://innermeter.app/results/mbti-test?result=ISFP</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- ── Result pages: destiny-age-test ───────────────── -->
+  <url><loc>https://innermeter.app/results/destiny-age-test?result=age-20s</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/destiny-age-test?result=age-30s</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/destiny-age-test?result=age-40s</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/destiny-age-test?result=age-50s</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: teto-egen-test ─────────────────── -->
+  <url><loc>https://innermeter.app/results/teto-egen-test?result=pure-teto</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/teto-egen-test?result=teto-lean</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/teto-egen-test?result=eigen-lean</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/teto-egen-test?result=pure-eigen</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/teto-egen-test?result=balanced-te</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: villain-type-test ──────────────── -->
+  <url><loc>https://innermeter.app/results/villain-type-test?result=narcissist</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/villain-type-test?result=obsessive</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/villain-type-test?result=cold</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/villain-type-test?result=timid</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: extreme-tf-test ────────────────── -->
+  <url><loc>https://innermeter.app/results/extreme-tf-test?result=extreme-T</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/extreme-tf-test?result=T-lean</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/extreme-tf-test?result=F-lean</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/extreme-tf-test?result=extreme-F</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: meddling-test ──────────────────── -->
+  <url><loc>https://innermeter.app/results/meddling-test?result=meddling-4</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/meddling-test?result=meddling-3</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/meddling-test?result=meddling-2</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/meddling-test?result=meddling-1</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: inner-child-test ───────────────── -->
+  <url><loc>https://innermeter.app/results/inner-child-test?result=inner-free</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/inner-child-test?result=rebel</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/inner-child-test?result=teen</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/inner-child-test?result=adult</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: love-villain-test ──────────────── -->
+  <url><loc>https://innermeter.app/results/love-villain-test?result=clingy</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/love-villain-test?result=cold</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/love-villain-test?result=jealous</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/love-villain-test?result=love-free</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: love-language-test ─────────────── -->
+  <url><loc>https://innermeter.app/results/love-language-test?result=words</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/love-language-test?result=acts</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/love-language-test?result=gifts</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/love-language-test?result=quality-time</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/love-language-test?result=touch</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: narcissist-test ────────────────── -->
+  <url><loc>https://innermeter.app/results/narcissist-test?result=narc-empath</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/narcissist-test?result=narc-healthy</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/narcissist-test?result=narc-covert</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/narcissist-test?result=narc-core</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ── Result pages: psychopath-test ────────────────── -->
+  <url><loc>https://innermeter.app/results/psychopath-test?result=psych-empath</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/psychopath-test?result=psych-rational</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/psychopath-test?result=psych-cold</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://innermeter.app/results/psychopath-test?result=psych-dark</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
 
 </urlset>
