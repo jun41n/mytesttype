@@ -78,12 +78,14 @@
       rel="stylesheet"
     />
 
+    <!-- Adsense -->
     <script
       async
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7780005617186465"
       crossorigin="anonymous"
     ></script>
 
+    <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-70BK9892B5"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -108,10 +110,6 @@
         box-sizing: border-box;
       }
 
-      html {
-        scroll-behavior: smooth;
-      }
-
       body {
         margin: 0;
         font-family: "Inter", sans-serif;
@@ -119,31 +117,14 @@
         background: var(--bg);
       }
 
+      #root {
+        min-height: 400px;
+      }
+
       .review-content {
         max-width: 980px;
-        margin: 0 auto;
-        padding: 56px 20px 32px;
-      }
-
-      .review-hero {
-        text-align: center;
-        margin-bottom: 28px;
-      }
-
-      .review-hero h1 {
-        margin: 0 0 14px;
-        font-size: clamp(32px, 5vw, 52px);
-        line-height: 1.15;
-        font-weight: 800;
-        letter-spacing: -0.03em;
-      }
-
-      .review-hero p {
-        max-width: 760px;
-        margin: 0 auto;
-        font-size: 18px;
-        line-height: 1.8;
-        color: var(--muted);
+        margin: 80px auto 40px;
+        padding: 0 20px;
       }
 
       .review-card {
@@ -157,32 +138,24 @@
       .review-card h2 {
         margin: 0 0 14px;
         font-size: 24px;
-        line-height: 1.35;
       }
 
       .review-card h3 {
-        margin: 28px 0 12px;
+        margin: 24px 0 10px;
         font-size: 18px;
-        line-height: 1.4;
       }
 
       .review-card p {
-        margin: 0 0 18px;
         font-size: 17px;
         line-height: 1.9;
-        color: #2f3142;
       }
 
       .review-card ul {
-        margin: 0 0 18px;
-        padding-left: 22px;
+        padding-left: 20px;
       }
 
       .review-card li {
-        margin: 0 0 10px;
-        font-size: 16px;
-        line-height: 1.8;
-        color: #2f3142;
+        margin-bottom: 8px;
       }
 
       .review-links {
@@ -193,28 +166,13 @@
       }
 
       .review-links a {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        min-height: 44px;
-        padding: 0 16px;
+        padding: 10px 16px;
         border-radius: 999px;
         border: 1px solid var(--line);
         color: var(--accent);
         text-decoration: none;
         font-weight: 600;
         background: #f7f2ff;
-      }
-
-      .review-note {
-        margin-top: 18px;
-        font-size: 14px;
-        line-height: 1.7;
-        color: var(--muted);
-      }
-
-      #root {
-        min-height: 200px;
       }
     </style>
 
@@ -223,25 +181,22 @@
   </head>
 
   <body>
+
+    <!-- 실제 테스트 앱 먼저 -->
+    <div id="root"></div>
+
+    <!-- 애드센스 승인용 소개 콘텐츠 (맨 아래) -->
     <main class="review-content">
-      <section class="review-hero">
-        <h1>InnerMeter 심리 테스트 플랫폼</h1>
+      <section class="review-card">
+        <h2>InnerMeter 소개</h2>
+
         <p>
           InnerMeter는 다양한 성격 테스트와 심리 콘텐츠를 제공하는 플랫폼입니다.
           사용자는 간단한 질문에 답하면서 자신의 성향, 연애 스타일, 심리 유형,
           감정 패턴을 재미있고 직관적으로 확인할 수 있습니다.
         </p>
-      </section>
 
-      <section class="review-card">
-        <h2>InnerMeter 소개</h2>
-
-        <p>
-          InnerMeter는 자기 탐색과 엔터테인먼트 경험을 동시에 제공하기 위해 만들어진
-          심리 테스트 서비스입니다.
-        </p>
-
-        <h3>현재 제공 중인 테스트 예시</h3>
+        <h3>현재 제공 중인 테스트</h3>
 
         <ul>
           <li>MBTI 성격 테스트</li>
@@ -261,20 +216,11 @@
           <a href="/tests">테스트 모음</a>
         </div>
 
-        <p class="review-note">
-          문의: <a href="mailto:meaningout_d@naver.com">meaningout_d@naver.com</a>
+        <p style="margin-top:20px;font-size:14px;color:#5f6370;">
+          문의: meaningout_d@naver.com
         </p>
       </section>
     </main>
 
-    <div id="root"></div>
-
-    <script
-      defer
-      src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516"
-      integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg=="
-      data-cf-beacon='{"version":"2024.11.0","token":"57303d803bfc488bb7ce5a5f65fb3301","r":1}'
-      crossorigin="anonymous"
-    ></script>
   </body>
 </html>
