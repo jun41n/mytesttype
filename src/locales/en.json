@@ -1,0 +1,863 @@
+{
+  "nav": {
+    "tests": "Tests",
+    "tarot": "Daily Tarot",
+    "about": "About",
+    "start": "Get Started",
+    "startLong": "Start Test"
+  },
+  "common": {
+    "startTest": "Start Test",
+    "minutes": "min",
+    "questionsUnit": "questions",
+    "next": "Next",
+    "back": "Back",
+    "seeResult": "See Result",
+    "retake": "Retake",
+    "saveImage": "Save Image",
+    "copyLink": "Copy Link",
+    "copied": "Copied ✓",
+    "catPersonality": "Personality",
+    "catLove": "Love",
+    "catFun": "Fun",
+    "catMbti": "MBTI",
+    "catFortune": "Fortune",
+    "shareResult": "Share Result",
+    "takeOther": "Try Another Test",
+    "viewAll": "View All",
+    "start": "Start",
+    "menuToggle": "Toggle menu"
+  },
+  "home": {
+    "badge": "The most fun way to discover yourself",
+    "title1": "What kind of",
+    "title2": "person am I?",
+    "title3": "Find out now",
+    "subtitle": "Personality, love & more — fun and accurate psychological analysis in 3 minutes.",
+    "ctaPrimary": "Start a Test →",
+    "ctaSecondary": "Browse Popular Tests",
+    "participants": "🎉 120,000 people have participated",
+    "trending": "🔥 Trending Now",
+    "trendingSub": "Most shared tests today",
+    "viewAll": "View All →",
+    "newSection": "✨ Just Released",
+    "newSub": "Brand new tests just added",
+    "moreTests": "More Tests",
+    "moreSub": "Explore all tests on various topics",
+    "totalCount": "Total: {{count}}",
+    "catSection": "What test interests you?",
+    "catPersonality": "Personality",
+    "catLove": "Love Type",
+    "catFun": "Just for Fun",
+    "catTarot": "Draw Tarot",
+    "tarotLabel": "🌙 New Card Every Day",
+    "tarotTitle": "What's your destiny card today?",
+    "tarotDesc": "Discover today's message about love, work, and energy with a single tarot card.",
+    "tarotCta": "🔮 Draw Your Card",
+    "kshamanHeadline": "Who will read\nyour destiny?",
+    "kshamanDesc1": "Baby Bosal reads with pure intuition.",
+    "kshamanDesc2": "Chunshin Doryeong finds the critical turning points.",
+    "kshamanDesc3": "Musog-in reads your life's flow.",
+    "kshamanDesc4": "Same birth chart, different voice from each reader.",
+    "kshamanCta": "🔮 See My Reading",
+    "kshamanHelper": "Same birth chart — each reader interprets differently",
+    "kshamanProof": "1,284 people got their reading today",
+    "kshamanKeywords": "Love Fortune · Wealth Fortune · Life Turning Point",
+    "kshamanLabel": "🔮 K-Shaman Reading",
+    "viewAllTests": "View All Tests ({{count}})"
+  },
+  "pages": {
+    "tests": {
+      "title": "Test Collection",
+      "subtitle": "Discover what you've always wondered about yourself. Explore the hidden sides of your personality through fun, insightful tests.",
+      "count": "{{count}} Tests",
+      "catAll": "All",
+      "empty": "No tests in this category."
+    },
+    "about": {
+      "title": "About InnerMeter",
+      "p1": "InnerMeter is a platform offering various personality tests and engaging psychological content.",
+      "p2": "Users can discover their tendencies, psychological type, and life flow through simple questions in a fun way.",
+      "p3": "InnerMeter's content is designed to provide experiences for self-exploration and entertainment.",
+      "testsTitle": "Available Tests (Examples)",
+      "tests": [
+        "What's My MBTI?",
+        "My Attachment Style Test",
+        "Intuition vs. Logic in My Head",
+        "How Deep Is My Hyper-Fixation?",
+        "Teto vs. Egen — Which Are You?",
+        "At What Age Does Your Life Peak?",
+        "K-Shaman Reading"
+      ],
+      "p4": "InnerMeter aims to help people understand themselves in a more interesting way and share results with friends.",
+      "disclaimer": "Fortune and divination content on this site is for entertainment purposes only."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "p1": "InnerMeter takes the protection of your personal information seriously.",
+      "p2": "This site may collect only the minimum information necessary to provide our services.",
+      "collectedTitle": "Information We May Collect",
+      "item1": "Date of birth",
+      "item2": "Gender",
+      "item3": "Country",
+      "p3": "This information is used solely for generating test results and improving user experience.",
+      "p4": "InnerMeter does not sell or share your personal information with third parties.",
+      "p5": "Visit statistics may be collected through analytics tools such as Google Analytics.",
+      "p6": "This information is used to improve the site and enhance content quality.",
+      "p7": "Users may discontinue use of the site at any time.",
+      "contactLink": "Contact page",
+      "p8Pre": "For inquiries, please contact us via our ",
+      "p8Post": ".",
+      "emailLabel": "Inquiry email",
+      "adTitle": "Advertising (Google AdSense)",
+      "adText": "InnerMeter uses Google AdSense to display advertisements. Google and third-party vendors use cookies to serve ads based on your prior visits to this or other websites. You may opt out of personalized advertising by visiting Google Ad Settings.",
+      "adLinkText": "Google Ad Settings"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "p1": "For inquiries related to InnerMeter services, please send us an email.",
+      "emailLabel": "Email",
+      "p2": "We will respond as quickly as possible.",
+      "p3": "Thank you."
+    },
+    "mbti_results": {
+      "traits": "Personality Traits",
+      "strengths": "Strengths",
+      "weaknesses": "Weaknesses",
+      "relationships": "Relationship Style",
+      "careers": "Career Recommendations",
+      "compatibility": "Compatibility",
+      "explore": "Explore Other MBTI Types",
+      "exploreDesc": "Curious about other personality types? Discover all 16 MBTI types."
+    }
+  },
+  "card": {
+    "start": "Start",
+    "participants": "joined"
+  },
+  "result": {
+    "resultBadge": "✨ {{title}} Result",
+    "cardTagline": {
+      "love": "Love Type Analysis",
+      "personality": "Personality Analysis",
+      "mbti": "MBTI Type",
+      "psychology": "Psychology Analysis",
+      "fun": "Fun Analysis",
+      "fortune": "Fortune Reading",
+      "tarot": "Tarot · Today's Fortune"
+    },
+    "strengths": "My Strengths",
+    "caution": "Things to Watch Out For",
+    "loveStyle": "Love Style",
+    "compatibleVibe": "Compatible Type",
+    "shareCardTitle": "Save & Share Result Card ✨",
+    "shareCardSub": "Save as image and share on social media!",
+    "shareMobile": "Share as Image (Mobile)",
+    "snsDivider": "Share on Social Media",
+    "shareTitle": "My {{testTitle}} result: {{resultTitle}}!",
+    "recommended": "Also Try These Tests 🎯",
+    "recommendedSub": "Tests that people with this result often try next",
+    "saveError": "Image save failed 😢\nTry taking a screenshot instead!"
+  },
+  "share": {
+    "copySuccess": "Link Copied! 🎉",
+    "copySuccessDesc": "Result link copied to clipboard.",
+    "copyError": "Copy Failed",
+    "copyErrorDesc": "Please try again.",
+    "shareOnApp": "Share on {{app}}",
+    "shareOnAppDesc": "Link copied! Paste it in the app.",
+    "pasteHint": "For Insta, TikTok & Kakao — copy the link then paste in the app",
+    "facebook": "Facebook",
+    "instagram": "Insta",
+    "instagramFull": "Instagram",
+    "kakao": "Kakao",
+    "kakaoFull": "KakaoTalk",
+    "tiktok": "TikTok",
+    "line": "LINE",
+    "threads": "Threads",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "tagline": "Discover your inner self in a fun and effortless way.",
+    "services": "Services",
+    "info": "Info",
+    "copyright": "© 2026 InnerMeter. All rights reserved.",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "terms": "Terms"
+  },
+  "seo": {
+    "home": {
+      "title": "InnerMeter — Personality & Psychology Tests",
+      "desc": "Who am I really? Personality, love style, MBTI, tarot, K-Shaman and more. Discover your inner self with 14 fun psychology tests."
+    },
+    "tests": {
+      "title": "All Tests | InnerMeter",
+      "desc": "Browse personality, love, MBTI, and psychology tests. Find the perfect test for you."
+    },
+    "tarot": {
+      "title": "Daily Tarot | InnerMeter",
+      "desc": "Draw 3 tarot cards and receive today's message about love, work, and your future."
+    },
+    "kshaman": {
+      "title": "K-Shaman Reading | InnerMeter",
+      "desc": "Get your Korean-style fortune reading from a spirit reader. Discover your life turning point with K-Shaman."
+    },
+    "about": {
+      "title": "About InnerMeter",
+      "desc": "InnerMeter is a platform offering personality, love, MBTI, and tarot tests."
+    },
+    "privacy": {
+      "title": "Privacy Policy | InnerMeter",
+      "desc": "Read the InnerMeter Privacy Policy."
+    },
+    "contact": {
+      "title": "Contact | InnerMeter",
+      "desc": "Have a question? Contact InnerMeter via email."
+    },
+    "terms": {
+      "title": "Terms of Service | InnerMeter",
+      "desc": "Read the InnerMeter Terms of Service."
+    }
+  },
+  "kshaman": {
+    "ui": {
+      "heading": "Who will read your destiny?",
+      "subtext": "Each spirit reader has a different voice and interpretation.\nChoose the one that calls to your heart.",
+      "footerNote": "Life Turning Point · Love Fortune · Wealth Fortune · Path to Success",
+      "backToPersona": "Choose Different Reader",
+      "formTitle": "Tell me your date of birth",
+      "formSubtitle": "The more accurate, the deeper the reading",
+      "birthYear": "Birth Year",
+      "yearPlaceholder": "e.g. 1995",
+      "monthLabel": "Month",
+      "dayLabel": "Day",
+      "monthSelect": "Select Month",
+      "daySelect": "Select Day",
+      "genderLabel": "Gender",
+      "female": "👩 Female",
+      "male": "👨 Male",
+      "readingBtn": "🔮 See My Reading",
+      "reEnter": "Re-enter",
+      "readingOf": "{{name}}'s Reading",
+      "turningBanner": "Life Turning Point",
+      "turningSubtext": "Your life's flow changes around this age",
+      "ageSuffix": "",
+      "saveImage": "Save Result Image",
+      "saveImageSaving": "Saving...",
+      "copyLink": "Copy Link",
+      "newReading": "New Reading",
+      "saveSuccess": "Image saved! 🔮",
+      "saveSuccessDesc": "Check your gallery.",
+      "saveError": "Save failed",
+      "saveErrorDesc": "Please try again.",
+      "copySuccess": "Link copied! 🎉",
+      "copySuccessDesc": "Share it with friends.",
+      "copyError": "Copy failed",
+      "copyErrorDesc": "Please try again.",
+      "successInfo": "Success: After age {{sa}} · Wealth: Ages {{ws}}–{{we}}",
+      "genderFemale": "Female",
+      "genderMale": "Male",
+      "cardReading": "{{name}}'s Reading",
+      "turningAge": "My Life Turning Point",
+      "shareText": "I got my K-Shaman fortune reading 🔮 Find out yours too!"
+    },
+    "lifeFlow": {
+      "early_hard": "Early Struggle Type",
+      "mid_rise": "Mid-Life Rise Type",
+      "late_success": "Late Bloomer Type",
+      "steady_rise": "Steady Rise Type"
+    },
+    "sec": {
+      "summary": "Overall Reading",
+      "inborn": "Your Innate Energy",
+      "turning": "Life Turning Point",
+      "success": "Path to Success",
+      "love": "Love Flow",
+      "wealth": "Wealth Flow",
+      "warning": "Caution Period"
+    },
+    "persona": {
+      "baby_bosal": {
+        "title": "Spirit of Innocence",
+        "vibe": "Friendly & intuitive, like a cheerful big sister"
+      },
+      "sunnyeo_bosal": {
+        "title": "Spirit of the Moon",
+        "vibe": "Elegant & mysterious, a graceful seeress"
+      },
+      "chunshin_doryeong": {
+        "title": "Spirit of the Sky",
+        "vibe": "Strong & direct, a bold celestial warrior"
+      },
+      "musog_in": {
+        "title": "Spirit of Tradition",
+        "vibe": "Honest & no-nonsense, the classic shaman"
+      },
+      "beopsa": {
+        "title": "Spirit of Wisdom",
+        "vibe": "Quiet & philosophical, a learned elder"
+      }
+    },
+    "speech": {
+      "baby_bosal": {
+        "summary": "Hmm~ looking at your flow, you're definitely a {{flow}} type! I can see something big shifting around age {{ta}}. Before then, things might feel stuck... but there's a reason for it, I promise.",
+        "inborn": "Here's the thing about you~ once your energy door opens, you just keep on rising! Sure, you might've had some tough patches early on, but all of that becomes your greatest strength later. Even if it's hard right now, hang in there~",
+        "turning": "Your life really changes around age {{ta}}, for real! It's not just a vague feeling — around then, something big shifts: your job, relationships, or even where you live. Don't be scared. Ride that wave!",
+        "success": "After age {{sa}}, things start falling into place in society~ Recognition starts coming in, and so does financial stability. When that moment arrives, all the hardship before will finally make sense.",
+        "love": "For love~ your energy comes in STRONG around ages {{la0}}, {{la1}}, and {{la2}}! The people you meet around these times could be seriously meaningful. Don't you dare let them pass you by!",
+        "wealth": "Financial fortune gradually stabilizes from age {{ws}} to {{we}}~ Instead of trying to make it big all at once, it's best to build steadily. Don't rush it~",
+        "warning": "Around ages {{wa0}} and {{wa1}}, please be a little careful! If you rush decisions or act on emotion during these times, you might regret it. Just pause for a moment and think it over. I'm rooting for you!"
+      },
+      "sunnyeo_bosal": {
+        "summary": "Your fortune flows gently... you carry the destiny of a {{flow}} path. Around age {{ta}}, I sense the currents of your life opening up beautifully in a new direction.",
+        "inborn": "You were born with an energy that, once your fortune's gate opens, flows endlessly without ceasing. Even if the path ahead seems unclear right now, know that good energy continues to surround you. Please, do not rush.",
+        "turning": "Around age {{ta}}, the energy of your life begins to flow anew. New connections and opportunities will naturally find their way to you during this time. Simply open your heart... and receive them.",
+        "success": "After age {{sa}}, the fruits of your long effort begin to ripen. The work you have quietly built up over time will finally shine in the light. Trust deeply in the process you are walking right now.",
+        "love": "The energy of love flows powerfully around ages {{la0}}, {{la1}}, and {{la2}}. The souls you encounter during these times are not mere coincidences — they may be deep, destined connections. Keep your heart open.",
+        "wealth": "The flow of wealth slowly and gracefully stabilizes from age {{ws}} to {{we}}. If you approach each small blessing with gratitude and sincerity... abundant energy will naturally follow.",
+        "warning": "Around ages {{wa0}} and {{wa1}}, please exercise great care in your decisions and relationships. Do not rush. First quiet your heart, then choose. These are periods that require wisdom to pass through gracefully."
+      },
+      "chunshin_doryeong": {
+        "summary": "{{flow}} — that's you. Age {{ta}} is your turning point. Prepare yourself before that moment arrives. That's where your path divides.",
+        "inborn": "Your innate energy is strong. Once your flow opens, nothing stops it. But you tend to carry everything alone — put some of that down.",
+        "turning": "Age {{ta}}. This is the turning point. You need to lock in your direction right here. Don't waver. Miss this window, and the next opportunity is a long way off.",
+        "success": "Achievement starts arriving at age {{sa}}. Everything you've built before shows results then. Don't let your guard down here. Keep pushing.",
+        "love": "Love energy hits hard at ages {{la0}}, {{la1}}, and {{la2}}. When the opportunity comes during those times — don't hesitate. Just go. Overthinking means losing everything.",
+        "wealth": "Wealth fortune opens from age {{ws}} to {{we}}. During this window, make decisive moves — investment, business, something. But absolutely no gambling. Build it clean.",
+        "warning": "Ages {{wa0}} and {{wa1}} — watch out. Reckless judgment here means deep regret. Stay sharp in these periods and you can seize what comes next."
+      },
+      "musog_in": {
+        "summary": "Looking at your life flow — you're a {{flow}} type. Around age {{ta}}, your fortune starts to wake up. Before that, there may be some blockages.",
+        "inborn": "Looking at your innate energy, your willpower is strong. You don't give up easily, you keep going steadily — and that's your biggest weapon.",
+        "turning": "Around age {{ta}}, your fortune makes a big shift. The flow changes after this period — don't be afraid of that change. You need to embrace it.",
+        "success": "After age {{sa}}, I see a flow of social stability and achievement coming in. Prepare well for this period and things will open up even wider.",
+        "love": "Looking at your love flow — strong connections come in around ages {{la0}}, {{la1}}, and {{la2}}. Don't overlook the people you meet during these times.",
+        "wealth": "Financial flow gradually stabilizes from age {{ws}} to {{we}}. Don't let greed take over during this period — that would scatter everything you've built.",
+        "warning": "Around ages {{wa0}} and {{wa1}}, be careful with your judgment. When making decisions during these times, think twice, three times, and listen to the people around you."
+      },
+      "beopsa": {
+        "summary": "You carry the destiny of a {{flow}} path. Around age {{ta}}, a significant turning point arrives in the flow of your life. Prepare yourself well for this time.",
+        "inborn": "Within you is a quiet, unshakeable strength. Though it may not be visible on the surface, you were born with an energy that always finds its center, no matter how great the difficulty.",
+        "turning": "Around age {{ta}}, the direction of your life will be determined. Do not rush. Think deeply, and choose with great care.",
+        "success": "After age {{sa}}, the fruits of long effort begin to become visible. Remember — the achievements of this time are not born from greed, but are the reward for your sincerity.",
+        "love": "The connections of love will arrive around ages {{la0}}, {{la1}}, and {{la2}}. Do not try to force them. Simply follow the heart that opens naturally during those times.",
+        "wealth": "From age {{ws}} to {{we}}, wealth stabilizes. To one who abandons greed and works with honesty, wealth will always return. Do not spend this period carelessly.",
+        "warning": "Around ages {{wa0}} and {{wa1}}, you must exercise caution. Do not rush your judgment. For any important decision, give it time and reflect deeply."
+      }
+    }
+  },
+  "tarot": {
+    "reading": {
+      "title": "Today's Tarot Reading",
+      "subtitle": "Choose 3 cards and explore your current flow",
+      "questionLabel": "Do you have a question or concern?",
+      "questionPlaceholder": "Example: love, work, relationships, choices, anxiety, future concerns",
+      "questionOptional": "(optional)",
+      "continueBtn": "Choose Cards",
+      "selectInstruction": "Select 3 cards for your reading",
+      "selectedCount": "Selected {{count}} / 3",
+      "readBtn": "Begin Reading",
+      "readBtnHint": "Select 3 cards to activate",
+      "position1": "Present Situation",
+      "position2": "Hidden Influence · Advice",
+      "position3": "Near Future · Direction",
+      "keywords": "Keywords",
+      "interpretation": "Interpretation",
+      "synthesisTitle": "Combined Reading",
+      "synthesisSubtitle": "A synthesis of all three cards",
+      "resetBtn": "Draw Again",
+      "caution": "Caution",
+      "snsDivider": "Share My Reading",
+      "shareTitle": "Today's 3-Card Tarot Reading",
+      "shareText": "My 3-card tarot today: {{cards}} ✨ mytesttype.com/tarot"
+    },
+    "cards": {
+      "fool": {
+        "name": "The Fool",
+        "keywords": ["beginnings", "potential", "impulse"],
+        "daily": "New beginning energy surrounds you. Balance enthusiasm with grounded preparation.",
+        "reading": {
+          "present": {
+            "headline": "A new journey is about to begin.",
+            "symbol": "The Fool stands at the cliff's edge, eyes skyward, full of innocent hope. His white rose symbolizes untouched potential. This card in the present position signals that a new chapter is opening in your life. The energy of fresh beginnings surrounds you right now.",
+            "advice": "Trust your instincts over perfect preparation. The courage to take the first step is what creates the path."
+          },
+          "advice": {
+            "headline": "A deep desire for freedom stirs beneath the surface.",
+            "symbol": "The Fool in this position reveals an intense inner longing for a fresh start that you may be hiding from yourself. Fear of judgment or practical worries are covering your true desires. The Fool's pack is light — examine which of your current burdens are real and which are imagined.",
+            "advice": "Listen to that untouched, innocent part of you that still knows what it truly wants. Strip away the fear and be honest with yourself."
+          },
+          "future": {
+            "headline": "An unexpected opportunity is about to unfold.",
+            "symbol": "The Fool in the future position strongly hints that an unplanned crossroads will soon appear before you. The opportunity may look risky or even absurd. Others may warn you against it. But the card is clear: that possibility is real. As the Fool steps forward and the ground appears beneath him, a path will form under your sincere steps.",
+            "advice": "Don't let the perfect moment pass you by while waiting for certainty. Embrace the new possibility with courage when it arrives."
+          }
+        }
+      },
+      "magician": {
+        "name": "The Magician",
+        "keywords": ["action", "will", "skill"],
+        "daily": "Today favors action. Your ability to turn ideas into reality is strong.",
+        "reading": {
+          "present": {
+            "headline": "All the tools you need are already in place.",
+            "symbol": "The Magician raises his wand skyward while all four elemental tools lie ready on his table. This card in the present position confirms you have the skill, knowledge, and resources to achieve your goal right now. Nothing essential is missing — only the decision to act.",
+            "advice": "Start immediately. You are already equipped. Channel your will into one decisive action right now."
+          },
+          "advice": {
+            "headline": "It's time to reclaim your hidden agency.",
+            "symbol": "The Magician in the hidden position signals that powerful untapped abilities lie dormant within you. You may be passively following someone else's lead or being swept along by circumstance. The Magician actively shapes reality — and so can you. Review what you actually control in this situation.",
+            "advice": "Don't look outside for authority. Consciously activate the skills and will you already possess."
+          },
+          "future": {
+            "headline": "Action will bring tangible results soon.",
+            "symbol": "The Magician in the future position tells you that your skills will soon translate into real, visible outcomes. Things you are preparing or have already started will begin to manifest. But the Magician's power comes from focus — spreading energy too thin dilutes the magic.",
+            "advice": "Don't scatter your energy. Pour everything into your one most important goal and results will appear faster than expected."
+          }
+        }
+      },
+      "high_priestess": {
+        "name": "The High Priestess",
+        "keywords": ["intuition", "mystery", "inner wisdom"],
+        "daily": "Trust your intuition today. Your feelings may be more accurate than logic.",
+        "reading": {
+          "present": {
+            "headline": "Something unseen is guiding the current situation.",
+            "symbol": "The High Priestess sits quietly before the veiled curtain, her gaze deep with silent wisdom. This card in the present position means that hidden information or unseen forces are influencing your situation. Rushing to conclusions is unwise — observe, listen to your intuition, and let things reveal themselves naturally.",
+            "advice": "Don't suppress unexplained feelings. The High Priestess says: what you sense instinctively is far closer to the truth."
+          },
+          "advice": {
+            "headline": "Your inner wisdom already knows the answer.",
+            "symbol": "The High Priestess in the hidden position suggests you may be relying too heavily on external advice or information. Listen to others, yes — but the most trustworthy voice right now comes from within you. Seek quiet moments. The answers to your most pressing questions may surface with surprising clarity when you stop and listen inward.",
+            "advice": "Create silence. Whether through meditation or a quiet walk, stillness is the prerequisite for hearing your inner voice."
+          },
+          "future": {
+            "headline": "With time, the truth will reveal itself.",
+            "symbol": "The High Priestess in the future position signals that what is currently unclear will become much clearer soon. What has been hidden behind the veil will slowly come to light, and answers to your pressing questions will emerge naturally. But forcing the truth out will only make it retreat deeper. The Priestess's time flows slowly and silently.",
+            "advice": "Don't rush to conclusions or force control over the situation. When the time comes, you will know what you need to know."
+          }
+        }
+      },
+      "empress": {
+        "name": "The Empress",
+        "keywords": ["abundance", "growth", "nurture"],
+        "daily": "Growth and abundance energy is present today. Take time to nurture yourself.",
+        "reading": {
+          "present": {
+            "headline": "Rich, nurturing energy flows around you right now.",
+            "symbol": "The Empress sits comfortably on a flower-filled earth, crowned with twelve stars, surrounded by ripened grain and forest. This card in the present position means fertile ground for growth has been prepared around you. Whatever you plant now — in business, relationships, or creative work — has excellent potential to flourish.",
+            "advice": "Keep tending whatever you are growing. No need to rush. The Empress knows that true growth requires time and patient care."
+          },
+          "advice": {
+            "headline": "Allow yourself to be nurtured first.",
+            "symbol": "The Empress in the hidden position gently reminds you that you may be pouring too much energy into others before filling your own reserves. The Empress is infinitely abundant because she nurtured herself first. You deserve time, pleasure, and rest without guilt. How full is your energy tank right now?",
+            "advice": "Caring for yourself is not selfish. Honestly assess what you most need right now, and fill that first."
+          },
+          "future": {
+            "headline": "The fruits of your efforts will slowly reveal themselves.",
+            "symbol": "The Empress in the future position foretells that what you have carefully nurtured will soon bear tangible results. Like a seed quietly taking root before it sprouts, the effort and dedication you have invested will begin appearing in visible form. This process does not happen suddenly — the Empress's growth follows the rhythm of nature.",
+            "advice": "Keep doing what you are doing. Growth is happening even when you cannot yet see it. A little more patience will reveal the harvest."
+          }
+        }
+      },
+      "emperor": {
+        "name": "The Emperor",
+        "keywords": ["authority", "structure", "control"],
+        "daily": "Structure and responsibility matter today. Set clear standards and stay consistent.",
+        "reading": {
+          "present": {
+            "headline": "A stable foundation and clear structure are needed now.",
+            "symbol": "The Emperor sits firmly on his stone throne, holding orb and scepter, armored beneath a red robe. This card in the present position signals that clear boundaries, structure, and consistent principles are needed in your current situation. Reason over emotion, planning over impulse, order over chaos — these are the most effective approaches now.",
+            "advice": "Set unshakable standards and maintain them consistently. The Emperor's power comes not from rigidity but from unwavering principle."
+          },
+          "advice": {
+            "headline": "You need to set clearer boundaries.",
+            "symbol": "The Emperor in the hidden position suggests that you may not be establishing sufficient boundaries in certain relationships or situations. A pattern of difficulty saying no and tolerating intrusions may be repeating. The Emperor is not about suppressing others — it is about knowing and protecting your own values and limits.",
+            "advice": "Clearly define what you can and cannot accept. Enforcing those boundaries gently but firmly is the right choice for you and everyone around you."
+          },
+          "future": {
+            "headline": "A period of stability and order is approaching.",
+            "symbol": "The Emperor in the future position foretells that current turbulence or instability will soon give way to structure and stability. The foundations being painfully laid now will solidify, and uncertain situations will begin to organize into predictable form. To make the most of this period, set clear goals now and pursue them consistently.",
+            "advice": "Begin building long-term structure now. Even small rules consistently kept will return as great stability later."
+          }
+        }
+      },
+      "hierophant": {
+        "name": "The Hierophant",
+        "keywords": ["tradition", "teaching", "faith"],
+        "daily": "Following established wisdom or trusted advice may help you today.",
+        "reading": {
+          "present": {
+            "headline": "A stable belief system and structure are supporting you.",
+            "symbol": "The Hierophant sits blessing two devotees, flanked by two pillars, surrounded by symbols of tradition and authority. This card in the present position means that proven methods, trustworthy systems, or the wisdom of a teacher or mentor are playing an important role right now. Following collective wisdom over individual impulse may be the safer and more effective choice.",
+            "advice": "Don't hesitate to seek advice from someone trustworthy or to follow an already-proven method. Opening your mind to shared wisdom is what you need right now."
+          },
+          "advice": {
+            "headline": "Let go of the stubbornness to solve everything alone.",
+            "symbol": "The Hierophant in the hidden position suggests you may be either excessively rejecting external wisdom or blindly following it. Both extremes block growth. True learning is receiving external wisdom with an open mind and then adapting it thoughtfully to your own situation.",
+            "advice": "What you need now is to seriously listen to someone with more experience than you. Seeking advice is not weakness — it is wisdom."
+          },
+          "future": {
+            "headline": "A period of recognition and support is coming.",
+            "symbol": "The Hierophant in the future position foretells that external recognition, important endorsement, or significant advice from a trusted figure may soon arrive. A teacher, mentor, superior, or trusted community may acknowledge your efforts. This card also connects to formal education, certifications, or official roles within an organization.",
+            "advice": "Don't ignore formal channels. Working within proven structures and systems may be the fastest path at this time."
+          }
+        }
+      },
+      "lovers": {
+        "name": "The Lovers",
+        "keywords": ["choice", "relationship", "harmony"],
+        "daily": "Today, let your values guide your choices in relationships and decisions.",
+        "reading": {
+          "present": {
+            "headline": "An important choice stands before you.",
+            "symbol": "The Lovers card shows two figures beneath an angel spreading arms in sunlight. This is not merely about romance — it is a deep question about how you will live, who you will choose, and what you will give up. An important decision awaits you, and it must be made according to your true values and heart's voice, not short-term convenience.",
+            "advice": "Make the choice that comes from your heart, not the convenient one. Look honestly at what you truly want before you decide."
+          },
+          "advice": {
+            "headline": "Check the harmony between your relationships and your values.",
+            "symbol": "The Lovers in the hidden position suggests that somewhere in your life, an important relationship or choice is conflicting with your deepest values. Something may look fine on the surface, but your deepest self questions whether it truly fits you. The desire to be loved or to avoid conflict may be silencing your authentic voice.",
+            "advice": "Check whether your closest relationships and most important choices align with your true self. Don't postpone this examination, even if it feels uncomfortable."
+          },
+          "future": {
+            "headline": "The results of your choices will become clear.",
+            "symbol": "The Lovers in the future position foretells that the outcome of choices you are currently deliberating or postponing will soon become visible. If a good choice was made, harmony and inner peace will follow. If misaligned choices are still being delayed, the tension will surface. Either way, this card teaches that honest choices ultimately lead to better outcomes.",
+            "advice": "If there is something you have not yet decided, stop postponing. A choice made with sincerity always points in the right direction."
+          }
+        }
+      },
+      "chariot": {
+        "name": "The Chariot",
+        "keywords": ["drive", "willpower", "victory"],
+        "daily": "Move forward with strong will today. Don't stop even when obstacles appear.",
+        "reading": {
+          "present": {
+            "headline": "Powerful momentum is with you right now.",
+            "symbol": "The charioteer drives two sphinxes pulling in opposite directions through sheer willpower alone. Armored and crowned with stars, his posture is resolute. This card in the present position signals that you have strong momentum and focused energy toward victory. Despite internal and external conflicts, willpower and discipline can carry you through to your goal.",
+            "advice": "Harness this energy fully. With a clear goal and unwavering focus, no obstacle can stop you right now."
+          },
+          "advice": {
+            "headline": "You need to integrate internal conflicts first.",
+            "symbol": "The Chariot in the hidden position suggests that before directing your energy outward, you need to resolve your inner conflicts. Just as the charioteer must control both horses to move forward, you need to bring your conflicting inner desires into alignment. If you know the direction but keep getting pulled elsewhere, or know what to do but can't act — that inner conflict is what's holding you back.",
+            "advice": "First identify what is conflicting within you. Once you understand the source of conflict, you can integrate it and move forward."
+          },
+          "future": {
+            "headline": "A victory bringing you closer to your goal is approaching.",
+            "symbol": "The Chariot in the future position strongly foretells that your current effort and focus will soon lead to concrete results. Even if obstacles appear, the experience of overcoming them will come, and a breakthrough toward your goal will open. This victory is not accidental — the concentration and self-discipline of this moment are what create that result.",
+            "advice": "Maintain your current speed and focus. The finish line is much closer than you think. Don't stop."
+          }
+        }
+      },
+      "strength": {
+        "name": "Strength",
+        "keywords": ["courage", "patience", "inner strength"],
+        "daily": "Inner strength and patience are key today. A gentle approach may be more effective than force.",
+        "reading": {
+          "present": {
+            "headline": "Gentleness is the greatest power available to you right now.",
+            "symbol": "The woman in the Strength card quietly holds the lion's mouth with both hands — taming wildness not through force or violence, but through love and patience. This card in the present position means the situation before you cannot be resolved by pushing harder. Patience, empathy, and deep inner calm are the most needed weapons right now.",
+            "advice": "Choose patience over force. Acknowledge the fear or urgency you feel, but don't be swept away by it. Inner stillness is the strongest power to guide this situation."
+          },
+          "advice": {
+            "headline": "Look at your own shadow side with gentleness.",
+            "symbol": "Strength in the hidden position suggests you may be suppressing or avoiding your own fears, anger, or impulsive parts. Like the woman with the lion, what's needed is not to forcibly eliminate the dark side within — but to acknowledge it and gently soothe it. Suppressed emotions don't disappear. They burst out in larger, less controllable ways. Meet those emotions with gentleness now, before that happens.",
+            "advice": "Don't fear the darker emotions within you. When you can acknowledge and simply observe them without judgment, true inner power finally reveals itself."
+          },
+          "future": {
+            "headline": "After a period of patience, gradual progress will emerge.",
+            "symbol": "Strength in the future position tells you that the difficulty or challenge you are currently experiencing is not endless — it is a process of strengthening your inner core. When the period of patience ends, you will find yourself far stronger than before. Not sudden change, but steady, certain improvement is the flow that awaits.",
+            "advice": "Don't give up. This period of endurance will become the time you are most proud of later. You are advancing slowly but surely."
+          }
+        }
+      },
+      "hermit": {
+        "name": "The Hermit",
+        "keywords": ["reflection", "solitude", "wisdom"],
+        "daily": "Take quiet time for self-reflection today. Seek answers in solitude.",
+        "reading": {
+          "present": {
+            "headline": "Now is the time to turn your gaze inward.",
+            "symbol": "The Hermit stands alone atop a snow-covered mountain, holding a lantern — not to illuminate the outside world, but to light his own inner path. This card in the present position means that what you most need right now is not external activity or connection with others, but deep inner exploration and time alone. Quiet the world's noise and focus on your own authentic voice.",
+            "advice": "Don't avoid time alone. Solitude is not loneliness. The reflection and wisdom you need right now can only be drawn from a quiet inner space."
+          },
+          "advice": {
+            "headline": "You need to distinguish between loneliness and solitude.",
+            "symbol": "The Hermit in the hidden position suggests it is time to distinguish whether you genuinely need time alone, or whether you are choosing isolation to avoid loneliness. Solitude for meaningful inner exploration charges your energy. But avoidant isolation born from fear creates deeper emptiness. Honestly examine which direction your alone-time is heading.",
+            "advice": "Distinguish whether what you truly need is inner reflection or connection and communication. Sometimes, opening your heart honestly to the right person is the wisest hermit's choice."
+          },
+          "future": {
+            "headline": "After reflection, a clear direction will begin to emerge.",
+            "symbol": "The Hermit in the future position foretells that what currently feels complex and unclear will soon organize itself into much greater clarity. Just as the Hermit's lantern lights the path one step at a time in darkness, your current inner exploration and quiet waiting will naturally reveal the direction you need. This clarity cannot be hurried — sufficient time for reflection must come first.",
+            "advice": "Don't rush. The wisest action right now is to wait for the right time. Decisions made after sufficient inner reflection will be the ones you regret least."
+          }
+        }
+      },
+      "wheel": {
+        "name": "Wheel of Fortune",
+        "keywords": ["change", "cycles", "fate"],
+        "daily": "Unexpected change or luck may come today. Stay flexible and go with the flow.",
+        "reading": {
+          "present": {
+            "headline": "A major turning point in life's great cycle is here.",
+            "symbol": "The Wheel of Fortune spins ceaselessly — what was above comes down, what was below rises up. This card in the present position means an important turning point has arrived or is arriving in your life. This change may not be something you intended, and it may come in unexpected ways. But the wheel always turns — current difficulties are not eternal, and current good circumstances require effort to maintain.",
+            "advice": "Don't resist the change. Rather than trying to control what's happening, the wiser choice is to flexibly ride the flow. The wheel turns, and your time will come."
+          },
+          "advice": {
+            "headline": "Accept the meaning of this period.",
+            "symbol": "The Wheel in the hidden position suggests that what you are experiencing is not mere coincidence — it is a necessity occurring within a larger cycle of life. The uncertainty and unpredictable changes you feel may actually be a preparation process guiding you toward a better direction. Resisting or trying to forcibly return to a previous state is like trying to spin the wheel backward.",
+            "advice": "There may be deeper meaning in what is currently happening. Accept the changes in circumstance as they are, and within them, seek the opportunities given to you."
+          },
+          "future": {
+            "headline": "A new phase will soon unfold.",
+            "symbol": "The Wheel of Fortune in the future position foretells that a new phase, different from the present, will begin soon. If you are in a difficult and frustrating period now, this is a hopeful signal that the wheel is turning and your time is coming. Conversely, if things are going well now, this is also a reminder not to neglect preparations to maintain and further develop this state. Change will definitely come.",
+            "advice": "Don't become complacent with the current situation. Preparing and flexibly welcoming the approaching change is the wisest attitude at this time."
+          }
+        }
+      },
+      "justice": {
+        "name": "Justice",
+        "keywords": ["balance", "truth", "accountability"],
+        "daily": "Fair and fact-based judgment is important today. Let reason guide your decisions.",
+        "reading": {
+          "present": {
+            "headline": "Truth and fairness are the core of the current situation.",
+            "symbol": "The Justice figure sits resolutely holding scales and a sword. The scales symbolize balance and fairness; the sword represents reason and clear judgment. This card in the present position means that truth, facts, and fair judgment are critically required in your current situation. Base your decisions on objective facts rather than emotional pulls, and take responsibility for your actions and decisions.",
+            "advice": "Set emotion aside momentarily and face the facts. Applying fair standards equally to yourself and others is the wisest choice right now."
+          },
+          "advice": {
+            "headline": "Assess yourself honestly and fairly.",
+            "symbol": "Justice in the hidden position suggests you may not be fully honest with yourself about the current situation, or may be under- or over-estimating your own role and responsibility. Are you seeing yourself as fairly as you judge others? Mistakes must be acknowledged; good actions must be acknowledged too. Justice does not allow being strict with oneself while lenient with others, or vice versa.",
+            "advice": "Stand before the mirror. The courage to see yourself fairly and honestly as you are is the most important thing you need right now."
+          },
+          "future": {
+            "headline": "Fair outcomes are coming.",
+            "symbol": "Justice in the future position foretells that in the near future, fair results of your actions and decisions so far will arrive. If you have worked hard and acted rightly, corresponding recognition or results will follow. If there are areas where you have avoided or not taken responsibility, consequences for those will also appear. Justice moves slowly, but it always arrives.",
+            "advice": "Every action you take now becomes a result. Consistently maintaining right action is the only way to create good outcomes in the future."
+          }
+        }
+      },
+      "hanged_man": {
+        "name": "The Hanged Man",
+        "keywords": ["pause", "perspective", "surrender"],
+        "daily": "Pause today and look at things from a new perspective rather than rushing.",
+        "reading": {
+          "present": {
+            "headline": "An intentional pause is the most powerful action right now.",
+            "symbol": "The Hanged Man dangles upside down from a tree by one ankle, yet his expression is remarkably serene. He accepts this not as punishment but as a voluntary choice to gain a new perspective. This card in the present position means this is a time when pausing and waiting is more necessary than forcing forward momentum. When you turn the world upside down, things previously invisible begin to be seen.",
+            "advice": "Don't try to force forward movement. Now is the time for waiting, observing, and gaining new perspective. Sometimes waiting for the boat is faster than swimming to cross the river."
+          },
+          "advice": {
+            "headline": "You need the courage to view the situation from a different angle.",
+            "symbol": "The Hanged Man in the hidden position warns that you may be viewing the situation from only one angle. Some of what you consider certain or obvious may actually be bias or stubbornness. What if you turned the world upside down like the Hanged Man? A perspective you have never considered before, a view from the opposite side, may contain the real solution to the current problem.",
+            "advice": "Question once more what you are convinced is right. Openly hearing opposing opinions or completely different perspectives may be the breakthrough you most need right now."
+          },
+          "future": {
+            "headline": "The waiting period ends and a new perspective opens.",
+            "symbol": "The Hanged Man in the future position foretells that the situation that now feels stuck or difficult will soon shift with a new perspective. The waiting and patience of now will open an entirely new viewpoint for you, which will reveal solutions and opportunities previously invisible. The time when stalled things begin to move is approaching.",
+            "advice": "Wait just a little longer. The stalled feeling right now is not permanent. When the waiting has ripened, answers will come from a completely unexpected direction."
+          }
+        }
+      },
+      "death": {
+        "name": "Death",
+        "keywords": ["transformation", "endings", "release"],
+        "daily": "Today, let go of the old and embrace new transformation without fear.",
+        "reading": {
+          "present": {
+            "headline": "One phase is ending and a new beginning is opening.",
+            "symbol": "The Death card's skeleton knight rides a white horse. Before it, kings, priests, and children all fall or kneel. This card does not mean literal death — it is a card of transformation, signaling that an important phase of life is concluding and a new chapter is beginning. If there are things in your life that no longer fit, things that have served their time, releasing them is the condition for a new beginning.",
+            "advice": "Check whether you are clinging to things that need to be let go. Endings are not loss — they are the process of creating new space. Have the courage to release the old."
+          },
+          "advice": {
+            "headline": "It is not fear but attachment that blocks transformation.",
+            "symbol": "Death in the hidden position suggests that you are clinging to something that should already have ended. It may be an old relationship, a past way of doing things, an outdated self-image, or a situation where the answer is already clear. Fear of change is a natural emotion, but you must look honestly at whether that fear is keeping you attached to something already dead. Letting go is the choice that will make you come alive again.",
+            "advice": "Make a list of things in your life that have already ended. A conscious ritual of releasing them is needed. Ending something is not giving up — it is a transition into new life."
+          },
+          "future": {
+            "headline": "After transformation, a new life unfolds.",
+            "symbol": "Death in the future position foretells that in the near future, an important phase will conclude and entirely new possibilities will open in its place. This ending may feel like loss, but it is simultaneously a starting point for new life. Just as winter must end for spring to come, the current conclusion creates space for a richer, more authentic new beginning that truly fits you.",
+            "advice": "Accept rather than resist the approaching change. What ends does not disappear — it transforms into another form. A new beginning is waiting for you."
+          }
+        }
+      },
+      "temperance": {
+        "name": "Temperance",
+        "keywords": ["balance", "moderation", "patience"],
+        "daily": "Seek balance and avoid extremes today. Move forward calmly without rushing.",
+        "reading": {
+          "present": {
+            "headline": "Balance and harmony are what you most need right now.",
+            "symbol": "The angel of Temperance flows water between two cups, maintaining equilibrium. One foot rests on water, one on land — embodying the middle ground between two worlds. This card in the present position means balance is an important theme in your life right now. Consider whether things have tilted too far in one direction — between work and rest, self and others, emotion and reason.",
+            "advice": "Avoid extremes. What you need now is not a fast decision or strong action, but the patient process of finding harmony slowly. Patience and moderation are your most powerful tools right now."
+          },
+          "advice": {
+            "headline": "Rushing may actually be pushing the goal further away.",
+            "symbol": "Temperance in the hidden position suggests that your urgency to get results too quickly may actually be making them more elusive. The angel of Temperance never rushes — the water flowing between the cups follows the rhythm of nature. The more artificially you try to speed things up, the more energy you waste and the more balance you lose.",
+            "advice": "Slow down. The fastest way to approach your goal right now is actually to move slowly and consistently. Practice letting go of impatience."
+          },
+          "future": {
+            "headline": "A stable, sustained flow is approaching.",
+            "symbol": "Temperance in the future position foretells that current chaos or imbalance will gradually settle into a stable, harmonious flow. This stability does not arrive suddenly — it is naturally created through the accumulation of temperance and patience. Move just a little more consistently, a little more balanced, and the stable state you desire will materialize.",
+            "advice": "Maintain your current direction. Consistent small adjustments create far more powerful and lasting change than extreme ones. Be patient."
+          }
+        }
+      },
+      "devil": {
+        "name": "The Devil",
+        "keywords": ["attachment", "bondage", "shadow"],
+        "daily": "Watch for excessive attachment or fear today. Reflect on what may be binding you.",
+        "reading": {
+          "present": {
+            "headline": "Invisible chains are binding you right now.",
+            "symbol": "In the Devil card, two figures are chained to the Devil, but the chains are surprisingly loose. They could free themselves at any moment, but they don't realize it. This card in the present position means you are currently trapped in some form of attachment, fear, addiction, or self-created limitation. Recognizing that the chains come not from outside but from within your own perception is the first step toward liberation.",
+            "advice": "Honestly look at what is making you feel chained right now. Distinguishing what is truly blocking you versus what is fear you have created is essential."
+          },
+          "advice": {
+            "headline": "Recognizing the shadow is the beginning of liberation.",
+            "symbol": "The Devil in the hidden position suggests that behind your current actions or decisions, dark motivations or impulses you yourself may not clearly recognize are operating. Fear, guilt, dependency, or harsh self-judgment may be influencing your choices. Continuing without recognizing this leads to repeating the same patterns. But the moment you recognize it, the chains loosen.",
+            "advice": "Look into the real motivations behind your actions. Without judgment, simply observing them as they are is enough to begin change."
+          },
+          "future": {
+            "headline": "Once recognized, liberation arrives.",
+            "symbol": "The Devil in the future position foretells that patterns of limitation or attachment you are dimly sensing will soon surface, and an opportunity to recognize and free yourself from them will come. This process may be uncomfortable. But what is revealed in the light is not meant to destroy you — it is meant to set you free. That moment of liberation is approaching.",
+            "advice": "Don't be afraid. What is revealed can be resolved. The courage to face your own shadow is what you most need now, and in that moment, true freedom begins."
+          }
+        }
+      },
+      "tower": {
+        "name": "The Tower",
+        "keywords": ["shock", "collapse", "sudden change"],
+        "daily": "Unexpected change may occur. Flexibility serves you better than rigidity today.",
+        "reading": {
+          "present": {
+            "headline": "Old structures are falling, but that is the beginning.",
+            "symbol": "In the Tower card, lightning strikes the tower's crown, figures fall from within. Shocking and frightening — but this destruction tears down what was built on an unstable foundation. This card in the present position means a sudden, chaotic change or shock is occurring in your life right now. Unexpected revelations, sudden shifts, or the collapse of plans. But this destruction is a necessary process for a stronger new foundation.",
+            "advice": "Don't resist — meet the upheaval with flexibility. The tower falling is not catastrophe; it is the process of correcting what was wrongly built. Now is the time to absorb the shock and envision a new foundation."
+          },
+          "advice": {
+            "headline": "Resistance to collapse creates greater suffering.",
+            "symbol": "The Tower in the hidden position suggests that your attempts to prevent what is collapsing are actually creating greater pain. When foundations are already shaking, trying to maintain the old form at any cost may cause an even greater collapse. The Tower card teaches that accepting uncontrollable change is actually the most practical choice.",
+            "advice": "Let go of resistance. Stop wasting energy on what you cannot change right now — focusing on rebuilding after the change is a far wiser strategy."
+          },
+          "future": {
+            "headline": "After destruction, a stronger new foundation is built.",
+            "symbol": "The Tower in the future position warns that unexpected shock or change may come in the near future. This is a frightening signal, but it also means you have time to prepare from now. And if you can understand that this change will ultimately create a stronger, more authentic new foundation, you can receive that shock with far greater flexibility.",
+            "advice": "Review vulnerable areas in your life and things built on unstable foundations now. Voluntarily restructuring them can significantly reduce the impact of future shocks."
+          }
+        }
+      },
+      "star": {
+        "name": "The Star",
+        "keywords": ["hope", "healing", "inspiration"],
+        "daily": "Hopeful energy is present today. Believe in yourself and move forward.",
+        "reading": {
+          "present": {
+            "headline": "Healing and hopeful energy wraps around you right now.",
+            "symbol": "The Star's figure pours water from two vessels under a star-lit sky — one into the earth, one into the river. This gentle sharing symbolizes healing, fullness, and hope. This card in the present position means healing and restoration energy is flowing through your life. It is a time when light returns after darkness, or the beginning of such energy.",
+            "advice": "Hold onto hope. The small light you feel right now, the small signals of recovery — they are real. Trust yourself and keep moving toward that light."
+          },
+          "advice": {
+            "headline": "Share the light you carry with the world.",
+            "symbol": "The Star in the hidden position suggests that healing and inspirational energy exists within you, but you are not fully expressing or sharing it. Just as the Star's figure shares water with both land and river, you receive greater energy when you share what you have — your experiences, wisdom, love, and talent — with those around you. Don't underestimate the value of what you already possess.",
+            "advice": "Are you ready to share what you already know, have experienced, and have healed from? Sharing returns to you as even greater fullness."
+          },
+          "future": {
+            "headline": "Positive change is slowly approaching.",
+            "symbol": "The Star in the future position promises that even if you are in a difficult, dark period now, a moment when light returns will come in the near future. The time when healing, hope, and inspiration begin to enter your life is approaching. This is not a sudden change — like starlight slowly illuminating darkness, things will improve quietly but certainly.",
+            "advice": "No matter how dark it is right now, don't give up. Stars shine brightest on the darkest nights. Your brightest time is approaching."
+          }
+        }
+      },
+      "moon": {
+        "name": "The Moon",
+        "keywords": ["illusion", "anxiety", "intuition"],
+        "daily": "Don't take things at face value today. Trust your intuition over appearances.",
+        "reading": {
+          "present": {
+            "headline": "Even amid confusion, don't let go of intuition's light.",
+            "symbol": "In the Moon card, the full moon rises between two towers while a dog and wolf bay beneath and a crayfish crawls from the water. Moonlight is beautiful but shifting and illusory. This card in the present position means your current situation is uncertain, ambiguous, and hard to read for truth. Fear, anxiety, or illusions may be clouding your judgment. In this moonlight, the key is following the voice of intuition without panic.",
+            "advice": "Follow intuition over fear. Just because things are not clearly visible doesn't mean there is no direction. Your gut feeling right now may be more accurate than logic."
+          },
+          "advice": {
+            "headline": "What you fear may not be real.",
+            "symbol": "The Moon in the hidden position warns that fear-based illusions are significantly influencing your judgment and decisions. Things seen in moonlight can be amplified or distorted from reality. Calmly examine whether what you are currently worried about or afraid of is truly as dangerous as it seems, or whether you are seeing a shadow created by moonlight as if it were real.",
+            "advice": "Coolly face reality. The first thing to do is distinguish whether the source of your current anxiety is real or an illusion. Talking with a trustworthy person helps."
+          },
+          "future": {
+            "headline": "Once confusion passes, the situation will become clear.",
+            "symbol": "The Moon in the future position foretells that while the current uncertain and confusing period may continue for a while, once this moonlit period ends, a much clearer reality will emerge. What you see now is not everything. Just as moonlit shadows reveal their true shapes when morning comes, current confusion will resolve with time. During this process, trusting intuition over fear is crucial.",
+            "advice": "Clarity will certainly come. Remember that current confusion is not permanent. When the moon sets, the sun rises. Wait just a little longer — the current fog will lift."
+          }
+        }
+      },
+      "sun": {
+        "name": "The Sun",
+        "keywords": ["success", "clarity", "joy"],
+        "daily": "Bright, positive energy is present. Move through the day with confidence and joy.",
+        "reading": {
+          "present": {
+            "headline": "Light and clarity are beside you right now.",
+            "symbol": "In the Sun card, a child sits on horseback with arms spread wide beneath a radiant sun — pure joy, confidence, and total trust in life. This card in the present position means your life has bright energy, clarity, and a strong flow toward success. Something long awaited may bear fruit, or a confusing situation may suddenly clarify. This is the time to move forward with confidence.",
+            "advice": "Be confident. The bright energy you feel right now is not an illusion. Fully enjoy this moment and use that energy abundantly to move forward."
+          },
+          "advice": {
+            "headline": "Don't hide your light.",
+            "symbol": "The Sun in the hidden position suggests that abundant energy, talent, and joy already exist within you, but you are not expressing them sufficiently. Check whether you are being too humbly self-effacing, or suppressing yourself because shining feels burdensome. The sun does not disappear when covered by clouds. Your light is the same.",
+            "advice": "Show the talent and joy you have to the world more boldly. The more brightly your light shines, the more the surroundings also brighten. Shining is not a crime."
+          },
+          "future": {
+            "headline": "Good results and success are approaching.",
+            "symbol": "The Sun in the future position is one of the most powerful and hopeful signals. The time when what you are pursuing and working toward bears fruit is approaching. Success, recognition, clarity, and genuine joy are coming. To make the most of this positive flow, keep doing what you are doing and maintain confidence.",
+            "advice": "You may look forward with good expectations. In the near future, an experience of what you have wanted becoming reality will come. Don't stop your current efforts."
+          }
+        }
+      },
+      "judgment": {
+        "name": "Judgement",
+        "keywords": ["awakening", "renewal", "reckoning"],
+        "daily": "Today is a chance to clear the old and start fresh. Use what you have learned from the past.",
+        "reading": {
+          "present": {
+            "headline": "A moment of deep awakening has arrived.",
+            "symbol": "In the Judgement card, the angel Gabriel blows a trumpet and the dead rise from their tombs at its sound. This is not judgment — it is a summons. A call to rise for a higher purpose. This card in the present position means an important awakening, realization, or call toward a new vocation is occurring in your life. Old limitations and past self are being shed, and a moment of rebirth into a more authentic, essential self is approaching.",
+            "advice": "Don't fear this awakening. The inner calling you feel right now is real. Allow yourself to let go of the past self and rise into a more authentic version of yourself."
+          },
+          "advice": {
+            "headline": "It is time to clear the past and move to the next step.",
+            "symbol": "Judgement in the hidden position suggests you have not fully released the past. Past mistakes, regrets, or old wounds may be preventing you from moving forward. The Judgement card symbolizes not condemnation but forgiveness and liberation. Acknowledging your past as it was, taking what you learned from it, and setting down its weight to advance to a new level is the process needed now.",
+            "advice": "Forgive yourself. The past cannot be changed, but the past does not define you. Rise anew in this moment as someone who has learned from it."
+          },
+          "future": {
+            "headline": "A moment of important transition is approaching.",
+            "symbol": "Judgement in the future position foretells that an important moment of awakening and transition will come to your life in the near future. It may be an important decision, the conclusion of a long situation, or a call toward an entirely new direction. This moment may come without warning, but what you are building now serves as preparation for that transition. Begin listening to your inner voice now so you can respond without fear when the moment comes.",
+            "advice": "Prepare to meet change. When the moment of important decision approaches, responding with awakened consciousness rather than fear is what carries your life to the next level."
+          }
+        }
+      },
+      "world": {
+        "name": "The World",
+        "keywords": ["completion", "integration", "fulfillment"],
+        "daily": "Today may bring the fruits of your efforts. Acknowledge your achievement and prepare for what's next.",
+        "reading": {
+          "present": {
+            "headline": "An important cycle is completing itself.",
+            "symbol": "In the World card, a figure dances suspended in the air holding a laurel wreath. The wreath surrounding her symbolizes completion; the four creatures at the corners represent full integration. This card in the present position means something you have worked toward for a long time is now near completion, or an important chapter of life is concluding. Fully celebrate and acknowledge this completion — it becomes the energy for the next new beginning.",
+            "advice": "Fully acknowledge what you have achieved right now. Humility is good, but excessively undervaluing your own accomplishments helps no one. Fully enjoy this moment."
+          },
+          "advice": {
+            "headline": "Savor the meaning of completion fully.",
+            "symbol": "The World in the hidden position suggests that even though you have already completed or are near completing something important, you are not fully acknowledging or enjoying it. Always rushing to the next goal and next task means missing the fullness of this present moment. The World card advises taking time to stop, look back, and accept what you have achieved as it is. Unintegrated achievement provides no real satisfaction.",
+            "advice": "Stop and look back. You need time to fully savor how far you've come and what you have achieved. That fullness becomes the true starting point for the next journey."
+          },
+          "future": {
+            "headline": "A beginning of a new dimension awaits you.",
+            "symbol": "The World in the future position is about as powerful and positive a future signal as there can be. What you are currently working toward is on the path to completion, and in the near future, that fulfillment will open possibilities of a new dimension. This completion is not an ending — it is a new starting point in a larger spiral journey. Keep doing what you are doing.",
+            "advice": "Move forward with expectation and excitement. The direction you are heading is right. The moment of completion is approaching, and beyond it, a wider, more abundant world awaits."
+          }
+        }
+      }
+    }
+  }
+}

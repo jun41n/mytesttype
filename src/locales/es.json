@@ -1,0 +1,813 @@
+{
+  "nav": {
+    "tests": "Tests",
+    "tarot": "Tarot de Hoy",
+    "about": "Acerca de",
+    "start": "Empezar",
+    "startLong": "Iniciar Test"
+  },
+  "common": {
+    "startTest": "Iniciar Test",
+    "minutes": "min",
+    "questionsUnit": "preguntas",
+    "next": "Siguiente",
+    "back": "Atrás",
+    "seeResult": "Ver Resultado",
+    "retake": "Repetir",
+    "saveImage": "Guardar Imagen",
+    "copyLink": "Copiar Enlace",
+    "copied": "Copiado ✓",
+    "catPersonality": "Personalidad",
+    "catLove": "Amor",
+    "catFun": "Diversión",
+    "catMbti": "MBTI",
+    "catFortune": "Fortuna",
+    "shareResult": "Compartir Resultado",
+    "takeOther": "Probar Otro Test",
+    "viewAll": "Ver Todo",
+    "start": "Iniciar",
+    "menuToggle": "Abrir menú"
+  },
+  "home": {
+    "badge": "La forma más divertida de conocerte",
+    "title1": "¿Qué tipo de",
+    "title2": "persona soy?",
+    "title3": "Descúbrelo ahora",
+    "subtitle": "Personalidad, amor y más — análisis psicológico divertido y preciso en 3 minutos.",
+    "ctaPrimary": "Iniciar Test →",
+    "ctaSecondary": "Ver Tests Populares",
+    "participants": "🎉 120.000 personas han participado",
+    "trending": "🔥 Tendencias",
+    "trendingSub": "Los tests más compartidos hoy",
+    "viewAll": "Ver Todo →",
+    "newSection": "✨ Recién Lanzado",
+    "newSub": "Tests nuevos recién añadidos",
+    "moreTests": "Más Tests",
+    "moreSub": "Explora todos los tests de distintos temas",
+    "totalCount": "Total: {{count}}",
+    "catSection": "¿Qué test te interesa?",
+    "catPersonality": "Personalidad",
+    "catLove": "Tipo Amoroso",
+    "catFun": "Solo por Diversión",
+    "catTarot": "Tirar Tarot",
+    "tarotLabel": "🌙 Nueva carta cada día",
+    "tarotTitle": "¿Cuál es tu carta del destino hoy?",
+    "tarotDesc": "Descubre el mensaje de hoy sobre amor, trabajo y energía con una sola carta de tarot.",
+    "tarotCta": "🔮 Sacar mi carta",
+    "kshamanHeadline": "¿Quién leerá\ntu destino?",
+    "kshamanDesc1": "애기보살 lee con pura intuición.",
+    "kshamanDesc2": "천신도령 señala los momentos decisivos.",
+    "kshamanDesc3": "무속인 lee el flujo de tu vida.",
+    "kshamanDesc4": "Misma carta natal, voz diferente de cada lector.",
+    "kshamanCta": "🔮 Ver mi lectura",
+    "kshamanHelper": "Misma carta natal — cada lector interpreta diferente",
+    "kshamanProof": "1.284 personas recibieron su lectura hoy",
+    "kshamanKeywords": "Fortuna amorosa · Fortuna financiera · Punto de inflexión vital",
+    "kshamanLabel": "🔮 Lectura K-Shaman",
+    "viewAllTests": "Ver Todos los Tests ({{count}})"
+  },
+  "pages": {
+    "tests": {
+      "title": "Colección de Tests",
+      "subtitle": "Descubre lo que siempre quisiste saber de ti mismo. Analiza los lados ocultos de tu personalidad de forma divertida.",
+      "count": "{{count}} Tests",
+      "catAll": "Todos",
+      "empty": "No hay tests en esta categoría."
+    },
+    "about": {
+      "title": "Acerca de InnerMeter",
+      "p1": "InnerMeter es una plataforma que ofrece varios tests de personalidad y contenido psicológico interesante.",
+      "p2": "Los usuarios pueden descubrir sus tendencias, tipo psicológico y flujo de vida a través de preguntas simples de forma divertida.",
+      "p3": "El contenido de InnerMeter está diseñado para proporcionar experiencias de autoexploración y entretenimiento.",
+      "testsTitle": "Ejemplos de Tests Disponibles",
+      "tests": [
+        "Test de Personalidad MBTI",
+        "Test de Estilo de Apego",
+        "Test de Intuición vs. Lógica",
+        "Test de Hiperfijación",
+        "Test Teto vs. Egen",
+        "Test de la Edad de Tu Éxito",
+        "K-Shaman Reading"
+      ],
+      "p4": "InnerMeter tiene como objetivo ayudar a las personas a entenderse de manera más interesante y compartir resultados con amigos.",
+      "disclaimer": "El contenido de astrología y adivinación en este sitio es solo para fines de entretenimiento."
+    },
+    "privacy": {
+      "title": "Política de Privacidad",
+      "p1": "InnerMeter toma en serio la protección de tu información personal.",
+      "p2": "Este sitio puede recopilar solo la información mínima necesaria para proporcionar nuestros servicios.",
+      "collectedTitle": "Información que Podemos Recopilar",
+      "item1": "Fecha de nacimiento",
+      "item2": "Género",
+      "item3": "País",
+      "p3": "Esta información se utiliza únicamente para generar resultados de tests y mejorar la experiencia del usuario.",
+      "p4": "InnerMeter no vende ni comparte tu información personal con terceros.",
+      "p5": "Podemos recopilar estadísticas de visitas a través de herramientas de análisis como Google Analytics.",
+      "p6": "Esta información se utiliza para mejorar el sitio y la calidad del contenido.",
+      "p7": "Los usuarios pueden dejar de usar el sitio en cualquier momento.",
+      "contactLink": "página de contacto",
+      "p8Pre": "Para consultas, contáctanos a través de nuestra ",
+      "p8Post": ".",
+      "emailLabel": "Email de contacto"
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "p1": "Para consultas sobre los servicios de InnerMeter, envíanos un correo electrónico.",
+      "emailLabel": "Email",
+      "p2": "Responderemos lo antes posible.",
+      "p3": "Gracias."
+    },
+    "mbti_results": {
+      "traits": "Rasgos de Personalidad",
+      "strengths": "Fortalezas",
+      "weaknesses": "Debilidades",
+      "relationships": "Estilo en las Relaciones",
+      "careers": "Carreras Recomendadas",
+      "compatibility": "Compatibilidad",
+      "explore": "Explorar Otros Tipos MBTI",
+      "exploreDesc": "¿Curioso por otros tipos de personalidad? Descubre los 16 tipos MBTI."
+    }
+  },
+  "card": {
+    "start": "Iniciar",
+    "participants": "participaron"
+  },
+  "result": {
+    "resultBadge": "✨ Resultado de {{title}}",
+    "cardTagline": {
+      "love": "Análisis de Amor",
+      "personality": "Análisis de Personalidad",
+      "mbti": "Tipo MBTI",
+      "psychology": "Análisis Psicológico",
+      "fun": "Análisis Divertido",
+      "fortune": "Lectura de Fortuna",
+      "tarot": "Tarot · Fortuna de Hoy"
+    },
+    "strengths": "Mis Fortalezas",
+    "caution": "Cosas a Tener en Cuenta",
+    "loveStyle": "Estilo Amoroso",
+    "compatibleVibe": "Tipo Compatible",
+    "shareCardTitle": "Guardar y Compartir Resultado ✨",
+    "shareCardSub": "¡Guarda como imagen y comparte en redes sociales!",
+    "shareMobile": "Compartir como Imagen (Móvil)",
+    "snsDivider": "Compartir en Redes Sociales",
+    "shareTitle": "¡Mi resultado de {{testTitle}}: {{resultTitle}}!",
+    "recommended": "También Prueba Estos Tests 🎯",
+    "recommendedSub": "Tests que la gente con este resultado suele probar a continuación",
+    "saveError": "Error al guardar la imagen 😢\n¡Intenta tomar una captura de pantalla!"
+  },
+  "share": {
+    "copySuccess": "¡Enlace copiado! 🎉",
+    "copySuccessDesc": "Enlace copiado al portapapeles.",
+    "copyError": "Error al copiar",
+    "copyErrorDesc": "Por favor intenta de nuevo.",
+    "shareOnApp": "Compartir en {{app}}",
+    "shareOnAppDesc": "¡Enlace copiado! Pégalo en la app.",
+    "pasteHint": "Para Insta, TikTok y Kakao — copia el enlace y pégalo en la app",
+    "facebook": "Facebook",
+    "instagram": "Insta",
+    "instagramFull": "Instagram",
+    "kakao": "Kakao",
+    "kakaoFull": "KakaoTalk",
+    "tiktok": "TikTok",
+    "line": "LINE",
+    "threads": "Threads",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "tagline": "Descubre tu interior de forma ligera y divertida.",
+    "services": "Servicios",
+    "info": "Información",
+    "copyright": "© 2026 InnerMeter. Todos los derechos reservados.",
+    "about": "Acerca de",
+    "privacy": "Privacidad",
+    "contact": "Contacto",
+    "terms": "Términos"
+  },
+  "seo": {
+    "home": {
+      "title": "InnerMeter — Tests de Personalidad y Psicología",
+      "desc": "¿Quién soy realmente? Personalidad, estilo de amor, MBTI, tarot, K-Shaman y más. Descubre tu interior con 14 divertidos tests."
+    },
+    "tests": {
+      "title": "Todos los Tests | InnerMeter",
+      "desc": "Explora tests de personalidad, amor, MBTI y psicología. Encuentra el test perfecto para ti."
+    },
+    "tarot": {
+      "title": "Tarot del Día | InnerMeter",
+      "desc": "Elige 3 cartas del tarot y recibe el mensaje de hoy sobre el amor, el trabajo y tu futuro."
+    },
+    "kshaman": {
+      "title": "Lectura K-Shaman | InnerMeter",
+      "desc": "Obtén tu lectura de fortuna al estilo coreano. Descubre tu punto de inflexión vital con K-Shaman."
+    },
+    "about": {
+      "title": "Acerca de InnerMeter",
+      "desc": "InnerMeter es una plataforma de tests de personalidad, amor, MBTI y tarot."
+    },
+    "privacy": {
+      "title": "Política de Privacidad | InnerMeter",
+      "desc": "Lee la Política de Privacidad de InnerMeter."
+    },
+    "contact": {
+      "title": "Contacto | InnerMeter",
+      "desc": "¿Tienes alguna pregunta? Contacta a InnerMeter por correo electrónico."
+    },
+    "terms": {
+      "title": "Términos de Servicio | InnerMeter",
+      "desc": "Lee los Términos de Servicio de InnerMeter."
+    }
+  },
+  "kshaman": {
+    "ui": {
+      "heading": "¿Quién leerá tu destino?",
+      "subtext": "Cada lector tiene una voz e interpretación diferente.\nElige el que llame a tu corazón.",
+      "footerNote": "Punto de inflexión · Fortuna amorosa · Fortuna financiera · Camino al éxito",
+      "backToPersona": "Elegir otro lector",
+      "formTitle": "Cuéntame tu fecha de nacimiento",
+      "formSubtitle": "Cuanto más exacta, más profunda la lectura",
+      "birthYear": "Año de nacimiento",
+      "yearPlaceholder": "ej. 1995",
+      "monthLabel": "Mes",
+      "dayLabel": "Día",
+      "monthSelect": "Seleccionar mes",
+      "daySelect": "Seleccionar día",
+      "genderLabel": "Género",
+      "female": "👩 Femenino",
+      "male": "👨 Masculino",
+      "readingBtn": "🔮 Ver mi lectura",
+      "reEnter": "Reingresar",
+      "readingOf": "Lectura de {{name}}",
+      "turningBanner": "Punto de Inflexión Vital",
+      "turningSubtext": "El flujo de tu vida cambia alrededor de esta edad",
+      "ageSuffix": "",
+      "saveImage": "Guardar imagen del resultado",
+      "saveImageSaving": "Guardando...",
+      "copyLink": "Copiar enlace",
+      "newReading": "Nueva lectura",
+      "saveSuccess": "¡Imagen guardada! 🔮",
+      "saveSuccessDesc": "Revisa tu galería.",
+      "saveError": "Error al guardar",
+      "saveErrorDesc": "Por favor intenta de nuevo.",
+      "copySuccess": "¡Enlace copiado! 🎉",
+      "copySuccessDesc": "Compártelo con amigos.",
+      "copyError": "Error al copiar",
+      "copyErrorDesc": "Por favor intenta de nuevo.",
+      "successInfo": "Éxito: Después de los {{sa}} · Riqueza: {{ws}}–{{we}} años",
+      "genderFemale": "Femenino",
+      "genderMale": "Masculino",
+      "cardReading": "Lectura de {{name}}",
+      "turningAge": "Mi Punto de Inflexión Vital",
+      "shareText": "Obtuve mi lectura de K-Shaman 🔮 ¡Descubre la tuya también!"
+    },
+    "lifeFlow": {
+      "early_hard": "Tipo esfuerzo temprano",
+      "mid_rise": "Tipo ascenso medio",
+      "late_success": "Tipo éxito tardío",
+      "steady_rise": "Tipo ascenso constante"
+    },
+    "sec": {
+      "summary": "Lectura general",
+      "inborn": "Tu energía innata",
+      "turning": "Punto de inflexión vital",
+      "success": "Camino al éxito",
+      "love": "Flujo amoroso",
+      "wealth": "Flujo de riqueza",
+      "warning": "Período de precaución"
+    },
+    "persona": {
+      "baby_bosal": {
+        "title": "Espíritu de la inocencia",
+        "vibe": "Amigable e intuitiva, como una hermana mayor alegre"
+      },
+      "sunnyeo_bosal": {
+        "title": "Espíritu de la luna",
+        "vibe": "Elegante y misteriosa, una vidente graciosa"
+      },
+      "chunshin_doryeong": {
+        "title": "Espíritu del cielo",
+        "vibe": "Fuerte y directo, un guerrero celestial audaz"
+      },
+      "musog_in": {
+        "title": "Espíritu de la tradición",
+        "vibe": "Honesto y directo, el chamán clásico"
+      },
+      "beopsa": {
+        "title": "Espíritu de la sabiduría",
+        "vibe": "Tranquilo y filosófico, un anciano erudito"
+      }
+    }
+  },
+  "tarot": {
+    "reading": {
+      "title": "Lectura de Tarot de Hoy",
+      "subtitle": "Elige 3 cartas y descubre tu flujo actual",
+      "questionLabel": "¿Tienes una pregunta o preocupación?",
+      "questionPlaceholder": "Ejemplo: amor, trabajo, relaciones, elecciones, ansiedad, preocupaciones futuras",
+      "questionOptional": "(opcional)",
+      "continueBtn": "Elegir Cartas",
+      "selectInstruction": "Selecciona 3 cartas para tu lectura",
+      "selectedCount": "Seleccionadas {{count}} / 3",
+      "readBtn": "Comenzar Lectura",
+      "readBtnHint": "Selecciona 3 cartas para activar",
+      "position1": "Situación Actual",
+      "position2": "Influencia Oculta · Consejo",
+      "position3": "Futuro Próximo · Dirección",
+      "keywords": "Palabras Clave",
+      "interpretation": "Interpretación",
+      "synthesisTitle": "Lectura Combinada",
+      "synthesisSubtitle": "Una síntesis de las tres cartas",
+      "resetBtn": "Volver a Tirar",
+      "caution": "Precaución",
+      "snsDivider": "Compartir mi Lectura",
+      "shareTitle": "Lectura de Tarot de 3 Cartas de Hoy",
+      "shareText": "Mi tarot de 3 cartas hoy: {{cards}} ✨ mytesttype.com/tarot"
+    },
+    "cards": {
+      "fool": {
+        "name": "El Loco",
+        "keywords": ["inicio", "potencial", "impulso"],
+        "daily": "Una nueva etapa puede comenzar. El entusiasmo es positivo, pero actúa con cierta prudencia.",
+        "reading": {
+          "present": {
+            "headline": "Un nuevo viaje está a punto de comenzar.",
+            "symbol": "El Loco se encuentra al borde del precipicio, con los ojos hacia el cielo, lleno de esperanza inocente. Su rosa blanca simboliza el potencial intacto. Este carta en posición presente señala que un nuevo capítulo se está abriendo en tu vida.",
+            "advice": "Confía en tus instintos antes que en la preparación perfecta. El coraje de dar el primer paso es lo que crea el camino."
+          },
+          "advice": {
+            "headline": "Un profundo deseo de libertad surge bajo la superficie.",
+            "symbol": "El Loco en esta posición revela un intenso anhelo interior de un nuevo comienzo que quizás te ocultas a ti mismo. Los miedos prácticos cubren tus verdaderos deseos. La mochila del Loco es ligera — examina cuáles de tus cargas actuales son reales.",
+            "advice": "Escucha esa parte inocente de ti que aún sabe lo que realmente quiere. Desecha el miedo y sé honesto contigo mismo."
+          },
+          "future": {
+            "headline": "Una oportunidad inesperada se desplegará ante ti.",
+            "symbol": "El Loco en posición futura sugiere fuertemente que un cruce de caminos no planeado pronto aparecerá. La oportunidad puede parecer arriesgada o absurda. Otros pueden advertirte. Pero la carta es clara: esa posibilidad es real. Como el Loco avanza y el suelo aparece bajo sus pies, un camino se formará bajo tus pasos sinceros.",
+            "advice": "No dejes pasar la oportunidad esperando la certeza. Acoge con valentía la nueva posibilidad cuando llegue."
+          }
+        }
+      },
+      "magician": {
+        "name": "El Mago",
+        "keywords": ["acción", "voluntad", "habilidad"],
+        "daily": "Hoy favorece la acción. Tus ideas pueden convertirse en realidad.",
+        "reading": {
+          "present": {
+            "headline": "Todas las herramientas que necesitas ya están en su lugar.",
+            "symbol": "El Mago levanta su varita hacia el cielo mientras las cuatro herramientas elementales reposan listas sobre su mesa. Esta carta en posición presente confirma que tienes la habilidad, el conocimiento y los recursos para lograr tu objetivo ahora mismo. Nada esencial falta — solo la decisión de actuar.",
+            "advice": "Comienza de inmediato. Ya estás equipado. Canaliza tu voluntad en una acción decisiva ahora."
+          },
+          "advice": {
+            "headline": "Es hora de recuperar tu agencia oculta.",
+            "symbol": "El Mago en posición oculta señala que poderosas habilidades sin explotar yacen dormidas dentro de ti. Quizás sigues pasivamente el camino de otro o eres arrastrado por las circunstancias. El Mago da forma activamente a la realidad — y tú también puedes. Revisa qué controlas realmente en esta situación.",
+            "advice": "No busques autoridad fuera. Activa conscientemente las habilidades y la voluntad que ya posees."
+          },
+          "future": {
+            "headline": "La acción pronto traerá resultados tangibles.",
+            "symbol": "El Mago en posición futura te dice que tus habilidades pronto se traducirán en resultados reales y visibles. Lo que estás preparando o ya has comenzado empezará a manifestarse. Pero el poder del Mago viene del enfoque — dispersar la energía diluye la magia.",
+            "advice": "No disperses tu energía. Vierte todo en tu objetivo más importante y los resultados aparecerán más rápido de lo esperado."
+          }
+        }
+      },
+      "high_priestess": {
+        "name": "La Sacerdotisa",
+        "keywords": ["intuición", "misterio", "sabiduría"],
+        "daily": "Confía en tu intuición hoy. Tus sentimientos pueden ser más precisos que la lógica.",
+        "reading": {
+          "present": {
+            "headline": "Algo invisible guía la situación actual.",
+            "symbol": "La Sacerdotisa se sienta tranquilamente ante el velo oculto, su mirada llena de sabiduría silenciosa. Esta carta en posición presente significa que información oculta o fuerzas invisibles influyen en tu situación. Apresurarse a sacar conclusiones es imprudente — observa y escucha tu intuición.",
+            "advice": "No suprimas los sentimientos inexplicables. La Sacerdotisa dice: lo que sientes instintivamente está mucho más cerca de la verdad."
+          },
+          "advice": {
+            "headline": "Tu sabiduría interior ya conoce la respuesta.",
+            "symbol": "La Sacerdotisa en posición oculta sugiere que quizás dependes demasiado de consejos o información externos. Escucha a otros, sí — pero la voz más confiable ahora viene de tu interior. Busca momentos de quietud. Las respuestas pueden surgir con sorprendente claridad cuando te detienes y escuchas hacia adentro.",
+            "advice": "Crea silencio. Ya sea mediante meditación o un paseo tranquilo, la quietud es el prerrequisito para escuchar tu voz interior."
+          },
+          "future": {
+            "headline": "Con el tiempo, la verdad se revelará.",
+            "symbol": "La Sacerdotisa en posición futura señala que lo que actualmente es poco claro pronto se aclarará mucho. Lo que ha estado oculto tras el velo saldrá lentamente a la luz, y las respuestas a tus preguntas emergerán naturalmente. Pero forzar la verdad solo la hará retroceder más.",
+            "advice": "No te apresures a sacar conclusiones ni fuerces el control sobre la situación. Cuando llegue el momento, sabrás lo que necesitas saber."
+          }
+        }
+      },
+      "empress": {
+        "name": "La Emperatriz",
+        "keywords": ["abundancia", "crecimiento", "cuidado"],
+        "daily": "Hoy hay energía de crecimiento y abundancia. Tómate tiempo para cuidarte.",
+        "reading": {
+          "present": {
+            "headline": "Una energía rica y nutritiva fluye a tu alrededor ahora.",
+            "symbol": "La Emperatriz se sienta cómodamente en una tierra llena de flores, coronada con doce estrellas, rodeada de grano maduro y bosque. Esta carta en posición presente significa que se ha preparado tierra fértil para el crecimiento a tu alrededor. Lo que plantes ahora tiene excelente potencial para florecer.",
+            "advice": "Sigue cultivando lo que estás haciendo crecer. No hay necesidad de apresurar. La Emperatriz sabe que el verdadero crecimiento requiere tiempo."
+          },
+          "advice": {
+            "headline": "Permítete ser nutrido primero.",
+            "symbol": "La Emperatriz en posición oculta te recuerda suavemente que quizás estás vertiendo demasiada energía en otros antes de llenar tus propias reservas. La Emperatriz es infinitamente abundante porque primero se nutrió a sí misma. Mereces tiempo, placer y descanso sin culpa.",
+            "advice": "Cuidarte no es egoísta. Evalúa honestamente qué necesitas más ahora mismo, y llena eso primero."
+          },
+          "future": {
+            "headline": "Los frutos de tus esfuerzos se revelarán lentamente.",
+            "symbol": "La Emperatriz en posición futura presagia que lo que has cultivado cuidadosamente pronto dará resultados tangibles. Como una semilla que echa raíces silenciosamente antes de brotar, el esfuerzo y la dedicación que has invertido comenzarán a aparecer de forma visible. Este proceso no ocurre de repente.",
+            "advice": "Sigue haciendo lo que estás haciendo. El crecimiento ocurre incluso cuando aún no puedes verlo. Un poco más de paciencia revelará la cosecha."
+          }
+        }
+      },
+      "emperor": {
+        "name": "El Emperador",
+        "keywords": ["autoridad", "estructura", "control"],
+        "daily": "La estructura y la responsabilidad importan hoy. Establece estándares claros y sé consistente.",
+        "reading": {
+          "present": {
+            "headline": "Se necesita una base estable y una estructura clara ahora.",
+            "symbol": "El Emperador se sienta firmemente en su trono de piedra, sosteniendo orbe y cetro, armado bajo una capa roja. Esta carta en posición presente señala que se necesitan límites claros, estructura y principios consistentes en tu situación actual.",
+            "advice": "Establece estándares inquebrantables y mantenlos consistentemente. El poder del Emperador proviene no de la rigidez sino del principio inamovible."
+          },
+          "advice": {
+            "headline": "Necesitas establecer límites más claros.",
+            "symbol": "El Emperador en posición oculta sugiere que quizás no estás estableciendo suficientes límites en ciertas relaciones o situaciones. El Emperador no se trata de suprimir a otros — se trata de conocer y proteger tus propios valores y límites.",
+            "advice": "Define claramente lo que puedes y no puedes aceptar. Hacer cumplir esos límites de manera suave pero firme es la elección correcta para ti y todos a tu alrededor."
+          },
+          "future": {
+            "headline": "Se acerca un período de estabilidad y orden.",
+            "symbol": "El Emperador en posición futura presagia que la turbulencia o inestabilidad actual pronto dará paso a la estructura y estabilidad. Los cimientos que se están sentando dolorosamente ahora se solidificarán, y las situaciones inciertas comenzarán a organizarse en forma predecible.",
+            "advice": "Comienza a construir estructura a largo plazo ahora. Incluso pequeñas reglas mantenidas consistentemente regresarán como gran estabilidad más adelante."
+          }
+        }
+      },
+      "hierophant": {
+        "name": "El Hierofante",
+        "keywords": ["tradición", "enseñanza", "fe"],
+        "daily": "Hoy puede ayudarte seguir la sabiduría establecida o un consejo de confianza.",
+        "reading": {
+          "present": {
+            "headline": "Un sistema de creencias y estructura estable te apoya.",
+            "symbol": "El Hierofante bendice a dos devotos, flanqueado por dos pilares, rodeado de símbolos de tradición y autoridad. Esta carta en posición presente significa que métodos probados, sistemas confiables, o la sabiduría de un maestro o mentor juegan un papel importante ahora.",
+            "advice": "No dudes en buscar consejo de alguien de confianza o en seguir un método ya probado. Abrirte a la sabiduría compartida es lo que necesitas ahora."
+          },
+          "advice": {
+            "headline": "Suelta la obstinación de resolver todo solo.",
+            "symbol": "El Hierofante en posición oculta sugiere que quizás rechazas excesivamente la sabiduría externa o la sigues ciegamente. Ambos extremos bloquean el crecimiento. El verdadero aprendizaje es recibir la sabiduría externa con mente abierta y luego adaptarla reflexivamente a tu situación.",
+            "advice": "Lo que necesitas ahora es escuchar seriamente a alguien con más experiencia que tú. Buscar consejo no es debilidad — es sabiduría."
+          },
+          "future": {
+            "headline": "Se acerca un período de reconocimiento y apoyo.",
+            "symbol": "El Hierofante en posición futura presagia que pronto puede llegar reconocimiento externo, respaldo importante, o consejos significativos de una figura de confianza. Un maestro, mentor, superior o comunidad de confianza puede reconocer tus esfuerzos.",
+            "advice": "No ignores los canales formales. Trabajar dentro de estructuras y sistemas probados puede ser el camino más rápido en este momento."
+          }
+        }
+      },
+      "lovers": {
+        "name": "Los Enamorados",
+        "keywords": ["elección", "relación", "armonía"],
+        "daily": "Hoy deja que tus valores guíen tus elecciones en relaciones y decisiones.",
+        "reading": {
+          "present": {
+            "headline": "Una elección importante se encuentra ante ti.",
+            "symbol": "La carta de Los Enamorados muestra dos figuras bajo un ángel con los brazos abiertos bajo la luz del sol. No se trata solo de romance — es una pregunta profunda sobre cómo vivirás, con quién elegirás, y qué renunciarás. Una decisión importante te espera, y debe hacerse según tus verdaderos valores.",
+            "advice": "Haz la elección que viene de tu corazón, no la conveniente. Mira honestamente lo que realmente quieres antes de decidir."
+          },
+          "advice": {
+            "headline": "Revisa la armonía entre tus relaciones y tus valores.",
+            "symbol": "Los Enamorados en posición oculta sugiere que en algún lugar de tu vida, una relación o elección importante está en conflicto con tus valores más profundos. Algo puede parecer bien en la superficie, pero tu yo más profundo cuestiona si realmente te conviene.",
+            "advice": "Verifica si tus relaciones más cercanas y decisiones más importantes se alinean con tu verdadero yo. No pospongas este examen, aunque se sienta incómodo."
+          },
+          "future": {
+            "headline": "Los resultados de tus elecciones quedarán claros.",
+            "symbol": "Los Enamorados en posición futura presagia que el resultado de las elecciones que estás deliberando o postponiendo pronto se hará visible. Si se hizo una buena elección, seguirán la armonía y la paz interior. Si las elecciones desalineadas aún se retrasan, la tensión saldrá a la superficie.",
+            "advice": "Si hay algo que aún no has decidido, deja de postponerlo. Una elección hecha con sinceridad siempre apunta en la dirección correcta."
+          }
+        }
+      },
+      "chariot": {
+        "name": "El Carro",
+        "keywords": ["determinación", "superación", "victoria"],
+        "daily": "Avanza con voluntad firme hoy. No te detengas aunque aparezcan obstáculos.",
+        "reading": {
+          "present": {
+            "headline": "Un poderoso impulso está contigo ahora mismo.",
+            "symbol": "El conductor del carro guía dos esfinges que tiran en direcciones opuestas solo con fuerza de voluntad. Armado y coronado con estrellas, su postura es resuelta. Esta carta en posición presente señala que tienes un fuerte impulso y energía enfocada hacia la victoria.",
+            "advice": "Aprovecha esta energía al máximo. Con un objetivo claro y enfoque inquebrantable, ningún obstáculo puede detenerte ahora."
+          },
+          "advice": {
+            "headline": "Necesitas integrar los conflictos internos primero.",
+            "symbol": "El Carro en posición oculta sugiere que antes de dirigir tu energía hacia afuera, debes resolver tus conflictos internos. Al igual que el conductor debe controlar ambos caballos para avanzar, necesitas alinear tus deseos internos contradictorios. Si sabes la dirección pero sigues siendo atraído a otro lugar, ese conflicto interno es lo que te frena.",
+            "advice": "Primero identifica qué está conflictuando dentro de ti. Una vez que entiendes la fuente del conflicto, puedes integrarlo y avanzar."
+          },
+          "future": {
+            "headline": "Se acerca una victoria que te acerca a tu objetivo.",
+            "symbol": "El Carro en posición futura presagia fuertemente que tu esfuerzo y enfoque actuales pronto conducirán a resultados concretos. Aunque aparezcan obstáculos, llegará la experiencia de superarlos y se abrirá un avance hacia tu objetivo. Esta victoria no es accidental — la concentración y autodisciplina de este momento son las que crean ese resultado.",
+            "advice": "Mantén tu velocidad y enfoque actuales. La línea de meta está mucho más cerca de lo que crees. No te detengas."
+          }
+        }
+      },
+      "strength": {
+        "name": "La Fuerza",
+        "keywords": ["coraje", "paciencia", "fuerza interior"],
+        "daily": "La fuerza interior y la paciencia son clave hoy. Un enfoque suave puede ser más efectivo que la fuerza.",
+        "reading": {
+          "present": {
+            "headline": "La suavidad es el mayor poder disponible para ti ahora.",
+            "symbol": "La mujer en la carta de la Fuerza sostiene suavemente la boca del león con ambas manos — domando la ferocidad no por la fuerza sino por el amor y la paciencia. Esta carta en posición presente significa que la situación ante ti no puede resolverse empujando más fuerte.",
+            "advice": "Elige la paciencia sobre la fuerza. Reconoce el miedo o la urgencia que sientes, pero no te dejes llevar por ellos. La quietud interior es el poder más fuerte para guiar esta situación."
+          },
+          "advice": {
+            "headline": "Mira tu lado oscuro con suavidad.",
+            "symbol": "La Fuerza en posición oculta sugiere que quizás estás suprimiendo o evitando tus propios miedos, ira o partes impulsivas. Como la mujer con el león, lo que se necesita no es eliminar por la fuerza el lado oscuro interno — sino reconocerlo y calmarlo suavemente. Las emociones suprimidas no desaparecen.",
+            "advice": "No temas las emociones más oscuras dentro de ti. Cuando puedas reconocerlas y simplemente observarlas sin juzgar, el verdadero poder interior finalmente se revela."
+          },
+          "future": {
+            "headline": "Después de un período de paciencia, surgirá el progreso gradual.",
+            "symbol": "La Fuerza en posición futura te dice que la dificultad o desafío que experimentas actualmente no es interminable — es un proceso de fortalecimiento de tu núcleo interior. Cuando termine el período de paciencia, te encontrarás mucho más fuerte que antes.",
+            "advice": "No te rindas. Este período de resistencia se convertirá en el tiempo del que más te enorgullezcas más adelante. Estás avanzando lenta pero seguramente."
+          }
+        }
+      },
+      "hermit": {
+        "name": "El Ermitaño",
+        "keywords": ["reflexión", "soledad", "sabiduría"],
+        "daily": "Tómate tiempo tranquilo para la reflexión hoy. Busca respuestas en la soledad.",
+        "reading": {
+          "present": {
+            "headline": "Ahora es el momento de volver tu mirada hacia adentro.",
+            "symbol": "El Ermitaño se encuentra solo en la cima de una montaña nevada, sosteniendo una linterna — no para iluminar el mundo exterior, sino para alumbrar su propio camino interior. Esta carta en posición presente significa que lo que más necesitas ahora no es actividad externa sino exploración interior profunda y tiempo a solas.",
+            "advice": "No evites el tiempo a solas. La soledad no es soledad. La reflexión y la sabiduría que necesitas ahora solo pueden extraerse de un espacio interior tranquilo."
+          },
+          "advice": {
+            "headline": "Necesitas distinguir entre soledad y aislamiento.",
+            "symbol": "El Ermitaño en posición oculta sugiere que es momento de distinguir si genuinamente necesitas tiempo a solas, o si estás eligiendo el aislamiento para evitar la soledad. La soledad para la exploración interior significativa carga tu energía. Pero el aislamiento evasivo nacido del miedo crea un vacío más profundo.",
+            "advice": "Distingue si lo que verdaderamente necesitas es reflexión interior o conexión y comunicación. A veces, abrir tu corazón honestamente a la persona adecuada es la elección más sabia del ermitaño."
+          },
+          "future": {
+            "headline": "Después de la reflexión, una dirección clara comenzará a emerger.",
+            "symbol": "El Ermitaño en posición futura presagia que lo que actualmente se siente complejo e incierto pronto se organizará con mucha mayor claridad. Al igual que la linterna del Ermitaño ilumina el camino paso a paso en la oscuridad, tu exploración interior actual y espera tranquila revelarán naturalmente la dirección que necesitas.",
+            "advice": "No te apresures. La acción más sabia ahora mismo es esperar el momento adecuado. Las decisiones tomadas después de suficiente reflexión interior serán las que menos lamentes."
+          }
+        }
+      },
+      "wheel": {
+        "name": "La Rueda de la Fortuna",
+        "keywords": ["cambio", "ciclos", "destino"],
+        "daily": "Hoy puede llegar un cambio inesperado o buena suerte. Mantente flexible y fluye.",
+        "reading": {
+          "present": {
+            "headline": "Un gran punto de inflexión en el ciclo de la vida está aquí.",
+            "symbol": "La Rueda de la Fortuna gira sin cesar — lo que estaba arriba baja, lo que estaba abajo sube. Esta carta en posición presente significa que un importante punto de inflexión ha llegado o está llegando a tu vida. Este cambio puede no ser algo que pretendiste y puede llegar de maneras inesperadas.",
+            "advice": "No te resistas al cambio. En lugar de tratar de controlar lo que está ocurriendo, la elección más sabia es montar flexiblemente el flujo. La rueda gira, y llegará tu momento."
+          },
+          "advice": {
+            "headline": "Acepta el significado de este período.",
+            "symbol": "La Rueda en posición oculta sugiere que lo que estás experimentando no es mera coincidencia — es una necesidad que ocurre dentro de un ciclo más grande de vida. La incertidumbre y los cambios impredecibles que sientes pueden ser en realidad un proceso de preparación que te guía hacia una mejor dirección.",
+            "advice": "Puede haber un significado más profundo en lo que está ocurriendo actualmente. Acepta los cambios en las circunstancias tal como son, y dentro de ellos, busca las oportunidades que se te dan."
+          },
+          "future": {
+            "headline": "Una nueva fase se desplegará pronto.",
+            "symbol": "La Rueda de la Fortuna en posición futura presagia que una nueva fase, diferente a la actual, comenzará pronto. Si estás en un período difícil y frustrante ahora, es una señal esperanzadora de que la rueda gira y tu momento se acerca. Por el contrario, si las cosas van bien ahora, también es un recordatorio de no descuidar los preparativos para mantener y desarrollar aún más este estado.",
+            "advice": "No te vuelvas complaciente con la situación actual. Prepararse y dar la bienvenida flexiblemente al cambio que se acerca es la actitud más sabia en este momento."
+          }
+        }
+      },
+      "justice": {
+        "name": "La Justicia",
+        "keywords": ["equilibrio", "verdad", "responsabilidad"],
+        "daily": "Hoy es importante el juicio justo. Deja que la razón guíe tus decisiones.",
+        "reading": {
+          "present": {
+            "headline": "La verdad y la justicia son el núcleo de la situación actual.",
+            "symbol": "La figura de la Justicia se sienta resueltamente sosteniendo balanzas y una espada. Las balanzas simbolizan el equilibrio y la imparcialidad; la espada representa la razón y el juicio claro. Esta carta en posición presente significa que la verdad, los hechos y el juicio justo son críticamente requeridos en tu situación actual.",
+            "advice": "Pon la emoción a un lado momentáneamente y enfrenta los hechos. Aplicar estándares justos igualmente a ti mismo y a los demás es la elección más sabia ahora."
+          },
+          "advice": {
+            "headline": "Evalúate a ti mismo honesta y justamente.",
+            "symbol": "La Justicia en posición oculta sugiere que quizás no eres completamente honesto contigo mismo sobre la situación actual, o puede que estés subestimando o sobreestimando tu propio papel y responsabilidad. ¿Te ves a ti mismo con tanta imparcialidad como juzgas a los demás?",
+            "advice": "Párate ante el espejo. El coraje de verte justa y honestamente tal como eres es lo más importante que necesitas ahora mismo."
+          },
+          "future": {
+            "headline": "Llegan resultados justos.",
+            "symbol": "La Justicia en posición futura presagia que en un futuro cercano, llegará los resultados justos de tus acciones y decisiones hasta ahora. Si has trabajado duro y actuado correctamente, seguirán el reconocimiento o los resultados correspondientes. Si hay áreas donde has evitado o no asumido responsabilidad, las consecuencias de esas también pueden aparecer. La justicia se mueve lentamente, pero siempre llega.",
+            "advice": "Cada acción que tomas ahora se convierte en un resultado. Mantener consistentemente la acción correcta es la única manera de crear buenos resultados en el futuro."
+          }
+        }
+      },
+      "hanged_man": {
+        "name": "El Colgado",
+        "keywords": ["pausa", "perspectiva", "sacrificio"],
+        "daily": "Hoy detente y mira las cosas desde una perspectiva nueva en lugar de apresurarte.",
+        "reading": {
+          "present": {
+            "headline": "Una pausa intencional es la acción más poderosa ahora.",
+            "symbol": "El Colgado pende boca abajo de un árbol por un tobillo, sin embargo su expresión es notablemente serena. No acepta esto como castigo sino como una elección voluntaria para ganar una nueva perspectiva. Esta carta en posición presente significa que ahora es un tiempo en que pausar y esperar es más necesario que forzar el impulso hacia adelante.",
+            "advice": "No intentes forzar el movimiento hacia adelante. Ahora es el tiempo de esperar, observar y ganar nueva perspectiva. A veces esperar el barco es más rápido que nadar para cruzar el río."
+          },
+          "advice": {
+            "headline": "Necesitas el coraje de ver la situación desde un ángulo diferente.",
+            "symbol": "El Colgado en posición oculta advierte que quizás estás viendo la situación desde un solo ángulo. Algunas de las cosas que consideras ciertas u obvias pueden ser en realidad prejuicios u obstinación. ¿Qué tal si volteas el mundo al revés como el Colgado? Una perspectiva que nunca has considerado puede contener la solución real al problema actual.",
+            "advice": "Cuestiona una vez más lo que estás convencido de que es correcto. Escuchar abiertamente opiniones opuestas o perspectivas completamente diferentes puede ser el avance que más necesitas ahora."
+          },
+          "future": {
+            "headline": "El período de espera termina y se abre una nueva perspectiva.",
+            "symbol": "El Colgado en posición futura presagia que la situación que ahora se siente estancada o difícil pronto cambiará con una nueva perspectiva. La espera y la paciencia de ahora te abrirán un punto de vista completamente nuevo, que revelará soluciones y oportunidades previamente invisibles. Se acerca el tiempo en que las cosas detenidas comienzan a moverse.",
+            "advice": "Espera un poco más. La sensación de estancamiento ahora no es permanente. Cuando la espera haya madurado, las respuestas vendrán de una dirección completamente inesperada."
+          }
+        }
+      },
+      "death": {
+        "name": "La Muerte",
+        "keywords": ["transformación", "finales", "liberación"],
+        "daily": "Hoy, suelta lo viejo y abraza la nueva transformación sin miedo.",
+        "reading": {
+          "present": {
+            "headline": "Una fase está terminando y un nuevo comienzo se está abriendo.",
+            "symbol": "El caballero esquelético de la carta de la Muerte cabalga un caballo blanco. Ante él, reyes, sacerdotes y niños caen o se arrodillan. Esta carta no significa muerte literal — es una carta de transformación, señalando que una fase importante de la vida está concluyendo y un nuevo capítulo está comenzando.",
+            "advice": "Comprueba si te estás aferrando a cosas que necesitan ser soltadas. Los finales no son pérdida — son el proceso de crear nuevo espacio. Ten el coraje de soltar lo viejo."
+          },
+          "advice": {
+            "headline": "No es el miedo sino el apego lo que bloquea la transformación.",
+            "symbol": "La Muerte en posición oculta sugiere que te estás aferrando a algo que ya debería haber terminado. Puede ser una relación antigua, una forma pasada de hacer las cosas, una autoimagen obsoleta, o una situación donde la respuesta ya está clara. El miedo al cambio es una emoción natural, pero debes mirar honestamente si ese miedo te está manteniendo apegado a algo que ya está muerto.",
+            "advice": "Haz una lista de las cosas en tu vida que ya han terminado. Se necesita un ritual consciente de soltarlas. Terminar algo no es rendirse — es una transición hacia una nueva vida."
+          },
+          "future": {
+            "headline": "Después de la transformación, se despliega una nueva vida.",
+            "symbol": "La Muerte en posición futura presagia que en un futuro cercano, una fase importante concluirá y en su lugar se abrirán posibilidades completamente nuevas. Este final puede sentirse como pérdida, pero es simultáneamente un punto de partida para una nueva vida. Al igual que el invierno debe terminar para que llegue la primavera, la conclusión actual crea espacio para un nuevo comienzo más rico que verdaderamente te conviene.",
+            "advice": "Acepta en lugar de resistirte al cambio que se acerca. Lo que termina no desaparece — se transforma en otra forma. Un nuevo comienzo te está esperando."
+          }
+        }
+      },
+      "temperance": {
+        "name": "La Templanza",
+        "keywords": ["equilibrio", "moderación", "paciencia"],
+        "daily": "Hoy busca el equilibrio y evita los extremos. Avanza con calma sin apresurar.",
+        "reading": {
+          "present": {
+            "headline": "El equilibrio y la armonía son lo que más necesitas ahora.",
+            "symbol": "El ángel de la Templanza fluye agua entre dos copas, manteniendo el equilibrio. Un pie descansa en el agua, otro en la tierra — encarnando el punto medio entre dos mundos. Esta carta en posición presente significa que el equilibrio es un tema importante en tu vida ahora mismo.",
+            "advice": "Evita los extremos. Lo que necesitas ahora no es una decisión rápida o una acción fuerte, sino el proceso paciente de encontrar la armonía lentamente. La paciencia y la moderación son tus herramientas más poderosas ahora."
+          },
+          "advice": {
+            "headline": "Apresurarse puede en realidad alejar la meta.",
+            "symbol": "La Templanza en posición oculta sugiere que tu urgencia por obtener resultados demasiado rápido puede estar haciéndolos más esquivos. El ángel de la Templanza nunca se apresura — el agua que fluye entre las copas sigue el ritmo de la naturaleza. Cuanto más artificialmente tratas de acelerar las cosas, más energía desperdicias y más equilibrio pierdes.",
+            "advice": "Desacelera. La forma más rápida de acercarte a tu objetivo ahora mismo es en realidad moverse lenta y consistentemente. Practica soltar la impaciencia."
+          },
+          "future": {
+            "headline": "Se acerca un flujo estable y sostenido.",
+            "symbol": "La Templanza en posición futura presagia que el caos o desequilibrio actual gradualmente se asentará en un flujo estable y armonioso. Esta estabilidad no llega de repente — se crea naturalmente a través de la acumulación de templanza y paciencia. Muévete solo un poco más consistentemente, un poco más equilibrado, y el estado estable que deseas se materializará.",
+            "advice": "Mantén tu dirección actual. Los pequeños ajustes consistentes crean cambios mucho más poderosos y duraderos que los extremos. Ten paciencia."
+          }
+        }
+      },
+      "devil": {
+        "name": "El Diablo",
+        "keywords": ["apego", "atadura", "sombra"],
+        "daily": "Hoy cuida el apego excesivo o el miedo. Reflexiona sobre qué puede estarte limitando.",
+        "reading": {
+          "present": {
+            "headline": "Cadenas invisibles te están atando ahora mismo.",
+            "symbol": "En la carta del Diablo, dos figuras están encadenadas al Diablo, pero las cadenas son sorprendentemente flojas. Podrían liberarse en cualquier momento, pero no se dan cuenta. Esta carta en posición presente significa que actualmente estás atrapado en algún tipo de apego, miedo, adicción, o limitación auto-creada.",
+            "advice": "Mira honestamente qué es lo que te hace sentir encadenado ahora mismo. Es esencial distinguir qué te bloquea verdaderamente versus qué es miedo que has creado tú mismo."
+          },
+          "advice": {
+            "headline": "Reconocer la sombra es el comienzo de la liberación.",
+            "symbol": "El Diablo en posición oculta sugiere que detrás de tus acciones o decisiones actuales, motivaciones o impulsos oscuros que quizás tú mismo no reconoces claramente están operando. El miedo, la culpa, la dependencia o el juicio severo hacia uno mismo pueden estar influyendo en tus elecciones.",
+            "advice": "Mira las motivaciones reales detrás de tus acciones. Sin juzgar, simplemente observarlas tal como son es suficiente para comenzar el cambio."
+          },
+          "future": {
+            "headline": "Una vez reconocido, llega la liberación.",
+            "symbol": "El Diablo en posición futura presagia que los patrones de limitación o apego que percibes vagamente pronto saldrán a la superficie, y llegará una oportunidad para reconocerlos y liberarte de ellos. Este proceso puede ser incómodo. Pero lo que se revela a la luz no está destinado a destruirte — está destinado a liberarte.",
+            "advice": "No tengas miedo. Lo que se revela puede resolverse. El coraje de enfrentar tu propia sombra es lo que más necesitas ahora, y en ese momento, comienza la verdadera libertad."
+          }
+        }
+      },
+      "tower": {
+        "name": "La Torre",
+        "keywords": ["impacto", "cambio", "colapso"],
+        "daily": "Puede surgir un cambio inesperado. Hoy la flexibilidad te sirve mejor que la rigidez.",
+        "reading": {
+          "present": {
+            "headline": "Las viejas estructuras caen, pero eso es el comienzo.",
+            "symbol": "En la carta de la Torre, el rayo golpea la corona de la torre y las figuras caen desde dentro. Impactante y aterrador — pero esta destrucción derriba lo que fue construido sobre una base inestable. Esta carta en posición presente significa que un cambio repentino y caótico o un shock está ocurriendo en tu vida ahora mismo.",
+            "advice": "No te resistas — enfrenta el trastorno con flexibilidad. La caída de la torre no es catástrofe; es el proceso de corregir lo que fue mal construido. Ahora es el tiempo de absorber el shock e imaginar una nueva base."
+          },
+          "advice": {
+            "headline": "La resistencia al colapso crea mayor sufrimiento.",
+            "symbol": "La Torre en posición oculta sugiere que tus intentos de prevenir lo que se derrumba están en realidad creando mayor dolor. Cuando los cimientos ya se tambalean, intentar mantener la forma antigua a cualquier costo puede causar un colapso aún mayor.",
+            "advice": "Suelta la resistencia. Deja de gastar energía en lo que no puedes cambiar ahora mismo — enfocarte en reconstruir después del cambio es una estrategia mucho más sabia."
+          },
+          "future": {
+            "headline": "Después de la destrucción, se construye una base nueva y más fuerte.",
+            "symbol": "La Torre en posición futura advierte que puede llegar un shock o cambio inesperado en el futuro cercano. Esta es una señal atemorizante, pero también significa que tienes tiempo para prepararte desde ahora. Y si puedes entender que este cambio creará en última instancia una base nueva más sólida y auténtica, puedes recibir ese shock con mucha mayor flexibilidad.",
+            "advice": "Revisa ahora las áreas vulnerables en tu vida y las cosas construidas sobre bases inestables. Reestructurarlas voluntariamente puede reducir significativamente el impacto de shocks futuros."
+          }
+        }
+      },
+      "star": {
+        "name": "La Estrella",
+        "keywords": ["esperanza", "sanación", "inspiración"],
+        "daily": "Hay energía esperanzadora hoy. Confía en ti mismo y avanza.",
+        "reading": {
+          "present": {
+            "headline": "La energía de sanación y esperanza te rodea ahora mismo.",
+            "symbol": "La figura de la Estrella vierte agua de dos vasijas bajo un cielo estrellado — una en la tierra, otra en el río. Este compartir suave simboliza sanación, plenitud y esperanza. Esta carta en posición presente significa que la energía de sanación y restauración fluye por tu vida. Es un tiempo en que la luz regresa después de la oscuridad.",
+            "advice": "Aférrate a la esperanza. La pequeña luz que sientes ahora mismo, las pequeñas señales de recuperación — son reales. Confía en ti mismo y sigue avanzando hacia esa luz."
+          },
+          "advice": {
+            "headline": "Comparte la luz que llevas con el mundo.",
+            "symbol": "La Estrella en posición oculta sugiere que la energía de sanación e inspiración existe dentro de ti, pero no la estás expresando o compartiendo completamente. Así como la figura de la Estrella comparte agua con la tierra y el río, recibes mayor energía cuando compartes lo que tienes — tus experiencias, sabiduría, amor y talento — con quienes te rodean.",
+            "advice": "¿Estás listo para compartir lo que ya sabes, has experimentado y del que te has sanado? Compartir regresa a ti como una plenitud aún mayor."
+          },
+          "future": {
+            "headline": "Un cambio positivo se acerca lentamente.",
+            "symbol": "La Estrella en posición futura promete que incluso si estás en un período difícil y oscuro ahora, un momento en que la luz regresa llegará en el futuro cercano. El tiempo en que la sanación, la esperanza y la inspiración comienzan a entrar en tu vida se está acercando. Este no es un cambio repentino — como la luz estelar iluminando lentamente la oscuridad, las cosas mejorarán silenciosa pero ciertamente.",
+            "advice": "No importa cuán oscuro esté ahora, no te rindas. Las estrellas brillan más en las noches más oscuras. Tu tiempo más brillante se está acercando."
+          }
+        }
+      },
+      "moon": {
+        "name": "La Luna",
+        "keywords": ["ilusión", "ansiedad", "intuición"],
+        "daily": "Hoy no te fíes de las apariencias. Confía en tu intuición.",
+        "reading": {
+          "present": {
+            "headline": "Incluso en medio de la confusión, no sueltes la luz de la intuición.",
+            "symbol": "En la carta de la Luna, la luna llena se eleva entre dos torres mientras un perro y un lobo aúllan debajo y un cangrejo de río sale del agua. La luz de la luna es hermosa pero cambiante e ilusoria. Esta carta en posición presente significa que tu situación actual es incierta, ambigua y difícil de leer para la verdad.",
+            "advice": "Sigue la intuición sobre el miedo. El hecho de que las cosas no sean claramente visibles no significa que no haya dirección. Tu corazonada ahora mismo puede ser más precisa que la lógica."
+          },
+          "advice": {
+            "headline": "Lo que temes puede no ser real.",
+            "symbol": "La Luna en posición oculta advierte que las ilusiones basadas en el miedo están influyendo significativamente en tu juicio y decisiones. Las cosas vistas en la luz de la luna pueden amplificarse o distorsionarse de la realidad. Examina calmadamente si lo que actualmente te preocupa o temes es verdaderamente tan peligroso como parece.",
+            "advice": "Enfrenta la realidad con frialdad. Lo primero que hay que hacer es distinguir si la fuente de tu ansiedad actual es real o una ilusión. Hablar con alguien de confianza ayuda."
+          },
+          "future": {
+            "headline": "Una vez que pase la confusión, la situación quedará clara.",
+            "symbol": "La Luna en posición futura presagia que aunque el período incierto y confuso actual puede continuar por un tiempo, una vez que este período a la luz de la luna termine, emergerá una realidad mucho más clara. Lo que ves ahora no es todo. Así como las sombras a la luz de la luna revelan sus formas reales cuando llega la mañana, la confusión actual se resolverá con el tiempo.",
+            "advice": "La claridad ciertamente llegará. Recuerda que la confusión actual no es permanente. Cuando la luna se pone, el sol sale. Espera un poco más — la niebla actual se levantará."
+          }
+        }
+      },
+      "sun": {
+        "name": "El Sol",
+        "keywords": ["éxito", "claridad", "alegría"],
+        "daily": "Hay energía brillante y positiva. Pasa el día con confianza y alegría.",
+        "reading": {
+          "present": {
+            "headline": "La luz y la claridad están a tu lado ahora mismo.",
+            "symbol": "En la carta del Sol, un niño se sienta a caballo con los brazos extendidos bajo un sol radiante — alegría pura, confianza y total confianza en la vida. Esta carta en posición presente significa que tu vida tiene energía brillante, claridad y un fuerte flujo hacia el éxito.",
+            "advice": "Ten confianza. La energía brillante que sientes ahora mismo no es una ilusión. Disfruta plenamente este momento y usa esa energía abundantemente para avanzar."
+          },
+          "advice": {
+            "headline": "No escondas tu luz.",
+            "symbol": "El Sol en posición oculta sugiere que ya existe dentro de ti energía, talento y alegría abundantes, pero no los estás expresando suficientemente. Verifica si eres demasiado humildemente autodegradante, o si te suprimes a ti mismo porque brillar se siente como una carga. El sol no desaparece cuando está cubierto por nubes. Tu luz es lo mismo.",
+            "advice": "Muestra el talento y la alegría que tienes al mundo con más audacia. Cuanto más brillantemente brille tu luz, más los alrededores también se aclaran. Brillar no es un crimen."
+          },
+          "future": {
+            "headline": "Buenos resultados y éxito se acercan.",
+            "symbol": "El Sol en posición futura es una de las señales más poderosas y esperanzadoras. El tiempo en que lo que estás persiguiendo y trabajando dará frutos se está acercando. El éxito, el reconocimiento, la claridad y la alegría genuina están llegando. Para aprovechar al máximo este flujo positivo, sigue haciendo lo que estás haciendo y mantén la confianza.",
+            "advice": "Puedes mirar hacia el futuro con buenas expectativas. En un futuro cercano, llegará la experiencia de que lo que has querido se haga realidad. No detengas tus esfuerzos actuales."
+          }
+        }
+      },
+      "judgment": {
+        "name": "El Juicio",
+        "keywords": ["despertar", "renovación", "ajuste"],
+        "daily": "Hoy es una oportunidad para limpiar lo viejo y comenzar de nuevo. Usa lo que has aprendido del pasado.",
+        "reading": {
+          "present": {
+            "headline": "Ha llegado un momento de profundo despertar.",
+            "symbol": "En la carta del Juicio, el ángel Gabriel sopla una trompeta y los muertos se levantan de sus tumbas a su sonido. Este no es un juicio — es una convocatoria. Un llamado a levantarse para un propósito más elevado. Esta carta en posición presente significa que un despertar importante, una comprensión, o un llamado hacia una nueva vocación está ocurriendo en tu vida.",
+            "advice": "No temas este despertar. El llamado interior que sientes ahora mismo es real. Permítete soltar el yo pasado y levantarte hacia una versión más auténtica de ti mismo."
+          },
+          "advice": {
+            "headline": "Es hora de limpiar el pasado y avanzar al siguiente paso.",
+            "symbol": "El Juicio en posición oculta sugiere que no has liberado completamente el pasado. Errores pasados, arrepentimientos, o heridas antiguas pueden estar impidiéndote avanzar. La carta del Juicio simboliza no la condena sino el perdón y la liberación.",
+            "advice": "Perdónate a ti mismo. El pasado no puede cambiarse, pero el pasado no te define. Levántate de nuevo en este momento como alguien que ha aprendido de él."
+          },
+          "future": {
+            "headline": "Se acerca un momento de transición importante.",
+            "symbol": "El Juicio en posición futura presagia que en un futuro cercano llegará a tu vida un importante momento de despertar y transición. Puede ser una decisión importante, la conclusión de una situación prolongada, o un llamado hacia una dirección completamente nueva. Lo que estás construyendo ahora sirve de preparación para esa transición.",
+            "advice": "Prepárate para encontrar el cambio. Cuando se acerque el momento de la decisión importante, responder con conciencia despierta en lugar de miedo es lo que lleva tu vida al siguiente nivel."
+          }
+        }
+      },
+      "world": {
+        "name": "El Mundo",
+        "keywords": ["completitud", "integración", "logro"],
+        "daily": "Hoy pueden llegar los frutos de tu esfuerzo. Reconoce tu logro y prepárate para lo que sigue.",
+        "reading": {
+          "present": {
+            "headline": "Un ciclo importante se está completando.",
+            "symbol": "En la carta del Mundo, una figura baila suspendida en el aire sosteniendo una corona de laurel. La corona que la rodea simboliza la completitud; las cuatro criaturas en las esquinas representan la integración completa. Esta carta en posición presente significa que algo hacia lo que has trabajado durante mucho tiempo está ahora cerca de completarse, o un capítulo importante de la vida está concluyendo.",
+            "advice": "Reconoce plenamente lo que has logrado ahora mismo. La humildad es buena, pero subvalorar excesivamente tus propios logros no ayuda a nadie. Disfruta plenamente este momento."
+          },
+          "advice": {
+            "headline": "Saborea plenamente el significado de la completitud.",
+            "symbol": "El Mundo en posición oculta sugiere que aunque ya has completado o estás cerca de completar algo importante, no lo estás reconociendo o disfrutando plenamente. Siempre correr hacia el siguiente objetivo y la siguiente tarea significa perderse la plenitud de este momento presente. La carta del Mundo aconseja tomar tiempo para detenerse, mirar atrás y aceptar lo que has logrado tal como está.",
+            "advice": "Detente y mira atrás. Necesitas tiempo para saborear plenamente lo lejos que has llegado y lo que has logrado. Esa plenitud se convierte en el verdadero punto de partida para el próximo viaje."
+          },
+          "future": {
+            "headline": "Un comienzo de una nueva dimensión te espera.",
+            "symbol": "El Mundo en posición futura es una señal futura tan poderosa y positiva como pueda haberla. Lo que actualmente estás trabajando está en el camino hacia la completitud, y en el futuro cercano, ese cumplimiento abrirá posibilidades de una nueva dimensión. Esta completitud no es un final — es un nuevo punto de partida en un viaje espiral más grande.",
+            "advice": "Avanza con expectativa y emoción. La dirección hacia la que te diriges es correcta. El momento de completitud se acerca, y más allá de él, un mundo más amplio y abundante te espera."
+          }
+        }
+      }
+    }
+  }
+}

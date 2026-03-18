@@ -63,6 +63,15 @@ export const TEST_CATALOG: TestItem[] = [
     isActive: true,
   },
   {
+    id: "pet-personality-test",
+    slug: "/tests/pet-personality-test",
+    title: "Pet Personality Test",
+    description: "Analyze your pet's dog or cat personality through everyday behavior.",
+    category: "personality",
+    popularity: 82,
+    isActive: true,
+  },
+  {
     id: "yes-no-tarot",
     slug: "/tests/tarot-yes-no",
     title: "Yes or No Tarot",

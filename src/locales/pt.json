@@ -1,0 +1,1089 @@
+{
+  "nav": {
+    "tests": "Tests",
+    "tarot": "Tarot du Jour",
+    "about": "À propos",
+    "start": "Commencer",
+    "startLong": "Démarrer le Test"
+  },
+  "common": {
+    "startTest": "Démarrer le Test",
+    "minutes": "min",
+    "questionsUnit": "questions",
+    "next": "Suivant",
+    "back": "Retour",
+    "seeResult": "Voir le Résultat",
+    "retake": "Recommencer",
+    "saveImage": "Enregistrer l'Image",
+    "copyLink": "Copier le Lien",
+    "copied": "Copié ✓",
+    "catPersonality": "Personnalité",
+    "catLove": "Amour",
+    "catFun": "Fun",
+    "catMbti": "MBTI",
+    "catFortune": "Fortune",
+    "shareResult": "Partager le Résultat",
+    "takeOther": "Essayer un Autre Test",
+    "viewAll": "Tout Voir",
+    "start": "Démarrer",
+    "menuToggle": "Basculer le menu"
+  },
+  "home": {
+    "badge": "La façon la plus amusante de se découvrir",
+    "title1": "Quel type de",
+    "title2": "personne suis-je ?",
+    "title3": "Découvrez maintenant",
+    "subtitle": "Personnalité, amour et plus — analyse psychologique amusante et précise en 3 minutes.",
+    "ctaPrimary": "Démarrer un Test →",
+    "ctaSecondary": "Voir les Tests Populaires",
+    "participants": "🎉 120 000 personnes ont participé",
+    "trending": "🔥 Tendances",
+    "trendingSub": "Les tests les plus partagés aujourd'hui",
+    "viewAll": "Tout Voir →",
+    "newSection": "✨ Tout Nouveau",
+    "newSub": "Nouveaux tests fraîchement ajoutés",
+    "moreTests": "Plus de Tests",
+    "moreSub": "Explorez tous les tests sur divers sujets",
+    "totalCount": "Total : {{count}}",
+    "catSection": "Quel test vous intéresse ?",
+    "catPersonality": "Personnalité",
+    "catLove": "Type Amoureux",
+    "catFun": "Juste pour le Fun",
+    "catTarot": "Tirer le Tarot",
+    "tarotLabel": "🌙 Nouvelle carte chaque jour",
+    "tarotTitle": "Quelle est votre carte du destin aujourd'hui ?",
+    "tarotDesc": "Découvrez le message du jour sur l'amour, le travail et l'énergie avec une seule carte de tarot.",
+    "tarotCta": "🔮 Tirer ma Carte",
+    "kshamanHeadline": "Qui lira\nvotre destin ?",
+    "kshamanDesc1": "애기보살 lit avec pure intuition.",
+    "kshamanDesc2": "천신도령 trouve les tournants décisifs.",
+    "kshamanDesc3": "무속인 lit le flux de votre vie.",
+    "kshamanDesc4": "Même thème natal, voix différente de chaque lecteur.",
+    "kshamanCta": "🔮 Voir ma Lecture",
+    "kshamanHelper": "Même thème natal — chaque lecteur interprète différemment",
+    "kshamanProof": "1 284 personnes ont reçu leur lecture aujourd'hui",
+    "kshamanKeywords": "Fortune Amoureuse · Fortune Financière · Point de Tournant Vital",
+    "kshamanLabel": "🔮 Lecture K-Shaman",
+    "viewAllTests": "Voir Tous les Tests ({{count}})"
+  },
+  "pages": {
+    "tests": {
+      "title": "Collection de Tests",
+      "subtitle": "Découvrez ce que vous avez toujours voulu savoir sur vous-même. Explorez les côtés cachés de votre personnalité à travers des tests amusants et perspicaces.",
+      "count": "{{count}} Tests",
+      "catAll": "Tous",
+      "empty": "Aucun test dans cette catégorie."
+    },
+    "about": {
+      "title": "À propos d'InnerMeter",
+      "p1": "InnerMeter est une plateforme proposant divers tests de personnalité et du contenu psychologique engageant.",
+      "p2": "Les utilisateurs peuvent découvrir leurs tendances, leur type psychologique et le flux de leur vie à travers des questions simples, de façon amusante.",
+      "p3": "Le contenu d'InnerMeter est conçu pour offrir des expériences d'auto-exploration et de divertissement.",
+      "testsTitle": "Tests Disponibles (Exemples)",
+      "tests": [
+        "Quel est mon MBTI ?",
+        "Mon Test de Style d'Attachement",
+        "Intuition vs. Logique",
+        "Jusqu'où va ma Passion ?",
+        "Teto vs. Egen — Lequel Êtes-Vous ?",
+        "À Quel Âge Votre Vie S'Épanouira-t-elle ?",
+        "Lecture K-Shaman"
+      ],
+      "p4": "InnerMeter vise à aider les gens à se comprendre de manière plus intéressante et à partager leurs résultats avec leurs amis.",
+      "disclaimer": "Le contenu de fortune et de divination sur ce site est uniquement à des fins de divertissement."
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité",
+      "p1": "InnerMeter prend au sérieux la protection de vos informations personnelles.",
+      "p2": "Ce site peut collecter uniquement les informations minimales nécessaires pour fournir nos services.",
+      "collectedTitle": "Informations que Nous Pouvons Collecter",
+      "item1": "Date de naissance",
+      "item2": "Genre",
+      "item3": "Pays",
+      "p3": "Ces informations sont utilisées uniquement pour générer des résultats de tests et améliorer l'expérience utilisateur.",
+      "p4": "InnerMeter ne vend ni ne partage vos informations personnelles avec des tiers.",
+      "p5": "Des statistiques de visite peuvent être collectées via des outils d'analyse comme Google Analytics.",
+      "p6": "Ces informations sont utilisées pour améliorer le site et la qualité du contenu.",
+      "p7": "Les utilisateurs peuvent arrêter d'utiliser le site à tout moment.",
+      "contactLink": "page de contact",
+      "p8Pre": "Pour toute demande, contactez-nous via notre ",
+      "p8Post": ".",
+      "emailLabel": "E-mail de contact",
+      "adTitle": "Publicité (Google AdSense)",
+      "adText": "InnerMeter utilise Google AdSense pour afficher des publicités. Google et des fournisseurs tiers utilisent des cookies pour diffuser des annonces basées sur vos visites précédentes sur ce site ou d'autres sites. Vous pouvez désactiver la publicité personnalisée en visitant les Paramètres des Annonces Google.",
+      "adLinkText": "Paramètres des Annonces Google"
+    },
+    "contact": {
+      "title": "Nous Contacter",
+      "p1": "Pour toute question relative aux services InnerMeter, veuillez nous envoyer un e-mail.",
+      "emailLabel": "E-mail",
+      "p2": "Nous répondrons aussi vite que possible.",
+      "p3": "Merci."
+    },
+    "mbti_results": {
+      "traits": "Traits de Personnalité",
+      "strengths": "Points Forts",
+      "weaknesses": "Points Faibles",
+      "relationships": "Style Relationnel",
+      "careers": "Carrières Recommandées",
+      "compatibility": "Compatibilité",
+      "explore": "Explorer les Autres Types MBTI",
+      "exploreDesc": "Curieux des autres types de personnalité ? Découvrez les 16 types MBTI."
+    }
+  },
+  "card": {
+    "start": "Démarrer",
+    "participants": "participé"
+  },
+  "result": {
+    "resultBadge": "✨ Résultat {{title}}",
+    "cardTagline": {
+      "love": "Analyse du Type Amoureux",
+      "personality": "Analyse de Personnalité",
+      "mbti": "Type MBTI",
+      "psychology": "Analyse Psychologique",
+      "fun": "Analyse Fun",
+      "fortune": "Lecture de Fortune",
+      "tarot": "Tarot · Fortune du Jour"
+    },
+    "strengths": "Mes Points Forts",
+    "caution": "Points à Surveiller",
+    "loveStyle": "Style Amoureux",
+    "compatibleVibe": "Type Compatible",
+    "shareCardTitle": "Enregistrer et Partager la Carte Résultat ✨",
+    "shareCardSub": "Enregistrez en image et partagez sur les réseaux sociaux !",
+    "shareMobile": "Partager en Image (Mobile)",
+    "snsDivider": "Partager sur les Réseaux Sociaux",
+    "shareTitle": "Mon résultat {{testTitle}} : {{resultTitle}} !",
+    "recommended": "Essayez Aussi Ces Tests 🎯",
+    "recommendedSub": "Tests que les personnes avec ce résultat essaient ensuite",
+    "saveError": "Échec de l'enregistrement 😢\nEssayez de faire une capture d'écran !"
+  },
+  "share": {
+    "copySuccess": "Lien copié ! 🎉",
+    "copySuccessDesc": "Lien copié dans le presse-papiers.",
+    "copyError": "Échec de la copie",
+    "copyErrorDesc": "Veuillez réessayer.",
+    "shareOnApp": "Partager sur {{app}}",
+    "shareOnAppDesc": "Lien copié ! Collez-le dans l'appli.",
+    "pasteHint": "Pour Insta, TikTok & WhatsApp — copiez le lien puis collez dans l'appli",
+    "facebook": "Facebook",
+    "instagram": "Insta",
+    "instagramFull": "Instagram",
+    "kakao": "Kakao",
+    "kakaoFull": "KakaoTalk",
+    "tiktok": "TikTok",
+    "line": "LINE",
+    "threads": "Threads",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "tagline": "Découvrez votre moi intérieur de façon légère et amusante.",
+    "services": "Services",
+    "info": "Informations",
+    "copyright": "© 2026 InnerMeter. Tous droits réservés.",
+    "about": "À propos",
+    "privacy": "Confidentialité",
+    "contact": "Contact",
+    "terms": "Conditions"
+  },
+  "seo": {
+    "home": {
+      "title": "InnerMeter — Tests de Personnalité et de Psychologie",
+      "desc": "Qui suis-je vraiment ? Personnalité, style amoureux, MBTI, tarot, K-Shaman et plus. Découvrez votre moi intérieur avec 14 tests amusants."
+    },
+    "tests": {
+      "title": "Tous les Tests | InnerMeter",
+      "desc": "Parcourez des tests de personnalité, d'amour, MBTI et de psychologie. Trouvez le test parfait pour vous."
+    },
+    "tarot": {
+      "title": "Tarot du Jour | InnerMeter",
+      "desc": "Tirez 3 cartes de tarot et recevez le message du jour sur l'amour, le travail et votre avenir."
+    },
+    "kshaman": {
+      "title": "Lecture K-Shaman | InnerMeter",
+      "desc": "Obtenez votre lecture de fortune à la coréenne. Découvrez votre point de tournant vital avec K-Shaman."
+    },
+    "about": {
+      "title": "À propos d'InnerMeter",
+      "desc": "InnerMeter est une plateforme proposant des tests de personnalité, d'amour, MBTI et de tarot."
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité | InnerMeter",
+      "desc": "Lisez la Politique de Confidentialité d'InnerMeter."
+    },
+    "contact": {
+      "title": "Contact | InnerMeter",
+      "desc": "Une question ? Contactez InnerMeter par e-mail."
+    },
+    "terms": {
+      "title": "Conditions d'Utilisation | InnerMeter",
+      "desc": "Lisez les Conditions d'Utilisation d'InnerMeter."
+    }
+  },
+  "kshaman": {
+    "ui": {
+      "heading": "Qui lira votre destin ?",
+      "subtext": "Chaque lecteur spirituel a une voix et une interprétation différentes.\nChoisissez celui qui appelle votre cœur.",
+      "footerNote": "Point de Tournant · Fortune Amoureuse · Fortune Financière · Chemin vers le Succès",
+      "backToPersona": "Choisir un Autre Lecteur",
+      "formTitle": "Dites-moi votre date de naissance",
+      "formSubtitle": "Plus c'est précis, plus la lecture est profonde",
+      "birthYear": "Année de Naissance",
+      "yearPlaceholder": "ex. 1995",
+      "monthLabel": "Mois",
+      "dayLabel": "Jour",
+      "monthSelect": "Sélectionner le Mois",
+      "daySelect": "Sélectionner le Jour",
+      "genderLabel": "Genre",
+      "female": "👩 Féminin",
+      "male": "👨 Masculin",
+      "readingBtn": "🔮 Voir ma Lecture",
+      "reEnter": "Ressaisir",
+      "readingOf": "Lecture de {{name}}",
+      "turningBanner": "Point de Tournant Vital",
+      "turningSubtext": "Le flux de votre vie change autour de cet âge",
+      "ageSuffix": " ans",
+      "saveImage": "Enregistrer l'Image du Résultat",
+      "saveImageSaving": "Enregistrement...",
+      "copyLink": "Copier le Lien",
+      "newReading": "Nouvelle Lecture",
+      "saveSuccess": "Image enregistrée ! 🔮",
+      "saveSuccessDesc": "Vérifiez votre galerie.",
+      "saveError": "Échec de l'enregistrement",
+      "saveErrorDesc": "Veuillez réessayer.",
+      "copySuccess": "Lien copié ! 🎉",
+      "copySuccessDesc": "Partagez-le avec vos amis.",
+      "copyError": "Échec de la copie",
+      "copyErrorDesc": "Veuillez réessayer.",
+      "successInfo": "Succès : Après {{sa}} ans · Richesse : {{ws}}–{{we}} ans",
+      "genderFemale": "Féminin",
+      "genderMale": "Masculin",
+      "cardReading": "Lecture de {{name}}",
+      "turningAge": "Mon Point de Tournant Vital",
+      "shareText": "J'ai reçu ma lecture K-Shaman 🔮 Découvrez la vôtre aussi !"
+    },
+    "lifeFlow": {
+      "early_hard": "Type Effort Précoce",
+      "mid_rise": "Type Montée Médiane",
+      "late_success": "Type Épanouissement Tardif",
+      "steady_rise": "Type Montée Régulière"
+    },
+    "sec": {
+      "summary": "Lecture Générale",
+      "inborn": "Votre Énergie Innée",
+      "turning": "Point de Tournant Vital",
+      "success": "Chemin vers le Succès",
+      "love": "Flux Amoureux",
+      "wealth": "Flux de Richesse",
+      "warning": "Période de Prudence"
+    },
+    "persona": {
+      "baby_bosal": {
+        "title": "Esprit de l'Innocence",
+        "vibe": "Amical et intuitif, comme une grande sœur joyeuse"
+      },
+      "sunnyeo_bosal": {
+        "title": "Esprit de la Lune",
+        "vibe": "Élégant et mystérieux, une voyante gracieuse"
+      },
+      "chunshin_doryeong": {
+        "title": "Esprit du Ciel",
+        "vibe": "Fort et direct, un guerrier céleste audacieux"
+      },
+      "musog_in": {
+        "title": "Esprit de la Tradition",
+        "vibe": "Honnête et direct, le chaman classique"
+      },
+      "beopsa": {
+        "title": "Esprit de la Sagesse",
+        "vibe": "Calme et philosophique, un sage ancien"
+      }
+    }
+  },
+  "tarot": {
+    "reading": {
+      "title": "Lecture de Tarot du Jour",
+      "subtitle": "Choisissez 3 cartes et explorez votre flux actuel",
+      "questionLabel": "Avez-vous une question ou une préoccupation ?",
+      "questionPlaceholder": "Exemple : amour, travail, relations, choix, anxiété, préoccupations futures",
+      "questionOptional": "(facultatif)",
+      "continueBtn": "Choisir les Cartes",
+      "selectInstruction": "Sélectionnez 3 cartes pour votre lecture",
+      "selectedCount": "Sélectionnées {{count}} / 3",
+      "readBtn": "Commencer la Lecture",
+      "readBtnHint": "Sélectionnez 3 cartes pour activer",
+      "position1": "Situation Actuelle",
+      "position2": "Influence Cachée · Conseil",
+      "position3": "Futur Proche · Direction",
+      "keywords": "Mots-clés",
+      "interpretation": "Interprétation",
+      "synthesisTitle": "Lecture Combinée",
+      "synthesisSubtitle": "Une synthèse des trois cartes",
+      "resetBtn": "Retirer",
+      "caution": "Prudence",
+      "snsDivider": "Partager ma Lecture",
+      "shareTitle": "Lecture de Tarot 3 Cartes du Jour",
+      "shareText": "Mon tarot 3 cartes aujourd'hui : {{cards}} ✨ mytesttype.com/tarot"
+    },
+    "cards": {
+      "fool": {
+        "name": "The Fool",
+        "keywords": ["beginnings", "potential", "impulse"],
+        "daily": "New beginning energy surrounds you. Balance enthusiasm with grounded preparation.",
+        "reading": {
+          "present": {
+            "headline": "A new journey is about to begin.",
+            "symbol": "The Fool stands at the cliff's edge, eyes skyward, full of innocent hope. His white rose symbolizes untouched potential. This card in the present position signals that a new chapter is opening in your life. The energy of fresh beginnings surrounds you right now.",
+            "advice": "Trust your instincts over perfect preparation. The courage to take the first step is what creates the path."
+          },
+          "advice": {
+            "headline": "A deep desire for freedom stirs beneath the surface.",
+            "symbol": "The Fool in this position reveals an intense inner longing for a fresh start that you may be hiding from yourself. Fear of judgment or practical worries are covering your true desires. The Fool's pack is light — examine which of your current burdens are real and which are imagined.",
+            "advice": "Listen to that untouched, innocent part of you that still knows what it truly wants. Strip away the fear and be honest with yourself."
+          },
+          "future": {
+            "headline": "An unexpected opportunity is about to unfold.",
+            "symbol": "The Fool in the future position strongly hints that an unplanned crossroads will soon appear before you. The opportunity may look risky or even absurd. Others may warn you against it. But the card is clear: that possibility is real. As the Fool steps forward and the ground appears beneath him, a path will form under your sincere steps.",
+            "advice": "Don't let the perfect moment pass you by while waiting for certainty. Embrace the new possibility with courage when it arrives."
+          }
+        }
+      },
+      "magician": {
+        "name": "The Magician",
+        "keywords": ["action", "will", "skill"],
+        "daily": "Today favors action. Your ability to turn ideas into reality is strong.",
+        "reading": {
+          "present": {
+            "headline": "All the tools you need are already in place.",
+            "symbol": "The Magician raises his wand skyward while all four elemental tools lie ready on his table. This card in the present position confirms you have the skill, knowledge, and resources to achieve your goal right now. Nothing essential is missing — only the decision to act.",
+            "advice": "Start immediately. You are already equipped. Channel your will into one decisive action right now."
+          },
+          "advice": {
+            "headline": "It's time to reclaim your hidden agency.",
+            "symbol": "The Magician in the hidden position signals that powerful untapped abilities lie dormant within you. You may be passively following someone else's lead or being swept along by circumstance. The Magician actively shapes reality — and so can you. Review what you actually control in this situation.",
+            "advice": "Don't look outside for authority. Consciously activate the skills and will you already possess."
+          },
+          "future": {
+            "headline": "Action will bring tangible results soon.",
+            "symbol": "The Magician in the future position tells you that your skills will soon translate into real, visible outcomes. Things you are preparing or have already started will begin to manifest. But the Magician's power comes from focus — spreading energy too thin dilutes the magic.",
+            "advice": "Don't scatter your energy. Pour everything into your one most important goal and results will appear faster than expected."
+          }
+        }
+      },
+      "high_priestess": {
+        "name": "The High Priestess",
+        "keywords": ["intuition", "mystery", "inner wisdom"],
+        "daily": "Trust your intuition today. Your feelings may be more accurate than logic.",
+        "reading": {
+          "present": {
+            "headline": "Something unseen is guiding the current situation.",
+            "symbol": "The High Priestess sits quietly before the veiled curtain, her gaze deep with silent wisdom. This card in the present position means that hidden information or unseen forces are influencing your situation. Rushing to conclusions is unwise — observe, listen to your intuition, and let things reveal themselves naturally.",
+            "advice": "Don't suppress unexplained feelings. The High Priestess says: what you sense instinctively is far closer to the truth."
+          },
+          "advice": {
+            "headline": "Your inner wisdom already knows the answer.",
+            "symbol": "The High Priestess in the hidden position suggests you may be relying too heavily on external advice or information. Listen to others, yes — but the most trustworthy voice right now comes from within you. Seek quiet moments. The answers to your most pressing questions may surface with surprising clarity when you stop and listen inward.",
+            "advice": "Create silence. Whether through meditation or a quiet walk, stillness is the prerequisite for hearing your inner voice."
+          },
+          "future": {
+            "headline": "With time, the truth will reveal itself.",
+            "symbol": "The High Priestess in the future position signals that what is currently unclear will become much clearer soon. What has been hidden behind the veil will slowly come to light, and answers to your pressing questions will emerge naturally. But forcing the truth out will only make it retreat deeper. The Priestess's time flows slowly and silently.",
+            "advice": "Don't rush to conclusions or force control over the situation. When the time comes, you will know what you need to know."
+          }
+        }
+      },
+      "empress": {
+        "name": "The Empress",
+        "keywords": ["abundance", "growth", "nurture"],
+        "daily": "Growth and abundance energy is present today. Take time to nurture yourself.",
+        "reading": {
+          "present": {
+            "headline": "Rich, nurturing energy flows around you right now.",
+            "symbol": "The Empress sits comfortably on a flower-filled earth, crowned with twelve stars, surrounded by ripened grain and forest. This card in the present position means fertile ground for growth has been prepared around you. Whatever you plant now — in business, relationships, or creative work — has excellent potential to flourish.",
+            "advice": "Keep tending whatever you are growing. No need to rush. The Empress knows that true growth requires time and patient care."
+          },
+          "advice": {
+            "headline": "Allow yourself to be nurtured first.",
+            "symbol": "The Empress in the hidden position gently reminds you that you may be pouring too much energy into others before filling your own reserves. The Empress is infinitely abundant because she nurtured herself first. You deserve time, pleasure, and rest without guilt. How full is your energy tank right now?",
+            "advice": "Caring for yourself is not selfish. Honestly assess what you most need right now, and fill that first."
+          },
+          "future": {
+            "headline": "The fruits of your efforts will slowly reveal themselves.",
+            "symbol": "The Empress in the future position foretells that what you have carefully nurtured will soon bear tangible results. Like a seed quietly taking root before it sprouts, the effort and dedication you have invested will begin appearing in visible form. This process does not happen suddenly — the Empress's growth follows the rhythm of nature.",
+            "advice": "Keep doing what you are doing. Growth is happening even when you cannot yet see it. A little more patience will reveal the harvest."
+          }
+        }
+      },
+      "emperor": {
+        "name": "The Emperor",
+        "keywords": ["authority", "structure", "control"],
+        "daily": "Structure and responsibility matter today. Set clear standards and stay consistent.",
+        "reading": {
+          "present": {
+            "headline": "A stable foundation and clear structure are needed now.",
+            "symbol": "The Emperor sits firmly on his stone throne, holding orb and scepter, armored beneath a red robe. This card in the present position signals that clear boundaries, structure, and consistent principles are needed in your current situation. Reason over emotion, planning over impulse, order over chaos — these are the most effective approaches now.",
+            "advice": "Set unshakable standards and maintain them consistently. The Emperor's power comes not from rigidity but from unwavering principle."
+          },
+          "advice": {
+            "headline": "You need to set clearer boundaries.",
+            "symbol": "The Emperor in the hidden position suggests that you may not be establishing sufficient boundaries in certain relationships or situations. A pattern of difficulty saying no and tolerating intrusions may be repeating. The Emperor is not about suppressing others — it is about knowing and protecting your own values and limits.",
+            "advice": "Clearly define what you can and cannot accept. Enforcing those boundaries gently but firmly is the right choice for you and everyone around you."
+          },
+          "future": {
+            "headline": "A period of stability and order is approaching.",
+            "symbol": "The Emperor in the future position foretells that current turbulence or instability will soon give way to structure and stability. The foundations being painfully laid now will solidify, and uncertain situations will begin to organize into predictable form. To make the most of this period, set clear goals now and pursue them consistently.",
+            "advice": "Begin building long-term structure now. Even small rules consistently kept will return as great stability later."
+          }
+        }
+      },
+      "hierophant": {
+        "name": "The Hierophant",
+        "keywords": ["tradition", "teaching", "faith"],
+        "daily": "Following established wisdom or trusted advice may help you today.",
+        "reading": {
+          "present": {
+            "headline": "A stable belief system and structure are supporting you.",
+            "symbol": "The Hierophant sits blessing two devotees, flanked by two pillars, surrounded by symbols of tradition and authority. This card in the present position means that proven methods, trustworthy systems, or the wisdom of a teacher or mentor are playing an important role right now. Following collective wisdom over individual impulse may be the safer and more effective choice.",
+            "advice": "Don't hesitate to seek advice from someone trustworthy or to follow an already-proven method. Opening your mind to shared wisdom is what you need right now."
+          },
+          "advice": {
+            "headline": "Let go of the stubbornness to solve everything alone.",
+            "symbol": "The Hierophant in the hidden position suggests you may be either excessively rejecting external wisdom or blindly following it. Both extremes block growth. True learning is receiving external wisdom with an open mind and then adapting it thoughtfully to your own situation.",
+            "advice": "What you need now is to seriously listen to someone with more experience than you. Seeking advice is not weakness — it is wisdom."
+          },
+          "future": {
+            "headline": "A period of recognition and support is coming.",
+            "symbol": "The Hierophant in the future position foretells that external recognition, important endorsement, or significant advice from a trusted figure may soon arrive. A teacher, mentor, superior, or trusted community may acknowledge your efforts. This card also connects to formal education, certifications, or official roles within an organization.",
+            "advice": "Don't ignore formal channels. Working within proven structures and systems may be the fastest path at this time."
+          }
+        }
+      },
+      "lovers": {
+        "name": "The Lovers",
+        "keywords": ["choice", "relationship", "harmony"],
+        "daily": "Today, let your values guide your choices in relationships and decisions.",
+        "reading": {
+          "present": {
+            "headline": "An important choice stands before you.",
+            "symbol": "The Lovers card shows two figures beneath an angel spreading arms in sunlight. This is not merely about romance — it is a deep question about how you will live, who you will choose, and what you will give up. An important decision awaits you, and it must be made according to your true values and heart's voice, not short-term convenience.",
+            "advice": "Make the choice that comes from your heart, not the convenient one. Look honestly at what you truly want before you decide."
+          },
+          "advice": {
+            "headline": "Check the harmony between your relationships and your values.",
+            "symbol": "The Lovers in the hidden position suggests that somewhere in your life, an important relationship or choice is conflicting with your deepest values. Something may look fine on the surface, but your deepest self questions whether it truly fits you. The desire to be loved or to avoid conflict may be silencing your authentic voice.",
+            "advice": "Check whether your closest relationships and most important choices align with your true self. Don't postpone this examination, even if it feels uncomfortable."
+          },
+          "future": {
+            "headline": "The results of your choices will become clear.",
+            "symbol": "The Lovers in the future position foretells that the outcome of choices you are currently deliberating or postponing will soon become visible. If a good choice was made, harmony and inner peace will follow. If misaligned choices are still being delayed, the tension will surface. Either way, this card teaches that honest choices ultimately lead to better outcomes.",
+            "advice": "If there is something you have not yet decided, stop postponing. A choice made with sincerity always points in the right direction."
+          }
+        }
+      },
+      "chariot": {
+        "name": "The Chariot",
+        "keywords": ["drive", "willpower", "victory"],
+        "daily": "Move forward with strong will today. Don't stop even when obstacles appear.",
+        "reading": {
+          "present": {
+            "headline": "Powerful momentum is with you right now.",
+            "symbol": "The charioteer drives two sphinxes pulling in opposite directions through sheer willpower alone. Armored and crowned with stars, his posture is resolute. This card in the present position signals that you have strong momentum and focused energy toward victory. Despite internal and external conflicts, willpower and discipline can carry you through to your goal.",
+            "advice": "Harness this energy fully. With a clear goal and unwavering focus, no obstacle can stop you right now."
+          },
+          "advice": {
+            "headline": "You need to integrate internal conflicts first.",
+            "symbol": "The Chariot in the hidden position suggests that before directing your energy outward, you need to resolve your inner conflicts. Just as the charioteer must control both horses to move forward, you need to bring your conflicting inner desires into alignment. If you know the direction but keep getting pulled elsewhere, or know what to do but can't act — that inner conflict is what's holding you back.",
+            "advice": "First identify what is conflicting within you. Once you understand the source of conflict, you can integrate it and move forward."
+          },
+          "future": {
+            "headline": "A victory bringing you closer to your goal is approaching.",
+            "symbol": "The Chariot in the future position strongly foretells that your current effort and focus will soon lead to concrete results. Even if obstacles appear, the experience of overcoming them will come, and a breakthrough toward your goal will open. This victory is not accidental — the concentration and self-discipline of this moment are what create that result.",
+            "advice": "Maintain your current speed and focus. The finish line is much closer than you think. Don't stop."
+          }
+        }
+      },
+      "strength": {
+        "name": "Strength",
+        "keywords": ["courage", "patience", "inner strength"],
+        "daily": "Inner strength and patience are key today. A gentle approach may be more effective than force.",
+        "reading": {
+          "present": {
+            "headline": "Gentleness is the greatest power available to you right now.",
+            "symbol": "The woman in the Strength card quietly holds the lion's mouth with both hands — taming wildness not through force or violence, but through love and patience. This card in the present position means the situation before you cannot be resolved by pushing harder. Patience, empathy, and deep inner calm are the most needed weapons right now.",
+            "advice": "Choose patience over force. Acknowledge the fear or urgency you feel, but don't be swept away by it. Inner stillness is the strongest power to guide this situation."
+          },
+          "advice": {
+            "headline": "Look at your own shadow side with gentleness.",
+            "symbol": "Strength in the hidden position suggests you may be suppressing or avoiding your own fears, anger, or impulsive parts. Like the woman with the lion, what's needed is not to forcibly eliminate the dark side within — but to acknowledge it and gently soothe it. Suppressed emotions don't disappear. They burst out in larger, less controllable ways. Meet those emotions with gentleness now, before that happens.",
+            "advice": "Don't fear the darker emotions within you. When you can acknowledge and simply observe them without judgment, true inner power finally reveals itself."
+          },
+          "future": {
+            "headline": "After a period of patience, gradual progress will emerge.",
+            "symbol": "Strength in the future position tells you that the difficulty or challenge you are currently experiencing is not endless — it is a process of strengthening your inner core. When the period of patience ends, you will find yourself far stronger than before. Not sudden change, but steady, certain improvement is the flow that awaits.",
+            "advice": "Don't give up. This period of endurance will become the time you are most proud of later. You are advancing slowly but surely."
+          }
+        }
+      },
+      "hermit": {
+        "name": "The Hermit",
+        "keywords": ["reflection", "solitude", "wisdom"],
+        "daily": "Take quiet time for self-reflection today. Seek answers in solitude.",
+        "reading": {
+          "present": {
+            "headline": "Now is the time to turn your gaze inward.",
+            "symbol": "The Hermit stands alone atop a snow-covered mountain, holding a lantern — not to illuminate the outside world, but to light his own inner path. This card in the present position means that what you most need right now is not external activity or connection with others, but deep inner exploration and time alone. Quiet the world's noise and focus on your own authentic voice.",
+            "advice": "Don't avoid time alone. Solitude is not loneliness. The reflection and wisdom you need right now can only be drawn from a quiet inner space."
+          },
+          "advice": {
+            "headline": "You need to distinguish between loneliness and solitude.",
+            "symbol": "The Hermit in the hidden position suggests it is time to distinguish whether you genuinely need time alone, or whether you are choosing isolation to avoid loneliness. Solitude for meaningful inner exploration charges your energy. But avoidant isolation born from fear creates deeper emptiness. Honestly examine which direction your alone-time is heading.",
+            "advice": "Distinguish whether what you truly need is inner reflection or connection and communication. Sometimes, opening your heart honestly to the right person is the wisest hermit's choice."
+          },
+          "future": {
+            "headline": "After reflection, a clear direction will begin to emerge.",
+            "symbol": "The Hermit in the future position foretells that what currently feels complex and unclear will soon organize itself into much greater clarity. Just as the Hermit's lantern lights the path one step at a time in darkness, your current inner exploration and quiet waiting will naturally reveal the direction you need. This clarity cannot be hurried — sufficient time for reflection must come first.",
+            "advice": "Don't rush. The wisest action right now is to wait for the right time. Decisions made after sufficient inner reflection will be the ones you regret least."
+          }
+        }
+      },
+      "wheel": {
+        "name": "Wheel of Fortune",
+        "keywords": ["change", "cycles", "fate"],
+        "daily": "Unexpected change or luck may come today. Stay flexible and go with the flow.",
+        "reading": {
+          "present": {
+            "headline": "A major turning point in life's great cycle is here.",
+            "symbol": "The Wheel of Fortune spins ceaselessly — what was above comes down, what was below rises up. This card in the present position means an important turning point has arrived or is arriving in your life. This change may not be something you intended, and it may come in unexpected ways. But the wheel always turns — current difficulties are not eternal, and current good circumstances require effort to maintain.",
+            "advice": "Don't resist the change. Rather than trying to control what's happening, the wiser choice is to flexibly ride the flow. The wheel turns, and your time will come."
+          },
+          "advice": {
+            "headline": "Accept the meaning of this period.",
+            "symbol": "The Wheel in the hidden position suggests that what you are experiencing is not mere coincidence — it is a necessity occurring within a larger cycle of life. The uncertainty and unpredictable changes you feel may actually be a preparation process guiding you toward a better direction. Resisting or trying to forcibly return to a previous state is like trying to spin the wheel backward.",
+            "advice": "There may be deeper meaning in what is currently happening. Accept the changes in circumstance as they are, and within them, seek the opportunities given to you."
+          },
+          "future": {
+            "headline": "A new phase will soon unfold.",
+            "symbol": "The Wheel of Fortune in the future position foretells that a new phase, different from the present, will begin soon. If you are in a difficult and frustrating period now, this is a hopeful signal that the wheel is turning and your time is coming. Conversely, if things are going well now, this is also a reminder not to neglect preparations to maintain and further develop this state. Change will definitely come.",
+            "advice": "Don't become complacent with the current situation. Preparing and flexibly welcoming the approaching change is the wisest attitude at this time."
+          }
+        }
+      },
+      "justice": {
+        "name": "Justice",
+        "keywords": ["balance", "truth", "accountability"],
+        "daily": "Fair and fact-based judgment is important today. Let reason guide your decisions.",
+        "reading": {
+          "present": {
+            "headline": "Truth and fairness are the core of the current situation.",
+            "symbol": "The Justice figure sits resolutely holding scales and a sword. The scales symbolize balance and fairness; the sword represents reason and clear judgment. This card in the present position means that truth, facts, and fair judgment are critically required in your current situation. Base your decisions on objective facts rather than emotional pulls, and take responsibility for your actions and decisions.",
+            "advice": "Set emotion aside momentarily and face the facts. Applying fair standards equally to yourself and others is the wisest choice right now."
+          },
+          "advice": {
+            "headline": "Assess yourself honestly and fairly.",
+            "symbol": "Justice in the hidden position suggests you may not be fully honest with yourself about the current situation, or may be under- or over-estimating your own role and responsibility. Are you seeing yourself as fairly as you judge others? Mistakes must be acknowledged; good actions must be acknowledged too. Justice does not allow being strict with oneself while lenient with others, or vice versa.",
+            "advice": "Stand before the mirror. The courage to see yourself fairly and honestly as you are is the most important thing you need right now."
+          },
+          "future": {
+            "headline": "Fair outcomes are coming.",
+            "symbol": "Justice in the future position foretells that in the near future, fair results of your actions and decisions so far will arrive. If you have worked hard and acted rightly, corresponding recognition or results will follow. If there are areas where you have avoided or not taken responsibility, consequences for those will also appear. Justice moves slowly, but it always arrives.",
+            "advice": "Every action you take now becomes a result. Consistently maintaining right action is the only way to create good outcomes in the future."
+          }
+        }
+      },
+      "hanged_man": {
+        "name": "The Hanged Man",
+        "keywords": ["pause", "perspective", "surrender"],
+        "daily": "Pause today and look at things from a new perspective rather than rushing.",
+        "reading": {
+          "present": {
+            "headline": "An intentional pause is the most powerful action right now.",
+            "symbol": "The Hanged Man dangles upside down from a tree by one ankle, yet his expression is remarkably serene. He accepts this not as punishment but as a voluntary choice to gain a new perspective. This card in the present position means this is a time when pausing and waiting is more necessary than forcing forward momentum. When you turn the world upside down, things previously invisible begin to be seen.",
+            "advice": "Don't try to force forward movement. Now is the time for waiting, observing, and gaining new perspective. Sometimes waiting for the boat is faster than swimming to cross the river."
+          },
+          "advice": {
+            "headline": "You need the courage to view the situation from a different angle.",
+            "symbol": "The Hanged Man in the hidden position warns that you may be viewing the situation from only one angle. Some of what you consider certain or obvious may actually be bias or stubbornness. What if you turned the world upside down like the Hanged Man? A perspective you have never considered before, a view from the opposite side, may contain the real solution to the current problem.",
+            "advice": "Question once more what you are convinced is right. Openly hearing opposing opinions or completely different perspectives may be the breakthrough you most need right now."
+          },
+          "future": {
+            "headline": "The waiting period ends and a new perspective opens.",
+            "symbol": "The Hanged Man in the future position foretells that the situation that now feels stuck or difficult will soon shift with a new perspective. The waiting and patience of now will open an entirely new viewpoint for you, which will reveal solutions and opportunities previously invisible. The time when stalled things begin to move is approaching.",
+            "advice": "Wait just a little longer. The stalled feeling right now is not permanent. When the waiting has ripened, answers will come from a completely unexpected direction."
+          }
+        }
+      },
+      "death": {
+        "name": "Death",
+        "keywords": ["transformation", "endings", "release"],
+        "daily": "Today, let go of the old and embrace new transformation without fear.",
+        "reading": {
+          "present": {
+            "headline": "One phase is ending and a new beginning is opening.",
+            "symbol": "The Death card's skeleton knight rides a white horse. Before it, kings, priests, and children all fall or kneel. This card does not mean literal death — it is a card of transformation, signaling that an important phase of life is concluding and a new chapter is beginning. If there are things in your life that no longer fit, things that have served their time, releasing them is the condition for a new beginning.",
+            "advice": "Check whether you are clinging to things that need to be let go. Endings are not loss — they are the process of creating new space. Have the courage to release the old."
+          },
+          "advice": {
+            "headline": "It is not fear but attachment that blocks transformation.",
+            "symbol": "Death in the hidden position suggests that you are clinging to something that should already have ended. It may be an old relationship, a past way of doing things, an outdated self-image, or a situation where the answer is already clear. Fear of change is a natural emotion, but you must look honestly at whether that fear is keeping you attached to something already dead. Letting go is the choice that will make you come alive again.",
+            "advice": "Make a list of things in your life that have already ended. A conscious ritual of releasing them is needed. Ending something is not giving up — it is a transition into new life."
+          },
+          "future": {
+            "headline": "After transformation, a new life unfolds.",
+            "symbol": "Death in the future position foretells that in the near future, an important phase will conclude and entirely new possibilities will open in its place. This ending may feel like loss, but it is simultaneously a starting point for new life. Just as winter must end for spring to come, the current conclusion creates space for a richer, more authentic new beginning that truly fits you.",
+            "advice": "Accept rather than resist the approaching change. What ends does not disappear — it transforms into another form. A new beginning is waiting for you."
+          }
+        }
+      },
+      "temperance": {
+        "name": "Temperance",
+        "keywords": ["balance", "moderation", "patience"],
+        "daily": "Seek balance and avoid extremes today. Move forward calmly without rushing.",
+        "reading": {
+          "present": {
+            "headline": "Balance and harmony are what you most need right now.",
+            "symbol": "The angel of Temperance flows water between two cups, maintaining equilibrium. One foot rests on water, one on land — embodying the middle ground between two worlds. This card in the present position means balance is an important theme in your life right now. Consider whether things have tilted too far in one direction — between work and rest, self and others, emotion and reason.",
+            "advice": "Avoid extremes. What you need now is not a fast decision or strong action, but the patient process of finding harmony slowly. Patience and moderation are your most powerful tools right now."
+          },
+          "advice": {
+            "headline": "Rushing may actually be pushing the goal further away.",
+            "symbol": "Temperance in the hidden position suggests that your urgency to get results too quickly may actually be making them more elusive. The angel of Temperance never rushes — the water flowing between the cups follows the rhythm of nature. The more artificially you try to speed things up, the more energy you waste and the more balance you lose.",
+            "advice": "Slow down. The fastest way to approach your goal right now is actually to move slowly and consistently. Practice letting go of impatience."
+          },
+          "future": {
+            "headline": "A stable, sustained flow is approaching.",
+            "symbol": "Temperance in the future position foretells that current chaos or imbalance will gradually settle into a stable, harmonious flow. This stability does not arrive suddenly — it is naturally created through the accumulation of temperance and patience. Move just a little more consistently, a little more balanced, and the stable state you desire will materialize.",
+            "advice": "Maintain your current direction. Consistent small adjustments create far more powerful and lasting change than extreme ones. Be patient."
+          }
+        }
+      },
+      "devil": {
+        "name": "The Devil",
+        "keywords": ["attachment", "bondage", "shadow"],
+        "daily": "Watch for excessive attachment or fear today. Reflect on what may be binding you.",
+        "reading": {
+          "present": {
+            "headline": "Invisible chains are binding you right now.",
+            "symbol": "In the Devil card, two figures are chained to the Devil, but the chains are surprisingly loose. They could free themselves at any moment, but they don't realize it. This card in the present position means you are currently trapped in some form of attachment, fear, addiction, or self-created limitation. Recognizing that the chains come not from outside but from within your own perception is the first step toward liberation.",
+            "advice": "Honestly look at what is making you feel chained right now. Distinguishing what is truly blocking you versus what is fear you have created is essential."
+          },
+          "advice": {
+            "headline": "Recognizing the shadow is the beginning of liberation.",
+            "symbol": "The Devil in the hidden position suggests that behind your current actions or decisions, dark motivations or impulses you yourself may not clearly recognize are operating. Fear, guilt, dependency, or harsh self-judgment may be influencing your choices. Continuing without recognizing this leads to repeating the same patterns. But the moment you recognize it, the chains loosen.",
+            "advice": "Look into the real motivations behind your actions. Without judgment, simply observing them as they are is enough to begin change."
+          },
+          "future": {
+            "headline": "Once recognized, liberation arrives.",
+            "symbol": "The Devil in the future position foretells that patterns of limitation or attachment you are dimly sensing will soon surface, and an opportunity to recognize and free yourself from them will come. This process may be uncomfortable. But what is revealed in the light is not meant to destroy you — it is meant to set you free. That moment of liberation is approaching.",
+            "advice": "Don't be afraid. What is revealed can be resolved. The courage to face your own shadow is what you most need now, and in that moment, true freedom begins."
+          }
+        }
+      },
+      "tower": {
+        "name": "The Tower",
+        "keywords": ["shock", "collapse", "sudden change"],
+        "daily": "Unexpected change may occur. Flexibility serves you better than rigidity today.",
+        "reading": {
+          "present": {
+            "headline": "Old structures are falling, but that is the beginning.",
+            "symbol": "In the Tower card, lightning strikes the tower's crown, figures fall from within. Shocking and frightening — but this destruction tears down what was built on an unstable foundation. This card in the present position means a sudden, chaotic change or shock is occurring in your life right now. Unexpected revelations, sudden shifts, or the collapse of plans. But this destruction is a necessary process for a stronger new foundation.",
+            "advice": "Don't resist — meet the upheaval with flexibility. The tower falling is not catastrophe; it is the process of correcting what was wrongly built. Now is the time to absorb the shock and envision a new foundation."
+          },
+          "advice": {
+            "headline": "Resistance to collapse creates greater suffering.",
+            "symbol": "The Tower in the hidden position suggests that your attempts to prevent what is collapsing are actually creating greater pain. When foundations are already shaking, trying to maintain the old form at any cost may cause an even greater collapse. The Tower card teaches that accepting uncontrollable change is actually the most practical choice.",
+            "advice": "Let go of resistance. Stop wasting energy on what you cannot change right now — focusing on rebuilding after the change is a far wiser strategy."
+          },
+          "future": {
+            "headline": "After destruction, a stronger new foundation is built.",
+            "symbol": "The Tower in the future position warns that unexpected shock or change may come in the near future. This is a frightening signal, but it also means you have time to prepare from now. And if you can understand that this change will ultimately create a stronger, more authentic new foundation, you can receive that shock with far greater flexibility.",
+            "advice": "Review vulnerable areas in your life and things built on unstable foundations now. Voluntarily restructuring them can significantly reduce the impact of future shocks."
+          }
+        }
+      },
+      "star": {
+        "name": "The Star",
+        "keywords": ["hope", "healing", "inspiration"],
+        "daily": "Hopeful energy is present today. Believe in yourself and move forward.",
+        "reading": {
+          "present": {
+            "headline": "Healing and hopeful energy wraps around you right now.",
+            "symbol": "The Star's figure pours water from two vessels under a star-lit sky — one into the earth, one into the river. This gentle sharing symbolizes healing, fullness, and hope. This card in the present position means healing and restoration energy is flowing through your life. It is a time when light returns after darkness, or the beginning of such energy.",
+            "advice": "Hold onto hope. The small light you feel right now, the small signals of recovery — they are real. Trust yourself and keep moving toward that light."
+          },
+          "advice": {
+            "headline": "Share the light you carry with the world.",
+            "symbol": "The Star in the hidden position suggests that healing and inspirational energy exists within you, but you are not fully expressing or sharing it. Just as the Star's figure shares water with both land and river, you receive greater energy when you share what you have — your experiences, wisdom, love, and talent — with those around you. Don't underestimate the value of what you already possess.",
+            "advice": "Are you ready to share what you already know, have experienced, and have healed from? Sharing returns to you as even greater fullness."
+          },
+          "future": {
+            "headline": "Positive change is slowly approaching.",
+            "symbol": "The Star in the future position promises that even if you are in a difficult, dark period now, a moment when light returns will come in the near future. The time when healing, hope, and inspiration begin to enter your life is approaching. This is not a sudden change — like starlight slowly illuminating darkness, things will improve quietly but certainly.",
+            "advice": "No matter how dark it is right now, don't give up. Stars shine brightest on the darkest nights. Your brightest time is approaching."
+          }
+        }
+      },
+      "moon": {
+        "name": "The Moon",
+        "keywords": ["illusion", "anxiety", "intuition"],
+        "daily": "Don't take things at face value today. Trust your intuition over appearances.",
+        "reading": {
+          "present": {
+            "headline": "Even amid confusion, don't let go of intuition's light.",
+            "symbol": "In the Moon card, the full moon rises between two towers while a dog and wolf bay beneath and a crayfish crawls from the water. Moonlight is beautiful but shifting and illusory. This card in the present position means your current situation is uncertain, ambiguous, and hard to read for truth. Fear, anxiety, or illusions may be clouding your judgment. In this moonlight, the key is following the voice of intuition without panic.",
+            "advice": "Follow intuition over fear. Just because things are not clearly visible doesn't mean there is no direction. Your gut feeling right now may be more accurate than logic."
+          },
+          "advice": {
+            "headline": "What you fear may not be real.",
+            "symbol": "The Moon in the hidden position warns that fear-based illusions are significantly influencing your judgment and decisions. Things seen in moonlight can be amplified or distorted from reality. Calmly examine whether what you are currently worried about or afraid of is truly as dangerous as it seems, or whether you are seeing a shadow created by moonlight as if it were real.",
+            "advice": "Coolly face reality. The first thing to do is distinguish whether the source of your current anxiety is real or an illusion. Talking with a trustworthy person helps."
+          },
+          "future": {
+            "headline": "Once confusion passes, the situation will become clear.",
+            "symbol": "The Moon in the future position foretells that while the current uncertain and confusing period may continue for a while, once this moonlit period ends, a much clearer reality will emerge. What you see now is not everything. Just as moonlit shadows reveal their true shapes when morning comes, current confusion will resolve with time. During this process, trusting intuition over fear is crucial.",
+            "advice": "Clarity will certainly come. Remember that current confusion is not permanent. When the moon sets, the sun rises. Wait just a little longer — the current fog will lift."
+          }
+        }
+      },
+      "sun": {
+        "name": "The Sun",
+        "keywords": ["success", "clarity", "joy"],
+        "daily": "Bright, positive energy is present. Move through the day with confidence and joy.",
+        "reading": {
+          "present": {
+            "headline": "Light and clarity are beside you right now.",
+            "symbol": "In the Sun card, a child sits on horseback with arms spread wide beneath a radiant sun — pure joy, confidence, and total trust in life. This card in the present position means your life has bright energy, clarity, and a strong flow toward success. Something long awaited may bear fruit, or a confusing situation may suddenly clarify. This is the time to move forward with confidence.",
+            "advice": "Be confident. The bright energy you feel right now is not an illusion. Fully enjoy this moment and use that energy abundantly to move forward."
+          },
+          "advice": {
+            "headline": "Don't hide your light.",
+            "symbol": "The Sun in the hidden position suggests that abundant energy, talent, and joy already exist within you, but you are not expressing them sufficiently. Check whether you are being too humbly self-effacing, or suppressing yourself because shining feels burdensome. The sun does not disappear when covered by clouds. Your light is the same.",
+            "advice": "Show the talent and joy you have to the world more boldly. The more brightly your light shines, the more the surroundings also brighten. Shining is not a crime."
+          },
+          "future": {
+            "headline": "Good results and success are approaching.",
+            "symbol": "The Sun in the future position is one of the most powerful and hopeful signals. The time when what you are pursuing and working toward bears fruit is approaching. Success, recognition, clarity, and genuine joy are coming. To make the most of this positive flow, keep doing what you are doing and maintain confidence.",
+            "advice": "You may look forward with good expectations. In the near future, an experience of what you have wanted becoming reality will come. Don't stop your current efforts."
+          }
+        }
+      },
+      "judgment": {
+        "name": "Judgement",
+        "keywords": ["awakening", "renewal", "reckoning"],
+        "daily": "Today is a chance to clear the old and start fresh. Use what you have learned from the past.",
+        "reading": {
+          "present": {
+            "headline": "A moment of deep awakening has arrived.",
+            "symbol": "In the Judgement card, the angel Gabriel blows a trumpet and the dead rise from their tombs at its sound. This is not judgment — it is a summons. A call to rise for a higher purpose. This card in the present position means an important awakening, realization, or call toward a new vocation is occurring in your life. Old limitations and past self are being shed, and a moment of rebirth into a more authentic, essential self is approaching.",
+            "advice": "Don't fear this awakening. The inner calling you feel right now is real. Allow yourself to let go of the past self and rise into a more authentic version of yourself."
+          },
+          "advice": {
+            "headline": "It is time to clear the past and move to the next step.",
+            "symbol": "Judgement in the hidden position suggests you have not fully released the past. Past mistakes, regrets, or old wounds may be preventing you from moving forward. The Judgement card symbolizes not condemnation but forgiveness and liberation. Acknowledging your past as it was, taking what you learned from it, and setting down its weight to advance to a new level is the process needed now.",
+            "advice": "Forgive yourself. The past cannot be changed, but the past does not define you. Rise anew in this moment as someone who has learned from it."
+          },
+          "future": {
+            "headline": "A moment of important transition is approaching.",
+            "symbol": "Judgement in the future position foretells that an important moment of awakening and transition will come to your life in the near future. It may be an important decision, the conclusion of a long situation, or a call toward an entirely new direction. This moment may come without warning, but what you are building now serves as preparation for that transition. Begin listening to your inner voice now so you can respond without fear when the moment comes.",
+            "advice": "Prepare to meet change. When the moment of important decision approaches, responding with awakened consciousness rather than fear is what carries your life to the next level."
+          }
+        }
+      },
+      "world": {
+        "name": "The World",
+        "keywords": ["completion", "integration", "fulfillment"],
+        "daily": "Today may bring the fruits of your efforts. Acknowledge your achievement and prepare for what's next.",
+        "reading": {
+          "present": {
+            "headline": "An important cycle is completing itself.",
+            "symbol": "In the World card, a figure dances suspended in the air holding a laurel wreath. The wreath surrounding her symbolizes completion; the four creatures at the corners represent full integration. This card in the present position means something you have worked toward for a long time is now near completion, or an important chapter of life is concluding. Fully celebrate and acknowledge this completion — it becomes the energy for the next new beginning.",
+            "advice": "Fully acknowledge what you have achieved right now. Humility is good, but excessively undervaluing your own accomplishments helps no one. Fully enjoy this moment."
+          },
+          "advice": {
+            "headline": "Savor the meaning of completion fully.",
+            "symbol": "The World in the hidden position suggests that even though you have already completed or are near completing something important, you are not fully acknowledging or enjoying it. Always rushing to the next goal and next task means missing the fullness of this present moment. The World card advises taking time to stop, look back, and accept what you have achieved as it is. Unintegrated achievement provides no real satisfaction.",
+            "advice": "Stop and look back. You need time to fully savor how far you've come and what you have achieved. That fullness becomes the true starting point for the next journey."
+          },
+          "future": {
+            "headline": "A beginning of a new dimension awaits you.",
+            "symbol": "The World in the future position is about as powerful and positive a future signal as there can be. What you are currently working toward is on the path to completion, and in the near future, that fulfillment will open possibilities of a new dimension. This completion is not an ending — it is a new starting point in a larger spiral journey. Keep doing what you are doing.",
+            "advice": "Move forward with expectation and excitement. The direction you are heading is right. The moment of completion is approaching, and beyond it, a wider, more abundant world awaits."
+          }
+        }
+      }
+    }
+  },
+  "mbti": {
+    "INTJ": {
+      "traits": "O INTJ, conhecido como o 'Arquiteto', é um introvertido intuitivo com um poderoso impulso para o pensamento estratégico. Busca constantemente entender padrões subjacentes e construir visões de longo prazo. Com grande confiança em suas ideias, os INTJs estabelecem padrões excepcionalmente altos para si mesmos e buscam continuamente melhorar.",
+      "strengths": "Os INTJs se destacam em planejamento de longo prazo, raciocínio analítico e ação decisiva. Sua capacidade de sintetizar informações complexas em estratégias coerentes os torna inestimáveis. São aprendizes intensamente motivados que buscam o domínio de forma incansável, e sua abordagem criativa e lógica para resolver problemas frequentemente produz avanços que outros não enxergam.",
+      "weaknesses": "Os INTJs podem parecer arrogantes ou desdenhosos quando outros não atingem seus padrões intelectuais. Muitas vezes lutam para expressar emoções, o que pode tensionar os relacionamentos. Seu perfeccionismo pode levá-los a procrastinar projetos, e sua preferência por trabalhar sozinhos pode dificultar a colaboração.",
+      "relationships": "Nos relacionamentos, os INTJs são profundamente leais e comprometidos, embora demorem para se abrir. Buscam parceiros que possam estimulá-los intelectualmente e compartilhar sua paixão pelo crescimento. Conexões superficiais não os atraem; os INTJs anseiam por vínculos profundos e significativos onde ambos se desafiem e inspirem mutuamente.",
+      "careers": "Os INTJs prosperam em engenharia de software, ciência de dados, consultoria de gestão, direito, arquitetura, pesquisa científica e análise de investimentos. Preferem papéis autônomos ou liderar pequenas equipes altamente competentes, e são empreendedores naturais que traduzem visões em realidade.",
+      "compatibility": "Os tipos mais compatíveis com INTJ são ENFP e ENTP. A calidez e criatividade do ENFP complementam perfeitamente a mente analítica do INTJ, enquanto os desafios intelectuais do ENTP mantêm o INTJ perpetuamente estimulado. O INFJ compartilha a profundidade de visão do INTJ, e o INTP oferece a camaradagem lógica que o INTJ valoriza profundamente."
+    },
+    "INTP": {
+      "traits": "O INTP, o 'Lógico', é um introvertido profundamente analítico que encontra alegria em explorar teorias abstratas. Aborda cada tema com curiosidade incansável e o desejo de entender os princípios fundamentais. Os INTPs valorizam a consistência lógica acima de tudo e frequentemente questionam a sabedoria convencional.",
+      "strengths": "Os INTPs possuem uma capacidade analítica extraordinária e estão entre os pensadores mais originais. Sobressaem em identificar falhas nos sistemas existentes e gerar soluções inovadoras. Sua abertura mental permite considerar perspectivas não convencionais sem preconceitos, e sua capacidade de concentração profunda lhes permite desenvolver um domínio especializado nas áreas de interesse.",
+      "weaknesses": "Os INTPs podem se absorver tanto em seu mundo interior que negligenciam assuntos práticos e relacionamentos interpessoais. Podem parecer emocionalmente distantes, e sua indecisão — derivada do desejo de encontrar a solução perfeita — pode frustrar quem os rodeia. Gerenciar tarefas rotineiras é frequentemente um desafio.",
+      "relationships": "Os INTPs preferem um círculo pequeno de relacionamentos profundos e significativos. No romance, sentem-se atraídos por companheiros intelectuais que possam explorar ideias junto com eles. Embora possam parecer emocionalmente inacessíveis, uma vez que confiam plenamente em um parceiro, tornam-se reflexivos e devotados.",
+      "careers": "Os INTPs se destacam em desenvolvimento de software, matemática, física, filosofia, pesquisa acadêmica, análise de sistemas e consultoria técnica. Funcionam melhor em ambientes autônomos onde podem explorar problemas complexos no próprio ritmo.",
+      "compatibility": "Os parceiros mais naturais do INTP são ENTJ e ENFJ. A liderança decisiva do ENTJ contrabalança a tendência do INTP à indecisão, enquanto a calidez e inteligência emocional do ENFJ ajudam o INTP a se conectar em um nível mais profundo. O INFJ também forma um belo par com o INTP, compartilhando diálogo intelectual e filosófico profundo."
+    },
+    "ENTJ": {
+      "traits": "O ENTJ, o 'Comandante', é um líder nato que combina visão estratégica com o impulso de realizá-la. São decisivos, confiantes e altamente energizados por desafios complexos. Os ENTJs prosperam em papéis de liderança e gravitam naturalmente para posições de autoridade e responsabilidade.",
+      "strengths": "Os ENTJs são excepcionalmente bons em criar e executar planos estratégicos. Sua capacidade de organizar pessoas, recursos e cronogramas em direção a um objetivo comum não tem igual. São muito eficientes, orientados a resultados e têm a capacidade de inspirar outros com sua visão. Também aprendem rapidamente e buscam toda oportunidade de crescimento.",
+      "weaknesses": "Os ENTJs podem ser dominantes e impacientes, especialmente com quem se move mais devagar. Seu foco na eficiência pode fazê-los parecer frios ou pouco empáticos. Sua certeza no próprio julgamento pode levá-los a descartar alternativas válidas, e podem priorizar resultados sobre o bem-estar dos membros da equipe.",
+      "relationships": "Os ENTJs trazem a mesma determinação aos relacionamentos que às carreiras. São parceiros profundamente comprometidos que investem no crescimento de seus entes queridos. Preferem comunicação direta e honesta e expressam amor por meio de atos de apoio e ambição compartilhada.",
+      "careers": "As personalidades ENTJ se destacam como CEOs, empreendedores, advogados, banqueiros de investimento, consultores de gestão, oficiais militares e políticos. Sentem-se mais realizados quando têm autoridade para liderar e espaço para construir algo significativo.",
+      "compatibility": "Os melhores parceiros do ENTJ são INFP e INTP. A criatividade e profundidade emocional do INFP enriquecem o mundo estruturado do ENTJ, enquanto a mente analítica do INTP apoia a visão estratégica do ENTJ. O ENFP também desperta o entusiasmo do ENTJ com energia compartilhada."
+    },
+    "ENTP": {
+      "traits": "O ENTP, o 'Debatedor', é um extrovertido rápido e inventivo que prospera no debate intelectual e no questionamento das normas estabelecidas. Adoram fazer o papel do advogado do diabo, explorar ideias de todos os ângulos e encontrar soluções não convencionais para problemas complexos. Os ENTPs são infinitamente curiosos e têm uma capacidade única de enxergar conexões entre conceitos aparentemente não relacionados.",
+      "strengths": "Os ENTPs são valorizados por seu pensamento aguçado, criatividade e persuasão carismática. Geram ideias a um ritmo extraordinário e se adaptam rapidamente a novas situações. Seu entusiasmo e confiança inspiram quem os rodeia, e sua capacidade de comunicar ideias complexas claramente os torna líderes e inovadores naturais.",
+      "weaknesses": "Os ENTPs podem se tornar argumentativos pelo simples fato de argumentar, o que esgota e afasta quem os rodeia. Frequentemente começam projetos com grande entusiasmo mas têm dificuldade de terminá-los. Sua tendência a dobrar ou ignorar as regras pode criar atritos em ambientes estruturados.",
+      "relationships": "Os ENTPs buscam parceiros que possam igualar sua energia intelectual e participar de debates estimulantes. Sentem-se atraídos por indivíduos espontâneos e de mente aberta. Embora possam parecer inconsistentes às vezes, os ENTPs são profundamente leais quando encontram alguém que realmente captura seu interesse.",
+      "careers": "Os ENTPs são adequados para empreendedorismo, direito, marketing, invenção, direção criativa, engenharia de software e consultoria. Funcionam melhor em ambientes dinâmicos onde podem gerar ideias, questionar suposições e resolver problemas novos.",
+      "compatibility": "Os parceiros mais fortes do ENTP são INFJ e INTJ. A profundidade e empatia do INFJ fundamentam a energia inquieta do ENTP, enquanto o INTJ fornece o rigor intelectual que o ENTP anseia. O ENFJ também forma um par vibrante com o ENTP."
+    },
+    "INFJ": {
+      "traits": "O INFJ, o 'Advogado', é o tipo de personalidade mais raro — um introvertido profundamente empático guiado por valores fortes e um compromisso inabalável de fazer uma diferença positiva. Possuem uma habilidade notável de entender as motivações e sentimentos das pessoas. Os INFJs são visionários que perseguem o significado e a autenticidade em tudo que fazem.",
+      "strengths": "Os INFJs combinam inteligência emocional com perspicácia estratégica de uma forma que poucos tipos conseguem igualar. Sua capacidade de entender profundamente os outros os torna mentores, conselheiros e líderes inspiradores. Sua criatividade e capacidade de articular ideias emocionais e filosóficas complexas os distingue.",
+      "weaknesses": "Os INFJs são propensos ao esgotamento porque absorvem profundamente as emoções dos outros. Seu perfeccionismo pode levar à frustração quando a realidade não cumpre seus ideais. Podem ser excessivamente reservados, dificultando que outros os conheçam verdadeiramente.",
+      "relationships": "Os INFJs são parceiros profundamente devotados que buscam conexão no nível da alma. Não se contentam com relacionamentos superficiais; querem um parceiro que compartilhe seus valores, mentalidade de crescimento e profundidade emocional. Uma vez que confiam, oferecem lealdade, perspicácia e suporte emocional extraordinários.",
+      "careers": "Os INFJs florescem como conselheiros, terapeutas, escritores, assistentes sociais, médicos, líderes de ONGs e profissionais de recursos humanos. São movidos pelo propósito e se sentem mais realizados quando seu trabalho contribui genuinamente para o bem-estar humano.",
+      "compatibility": "Os parceiros mais compatíveis do INFJ são ENTP e ENFP. O engenho e desafio intelectual do ENTP mantêm o INFJ continuamente estimulado, enquanto a calidez do ENFP ajuda o INFJ a se conectar mais abertamente com o mundo. O INTJ também forma um vínculo profundamente significativo com o INFJ."
+    },
+    "INFP": {
+      "traits": "O INFP, o 'Mediador', é um idealista gentil impulsionado por um rico mundo interior de valores, emoções e imaginação. Esforçam-se por viver em alinhamento com suas crenças mais profundas e são atraídos pela beleza, significado e expressão autêntica. Os INFPs são muito empáticos e frequentemente sentem as emoções dos outros como se fossem suas.",
+      "strengths": "As maiores fortalezas dos INFPs radicam em sua profundidade emocional, criatividade e empatia profunda. São excepcionais para entender as experiências internas dos outros. Seu trabalho criativo — seja literário, artístico ou musical — frequentemente ressoa profundamente porque vem de um lugar autêntico.",
+      "weaknesses": "Os INFPs podem ser excessivamente idealistas, levando à decepção quando a realidade não alcança seus altos padrões. São propensos à autocrítica e podem lutar com a baixa autoestima durante períodos difíceis. Evitar o conflito pode impedi-los de afirmar limites importantes.",
+      "relationships": "Os INFPs buscam profunda conexão emocional e autenticidade nos relacionamentos. Querem parceiros que os aceitem completamente como são e compartilhem seus valores fundamentais. São parceiros amorosos e devotados que trazem criatividade e profundidade aos seus relacionamentos.",
+      "careers": "Os INFPs prosperam em escrita criativa, artes, música, psicologia, ensino e trabalho sem fins lucrativos. São fortemente movidos por valores e precisam sentir que seu trabalho é significativo. Trabalham melhor quando têm autonomia e podem expressar sua criatividade.",
+      "compatibility": "Os parceiros naturais do INFP são ENFJ e ENTJ. A calidez e capacidade organizacional do ENFJ ajudam o INFP a traduzir seus ideais em ação, enquanto a liderança decisiva do ENTJ fornece a estrutura que o INFP muitas vezes precisa. O INFJ também forma uma conexão profundamente significativa com o INFP."
+    },
+    "ENFJ": {
+      "traits": "O ENFJ, o 'Protagonista', é um líder carismático e empático que prospera ajudando outros a realizar seu potencial. São altamente sintonizados com as emoções e motivações dos outros, e usam essa percepção para inspirar e guiar. Os ENFJs são naturalmente vocacionados para papéis de liderança onde podem fazer uma diferença positiva.",
+      "strengths": "Os ENFJs são comunicadores excepcionais que conectam pessoas e criam visões inspiradoras. Sua empatia e capacidade de ler pessoas os torna mediadores habilidosos e mentores eficazes. Trazem entusiasmo e energia positiva para qualquer grupo.",
+      "weaknesses": "Os ENFJs podem ter dificuldade em estabelecer limites e frequentemente colocam as necessidades dos outros antes das próprias ao ponto do esgotamento. Podem ser excessivamente sensíveis às críticas e demasiadamente preocupados com a aprovação dos outros.",
+      "relationships": "Os ENFJs são parceiros romanticamente idealizadores que buscam uma conexão profunda e significativa. São devotados, atenciosos e constantemente focados em fazer o parceiro sentir-se amado e valorizado. Tendem a priorizar o relacionamento acima de tudo.",
+      "careers": "Os ENFJs prosperam como professores, conselheiros, treinadores, políticos, gerentes de recursos humanos e líderes comunitários. Precisam de trabalho onde possam fazer uma diferença positiva nas vidas das pessoas e onde sua empatia natural seja um ativo.",
+      "compatibility": "Os melhores parceiros do ENFJ são INFP e ISFP. A profundidade criativa e emocional do INFP complementa o entusiasmo liderante do ENFJ, enquanto o ISFP traz uma gentileza que equilibra a intensidade do ENFJ. O INTJ também oferece ao ENFJ o desafio intelectual e profundidade que valoriza."
+    },
+    "ENFP": {
+      "traits": "O ENFP, o 'Ativista', é um espírito livre criativo com uma habilidade notável de ver potencial em cada pessoa e situação. Conduzidos pela imaginação e pelo desejo de fazer o bem no mundo, os ENFPs combinam entusiasmo com empatia genuína. Sua energia contagiante e mentes abertas os tornam presença bem-vinda em qualquer ambiente.",
+      "strengths": "Os ENFPs são criativos, entusiastas e perceptivos. Sua capacidade de conectar ideias de campos completamente diferentes gera insights inovadores. São naturalmente empáticos e habilidosos em criar conexões emocionais profundas.",
+      "weaknesses": "Os ENFPs podem ser desorganizados e lutar com o acompanhamento. Sua busca pela novidade pode dificultar a conclusão de projetos. Podem ser excessivamente emocionais e tomar as críticas muito a peito.",
+      "relationships": "Os ENFPs são parceiros apaixonados e afectuosos que buscam conexão espiritual e intelectual profunda. São exploradores curiosos que mantêm seus relacionamentos frescos com ideias e aventuras novas. Precisam de parceiros que lhes deem liberdade enquanto ainda fornecem raízes.",
+      "careers": "Os ENFPs prosperam em escrita criativa, actuação, consultoria, ensino, trabalho social e empreendedorismo. Precisam de trabalho que use sua criatividade e lhes permita fazer uma diferença significativa. Funcionam melhor com variedade e espaço para expressar sua individualidade.",
+      "compatibility": "Os parceiros mais fortes do ENFP são INTJ e INFJ. A disciplina e clareza estratégica do INTJ complementam a natureza exploratória do ENFP, enquanto a profundidade e comprometimento do INFJ fornecem ao ENFP o apoio emocional que precisa. O ENTJ também acende o entusiasmo do ENFP com energia compartilhada."
+    },
+    "ISTJ": {
+      "traits": "O ISTJ, o 'Logístico', é um introvertido pragmático e orientado para fatos que depende da experiência comprovada. Valorizadores da integridade e responsabilidade acima de tudo, os ISTJs são confiáveis, trabalhadores e profundamente comprometidos com seus deveres. Seu mundo interior é organizado, metódico e orientado para detalhes.",
+      "strengths": "Os ISTJs são excepcionalmente confiáveis e trabalhadores. Sua capacidade de gestão de detalhes e execução metódica os torna inestimáveis em papéis que requerem precisão. São profundamente honestos e seguem sempre pelos seus comprometimentos.",
+      "weaknesses": "Os ISTJs podem ser resistentes à mudança e às novas abordagens. Podem parecer rígidos ou inflexíveis quando os outros querem explorar novas possibilidades. Às vezes têm dificuldade em expressar emoções abertamente.",
+      "relationships": "Os ISTJs são parceiros leais, estáveis e confiáveis que constroem amor através de ações consistentes ao longo do tempo. Podem não ser expressivos verbalmente, mas demonstram profundo comprometimento por meio de atos de serviço e confiabilidade inabalável.",
+      "careers": "Os ISTJs prosperam em contabilidade, direito, gestão, engenharia e administração militar. Precisam de ambientes estruturados onde sua atenção aos detalhes e responsabilidade sejam valorizados. São tipicamente os pilares de qualquer organização.",
+      "compatibility": "Os parceiros mais naturais do ISTJ são ESFP e ESTP. A energia e espontaneidade do ESFP trazem alegria e leveza à vida estruturada do ISTJ, enquanto o ESTP complementa a confiabilidade do ISTJ com ação prática e habilidades de resolução de problemas."
+    },
+    "ISFJ": {
+      "traits": "O ISFJ, o 'Defensor', é um introvertido altamente dedicado e caloroso que se destaca em cuidar dos outros. Discreto e modesto, os ISFJs são genuinamente comprometidos com as pessoas que amam. Sua memória para detalhes pessoais e capacidade de antecipar as necessidades dos outros é incomparável.",
+      "strengths": "Os ISFJs são extremamente atenciosos, responsáveis e leais. Sua atenção aos detalhes e memória para as preferências pessoais tornam-nos parceiros incrivelmente considerados. São trabalhadores confiáveis que vão além para cumprir suas obrigações.",
+      "weaknesses": "Os ISFJs tendem a negligenciar suas próprias necessidades em prol dos outros, levando ao ressentimento ou esgotamento. Podem ter dificuldade em dizer não e ser excessivamente sensíveis às críticas. Às vezes resistem a mudanças mesmo quando seria benéfico.",
+      "relationships": "Os ISFJs são parceiros extraordinariamente atenciosos que memorizam as preferências, sonhos e dificuldades de seus entes queridos. Expressam amor por meio de atos práticos de cuidado e são profundamente comprometidos com a felicidade de seus parceiros.",
+      "careers": "Os ISFJs prosperam em profissões de saúde, ensino, trabalho social, administração e serviços ao cliente. Precisam de trabalho onde possam cuidar de outros de forma tangível. São frequentemente os que fazem o trabalho essencial nos bastidores que mantém as organizações funcionando.",
+      "compatibility": "Os parceiros mais naturais do ISFJ são ESFP e ESTP. A energia e otimismo do ESFP trazem alegria e equilíbrio à natureza prestativa do ISFJ, enquanto o ESTP complementa a estabilidade do ISFJ com espontaneidade e habilidades práticas."
+    },
+    "ISTP": {
+      "traits": "O ISTP, o 'Virtuoso', é um observador quieto e analítico com uma maestria particular para entender como as coisas funcionam. Conduzidos pela curiosidade e racionalismo, os ISTPs são solucionadores de problemas naturais que gostam de explorar o funcionamento de sistemas e máquinas complexos. Sua calma sob pressão e capacidade de pensar rapidamente os distinguem.",
+      "strengths": "Os ISTPs são excepcionalmente habilidosos em resolução técnica de problemas e análise de causa e efeito. Sua calma em crises é lendária. São adaptáveis, de mente independente e incrivelmente habilidosos com suas mãos.",
+      "weaknesses": "Os ISTPs podem ser percebidos como emocionalmente distantes ou difíceis de ler. Podem resistir à estrutura e rotina a longo prazo. Às vezes têm dificuldade em se comprometer ou planejar para o futuro.",
+      "relationships": "Os ISTPs preferem parceiros que respeitem sua independência e precisem de pouca atenção emocional diária. Demonstram afeto por meio de ações práticas, não palavras. Quando estão totalmente engajados, são parceiros presentes e atenciosos que trazem calma e solução de problemas para o relacionamento.",
+      "careers": "Os ISTPs prosperam como mecânicos, engenheiros, paramédicos, pilotos, desenvolvedores de software e artesãos especializados. Precisam de trabalho que os desafie a resolver problemas complexos com soluções práticas e tangíveis.",
+      "compatibility": "Os parceiros mais compatíveis do ISTP são ESFJ e ESTJ. A calidez e organização social do ESFJ complementam a natureza independente e focada em tarefas do ISTP, enquanto a estrutura do ESTJ fornece ao ISTP a estabilidade que às vezes precisa."
+    },
+    "ISFP": {
+      "traits": "O ISFP, o 'Aventureiro', é um introvertido gentil e flexível com uma sensibilidade artística aguçada. Vivem no presente, apreciam a beleza do mundo ao redor e expressam seus sentimentos complexos através de arte, música ou outros meios criativos. Os ISFPs são profundamente passionais mas raramente expressam isso verbalmente.",
+      "strengths": "Os ISFPs possuem uma sensibilidade estética única e forte talento artístico. São empáticos, de boa disposição e adaptáveis. Sua autenticidade genuína e natureza não julgadora cria espaços seguros para outros.",
+      "weaknesses": "Os ISFPs podem ser excessivamente privados e difíceis de conhecer verdadeiramente. Podem ter dificuldade em planejar para o futuro, preferindo viver no presente. Frequentemente evitam conflitos de maneiras que permitem que problemas se acumulem.",
+      "relationships": "Os ISFPs são parceiros profundamente dedicados que expressam amor por meio de gestos atenciosos e criatividade. Valorizam a harmonia e fazem grandes esforços para garantir que seu parceiro se sinta amado e aceito como é.",
+      "careers": "Os ISFPs prosperam em artes visuais, música, cozinha, design de moda, trabalho com animais e saúde. Precisam de trabalho que lhes permita expressar sua criatividade e conectar-se com os elementos sensoriais do mundo. Funcionam melhor com autonomia e ambientes de trabalho flexíveis.",
+      "compatibility": "Os parceiros mais naturais do ISFP são ESFJ e ESTJ. A calidez e organização social do ESFJ criam o ambiente estável e afectuoso que o ISFP precisa, enquanto a confiabilidade e senso de dever do ESTJ complementa o estilo de vida espontâneo do ISFP."
+    },
+    "ESTJ": {
+      "traits": "O ESTJ, o 'Executor', é um administrador prático e direto que proporciona ordem, estrutura e liderança onde quer que vá. Os ESTJs são altamente organizados, tradicionais e orientados para resultados. Acreditam em regras, responsabilidade e na importância dos sistemas comprovados.",
+      "strengths": "Os ESTJs são gerentes excepcionais, organizadores e líderes. Sua capacidade de criar e executar planos com eficiência e determinar responsabilidades claramente os torna muito eficazes. São confiáveis, consistentes e têm alta capacidade de trabalho.",
+      "weaknesses": "Os ESTJs podem ser inflexíveis e resistentes a novas abordagens que desafiem sua maneira estabelecida de fazer as coisas. Às vezes julgam os outros pelos seus próprios padrões e podem parecer rígidos ou frios.",
+      "relationships": "Os ESTJs são parceiros leais e estáveis que demonstram comprometimento por meio de ações concretas. Apreciam relacionamentos com estrutura clara e expectativas mutuamente compreendidas. São parceiros confiáveis e provedores que priorizam a segurança e estabilidade da família.",
+      "careers": "Os ESTJs prosperam em gestão de negócios, direito, militar, aplicação da lei e administração pública. São mais eficazes em papéis de liderança onde podem criar sistemas, gerenciar recursos e garantir que as coisas sejam feitas corretamente.",
+      "compatibility": "Os parceiros mais naturais do ESTJ são ISFP e ISTP. A natureza gentil e adaptável do ISFP equilibra o estilo de liderança do ESTJ, enquanto a independência prática do ISTP complementa o ambiente estruturado do ESTJ."
+    },
+    "ESFJ": {
+      "traits": "O ESFJ, o 'Cônsul', é um extrovertido caloroso e atencioso que prospera em criar harmonia e nutrir comunidades. Altamente sintonizados com as emoções e necessidades dos outros, os ESFJs são prestimosos, leais e profundamente comprometidos com seus relacionamentos. Encontram felicidade genuína em servir e cuidar dos outros.",
+      "strengths": "Os ESFJs são extraordinariamente habilidosos em fazer as pessoas se sentirem bem-vindas e valorizadas. Sua natureza organizada e detalhista garante que os outros sejam bem cuidados. São comunicadores calorosos que constroem fortes redes de relacionamento.",
+      "weaknesses": "Os ESFJs podem se tornar muito preocupados com a opinião dos outros e ter dificuldade em se afirmar quando conflita com as preferências do grupo. Frequentemente internalizam o estresse quando os outros estão insatisfeitos.",
+      "relationships": "Os ESFJs são parceiros profundamente atenciosos e dedicados que priorizam a felicidade e bem-estar de seus entes queridos. São expressivos com afeto, memorizam preferências e fazem grandes esforços em datas especiais e momentos cotidianos.",
+      "careers": "Os ESFJs prosperam como professores, profissionais de saúde, gestores de recursos humanos, trabalhadores sociais e planejadores de eventos. Precisam de trabalho onde possam cuidar de outros de forma concreta e ver o impacto positivo de seus esforços.",
+      "compatibility": "Os parceiros mais naturais do ESFJ são ISFP e ISTP. A criatividade e flexibilidade do ISFP equilibram a natureza organizada do ESFJ, enquanto a independência prática do ISTP complementa as capacidades de cuidado do ESFJ."
+    },
+    "ESTP": {
+      "traits": "O ESTP, o 'Empreendedor', é um extrovertido energético e perceptivo que prospera na ação imediata e nas experiências do mundo real. Conduzidos por resultados tangíveis e encontros diretos, os ESTPs são solucionadores de problemas habilidosos que pensam rapidamente sob pressão. Sua autoconfiança e carisma natural os fazem atraentes e persuasivos.",
+      "strengths": "Os ESTPs são extremamente perceptivos e habilidosos em ler situações rapidamente. Sua ação decisiva e disposição para assumir riscos calculados frequentemente os levam ao sucesso. São carismáticos, persuasivos e excelentes em criar entusiasmo.",
+      "weaknesses": "Os ESTPs podem ser impacientes com teoria abstrata ou planejamento de longo prazo. Podem agir impulsivamente sem considerar completamente as consequências de longo prazo. Às vezes têm dificuldade com o lado emocional dos relacionamentos.",
+      "relationships": "Os ESTPs são parceiros de romance diretos e ativos que adoram compartilhar novas experiências com seus parceiros. Expressam amor por meio de ações, não palavras, e respeitam a independência do parceiro enquanto trazem energia e aventura ao relacionamento.",
+      "careers": "Os ESTPs prosperam em empreendedorismo, vendas, serviços de emergência, esportes, coaching esportivo, militares e aplicação da lei. Precisam de trabalho que exija julgamento rápido e produção de resultados diretos em ambientes dinâmicos.",
+      "compatibility": "Os parceiros mais compatíveis do ESTP são ISFJ e ISTJ. O cuidado caloroso e estabilidade do ISFJ trazem equilíbrio à vida dinâmica do ESTP, enquanto a confiabilidade e integridade do ISTJ ajudam o ESTP a ter uma base estável."
+    },
+    "ESFP": {
+      "traits": "O ESFP, o 'Animador', é um extrovertido espontâneo e entusiasmado que vive para se divertir e criar alegria para os outros. Prioritizadores do presente, os ESFPs têm um talento natural para tornar qualquer situação mais viva e divertida. Sua energia contagiante e amor genuíno pelas pessoas os tornam irresistíveis.",
+      "strengths": "Os ESFPs são animadores dotados, ouvintes empáticos e solucionadores de problemas engenhosos em situações centradas nas pessoas. Sua inteligência social excepcional os ajuda a ler uma sala instantaneamente e adaptar sua energia para criar conexão e alegria. Sua audácia e entusiasmo inspiram quem os rodeia.",
+      "weaknesses": "Os ESFPs podem lutar com o planejamento de longo prazo, priorizando facilmente a diversão imediata sobre a preparação futura. Tendem a evitar conflitos e podem suprimir suas próprias necessidades para manter a harmonia. O pensamento analítico complexo pode parecer tedioso.",
+      "relationships": "Os ESFPs são parceiros românticos calorosos, afetuosos e muito demonstrativos que levam o coração na manga. Enchem os relacionamentos de calidez, risadas e experiências compartilhadas memoráveis. Estão sintonizados com o estado emocional do parceiro e trabalham arduamente para garantir que se sintam amados.",
+      "careers": "Os ESFPs prosperam como artistas, atores, organizadores de eventos, professores, guias de viagem, representantes de vendas e educadores de primeira infância. Precisam de trabalho que envolva interação humana constante, variedade e a oportunidade de expressar sua calidez e energia naturais.",
+      "compatibility": "Os parceiros naturais do ESFP são ISFJ e ISTJ. A confiabilidade e natureza protetora do ISFJ proporcionam a base estável e afetuosa que o ESFP precisa profundamente. A confiabilidade e senso de dever do ISTJ complementam o estilo de vida espontâneo do ESFP. O INFJ também pode formar uma conexão surpreendentemente profunda com o ESFP."
+    }
+  },
+  "tests": {
+    "love-style-test": {
+      "title": "Qual é o Meu Verdadeiro Estilo Amoroso?",
+      "description": "Descubra suas tendências românticas ocultas e como você realmente se aproxima do amor.",
+      "estimatedTime": "3 min",
+      "questions": {
+        "1": {
+          "text": "Quando você percebe alguém que gosta, o que faz?",
+          "options": [
+            "Me aproximo diretamente e deixo claro meu interesse",
+            "Faço contato visual suave para enviar sinais",
+            "Fico por perto esperando o momento certo",
+            "Admiro de longe sem dizer nada"
+          ]
+        },
+        "2": {
+          "text": "Seu crush não mandou mensagem o dia todo. Como você reage?",
+          "options": [
+            "Mando mensagem casualmente perguntando o que está fazendo",
+            "Espero e me mantenho ocupado/a com outras coisas",
+            "Publico algo misterioso nas redes para insinuar meu sentimento",
+            "Entro em espiral pensando \"Fiz algo errado?\""
+          ]
+        },
+        "3": {
+          "text": "Um aniversário está chegando. Como você planeja o encontro?",
+          "options": [
+            "Organizo o evento mais elaborado e romântico possível",
+            "Reservo um restaurante especial que sei que vai adorar",
+            "Decidimos juntos — é uma decisão compartilhada",
+            "Decidimos no dia conforme como nos sentimos"
+          ]
+        },
+        "4": {
+          "text": "Quando você se sente magoado/a pelo parceiro/a, você...",
+          "options": [
+            "Abordo imediatamente e converso sobre isso",
+            "Me acalmo primeiro, depois trago o assunto",
+            "Dou pistas e espero que perceba sozinho/a",
+            "Suporto em silêncio — o tempo cura tudo"
+          ]
+        },
+        "5": {
+          "text": "Num primeiro encontro, o que mais importa para você?",
+          "options": [
+            "Um ambiente romântico e atmosférico",
+            "Uma conversa ótima sobre temas que ambos gostamos",
+            "Uma experiência divertida, ativa e única",
+            "Uma vibe relaxada onde nenhum de nós se sinta constrangido"
+          ]
+        },
+        "6": {
+          "text": "Um amigo pede conselho sobre relacionamento. Você...",
+          "options": [
+            "Dou conselhos práticos e soluções",
+            "Concordo com tudo e desabafamos juntos",
+            "Dou uma perspectiva objetiva e equilibrada",
+            "Escuto em silêncio sem dizer muito"
+          ]
+        },
+        "7": {
+          "text": "O que você não abre mão num/a parceiro/a é...",
+          "options": [
+            "Alguém que combine com meu humor e energia de conversa",
+            "Alguém profundamente atencioso que só tem olhos para mim",
+            "Alguém com planos claros para o futuro e valores compartilhados",
+            "Alguém cuja aparência faz meu coração acelerar"
+          ]
+        },
+        "8": {
+          "text": "Quando você se apaixona, qual melhor te descreve?",
+          "options": [
+            "Um girassol devotado que dá tudo de si",
+            "Um/a especialista em jogo de conquista que gosta da perseguição",
+            "Tsundere — não expressivo/a, mas secretamente atencioso/a",
+            "Descontraído/a, misturando naturalmente como um/a melhor amigo/a"
+          ]
+        }
+      },
+      "results": {
+        "direct-romantic": {
+          "title": "O/A Romântico/a Ousado/a",
+          "summary": "Você mergulha direto no amor com paixão — sem hesitação!",
+          "description": "Você é do tipo que usa o coração na manga. Quando se apaixona, vai fundo com gestos românticos e surpresas que fazem o coração palpitar. A expressão honesta dos seus sentimentos é sua maior arma.",
+          "strengths": [
+            "Aberto/a e claro/a sobre seus sentimentos",
+            "Ótimo/a em eventos românticos e surpresas",
+            "Apaixonado/a e de coração inteiro no amor"
+          ],
+          "caution": [
+            "Se deixar levar tanto pelas emoções pode deixá-lo/a vulnerável",
+            "É importante também se adaptar ao ritmo do parceiro"
+          ],
+          "shareText": "Meu estilo amoroso é \"O/A Romântico/a Ousado/a\" 💘 Qual é o seu?"
+        },
+        "direct-realist": {
+          "title": "O/A Realista Cool",
+          "summary": "Sem sinais confusos — claro/a, direto/a e sem rodeios!",
+          "description": "Você detesta ambiguidade e jogos. Quando gosta de alguém, prefere definir o relacionamento o quanto antes. Valoriza gestos práticos e encontros cotidianos mais do que romance exagerado.",
+          "strengths": [
+            "Comunicação direta e sem rodeios",
+            "Resolve conflitos rapidamente",
+            "Relacionamento estável e confortável"
+          ],
+          "caution": [
+            "Um pouco de doçura de vez em quando faz bem",
+            "Ser prático/a demais pode fazer o parceiro sentir-se pouco valorizado"
+          ],
+          "shareText": "Meu estilo amoroso é \"O/A Realista Cool\" 😎 Qual é o seu?"
+        },
+        "passive-romantic": {
+          "title": "O/A Romântico/a Secreto/a",
+          "summary": "Na sua mente você já gravou 100 episódios da sua história de amor 🎬",
+          "description": "Não mostra, mas seu coração está cheio de calor e saudade. Pode estar apaixonado/a em silêncio por muito tempo, e os pequenos gestos significam o mundo para você.",
+          "strengths": [
+            "Muito atencioso/a com os sentimentos do parceiro",
+            "Mestre/a dos detalhes considerados",
+            "Leal e devotado/a uma vez comprometido/a"
+          ],
+          "caution": [
+            "Se não se expressar, ninguém vai saber",
+            "Não se perca em suposições — fale com seu parceiro"
+          ],
+          "shareText": "Meu estilo amoroso é \"O/A Romântico/a Secreto/a\" ✨ Qual é o seu?"
+        },
+        "passive-realist": {
+          "title": "O/A Independente",
+          "summary": "O amor é parte da vida, mas meu ritmo vem primeiro!",
+          "description": "Você leva tempo antes de se comprometer, prefere o conforto à paixão. Valoriza profundamente seu espaço pessoal e independência, e qualquer parceiro/a precisa respeitar isso.",
+          "strengths": [
+            "Emocionalmente estável, sem dramas",
+            "Seletivo/a com quem deixa entrar",
+            "Respeito mútuo à independência"
+          ],
+          "caution": [
+            "Pode parecer desinteressado/a no romance",
+            "O relacionamento pode avançar muito lentamente"
+          ],
+          "shareText": "Meu estilo amoroso é \"O/A Independente\" ☕ Qual é o seu?"
+        }
+      }
+    }
+  }
+}
