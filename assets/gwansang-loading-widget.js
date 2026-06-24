@@ -4,7 +4,7 @@
   var CONTAINER_ID = "container-12cdf4ce15fbd319a5a65c7f165496a7";
   var SCRIPT_URL =
     "https://pl29040556.effectivecpmnetwork.com/12cdf4ce15fbd319a5a65c7f165496a7/invoke.js";
-  var WRAPPER_ID = "gwansang-loading-native-ad";
+  var WRAPPER_ID = "gwansang-loading-widget";
   var observer;
 
   function isGwansangLoadingScreen() {
