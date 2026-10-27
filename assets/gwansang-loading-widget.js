@@ -8,7 +8,7 @@
   var savedStyle;
 
   function getLoadingScreen() {
-    if (window.location.pathname !== "/gwansang") return null;
+    if (!/^\/gwansang\/?$/.test(window.location.pathname)) return null;
 
     var logo = document.querySelector('img[src="/gwansang.png"]');
     if (!logo) return null;

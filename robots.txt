@@ -1,12 +1,10 @@
 User-agent: *
-Allow: /k-shaman/
-Allow: /gwansang
-Disallow: /assets/
-Disallow: /blog/
-Disallow: /characters/
-Disallow: /images/
-Disallow: /pet-test/
-Disallow: /tests/
-Disallow: /results/
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
 
 Sitemap: https://mytesttype.com/sitemap.xml

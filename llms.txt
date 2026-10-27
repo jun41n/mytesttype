@@ -1,0 +1,19 @@
+# MyTestType
+
+> MyTestType is a Korean cultural entertainment service. Its primary experience is K-Shaman AI Saju, with AI face reading as a secondary experience.
+
+## Public experiences
+
+- [K-Shaman AI Saju](https://mytesttype.com/k-shaman/): Uses birth date and birth time as inputs to present cultural, entertainment-oriented Saju guidance about tendencies and everyday behavior patterns.
+- [AI Face Reading](https://mytesttype.com/gwansang/): Uses a submitted photo to present cultural, entertainment-oriented observations about facial features and impressions.
+
+## Scope and safety
+
+- Results are cultural and entertainment-oriented guidance.
+- Results do not definitively predict the future or replace medical, legal, financial, or other professional advice.
+- The only public experiences are K-Shaman AI Saju and AI Face Reading.
+
+## Contact
+
+- Email: proofcom26@gmail.com
+- Privacy: https://mytesttype.com/privacy/
