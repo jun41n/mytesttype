@@ -2,9 +2,11 @@ User-agent: *
 Allow: /
 
 User-agent: OAI-SearchBot
-Allow: /
+Allow: /k-shaman/
+Allow: /gwansang/
 
 User-agent: Google-Extended
-Allow: /
+Allow: /k-shaman/
+Allow: /gwansang/
 
 Sitemap: https://mytesttype.com/sitemap.xml
