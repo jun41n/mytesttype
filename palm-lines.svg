@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 660" role="img" aria-labelledby="title desc">
+  <title id="title">손금 주요 선 도해</title>
+  <desc id="desc">생명선, 두뇌선, 감정선, 운명선, 재물 흐름을 표시한 손바닥 도해</desc>
+  <rect width="900" height="660" fill="#d7b47b"/>
+  <g fill="none" stroke="#6e3d2c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M320 596 C285 560 263 509 258 447 L247 274 C244 247 260 228 281 230 C300 232 306 249 307 270 L313 355 L309 168 C309 138 329 121 350 124 C371 127 377 146 377 169 L382 351 L381 112 C381 82 402 67 424 72 C445 77 451 96 451 119 L454 350 L459 145 C460 116 480 103 500 109 C521 115 527 135 525 158 L523 356 L538 198 C541 170 561 158 581 164 C602 171 607 192 603 218 L587 411 C583 475 565 526 531 565 C504 595 477 613 431 616 C385 619 348 616 320 596 Z" fill="#efd4a0"/>
+    <path d="M310 270 C274 308 248 342 237 380 C224 425 234 466 260 499" stroke="#9b5a3b"/>
+    <path d="M297 304 C351 287 421 289 508 306 C549 314 572 329 587 350" stroke="#8c3f2b"/>
+    <path d="M285 390 C350 361 421 365 493 386 C531 397 559 414 581 438" stroke="#5f4a90"/>
+    <path d="M426 605 C428 535 427 463 433 398 C438 341 445 287 453 230" stroke="#b27528"/>
+    <path d="M500 585 C514 533 526 483 537 431" stroke="#4c7564"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#4a281f">
+    <text x="40" y="165">감정선</text><path d="M140 158 L286 300" stroke="#8c3f2b" stroke-width="2"/>
+    <text x="40" y="305">두뇌선</text><path d="M140 297 L280 385" stroke="#5f4a90" stroke-width="2"/>
+    <text x="45" y="490">생명선</text><path d="M145 482 L255 444" stroke="#9b5a3b" stroke-width="2"/>
+    <text x="665" y="180">운명선</text><path d="M665 188 L455 350" stroke="#b27528" stroke-width="2"/>
+    <text x="648" y="315">재물 흐름</text><path d="M648 323 L531 472" stroke="#4c7564" stroke-width="2"/>
+  </g>
+  <g fill="#7b3f2b" font-family="serif" font-size="20" opacity=".75">
+    <text x="42" y="620">手相 · 전통 손금 언어를 오늘의 말로 읽다</text>
+  </g>
+</svg>
