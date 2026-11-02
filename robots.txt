@@ -4,9 +4,11 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /k-shaman/
 Allow: /gwansang/
+Allow: /palm-reading/
 
 User-agent: Google-Extended
 Allow: /k-shaman/
 Allow: /gwansang/
+Allow: /palm-reading/
 
 Sitemap: https://mytesttype.com/sitemap.xml
