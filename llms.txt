@@ -1,18 +1,19 @@
 # MyTestType
 
-> MyTestType is a Korean cultural entertainment service. Its primary experience is AI face reading, with AI palm reading in development and K-Shaman AI Saju also available.
+> MyTestType is a Korean cultural entertainment service with four public experiences: AI Past-Life Character, AI Face Reading, AI Palm Reading, and K-Shaman AI Saju.
 
 ## Public experiences
 
+- [AI Past-Life Character Test](https://mytesttype.com/): Uses a submitted photo to create a cultural, entertainment-oriented past-life character result.
 - [AI Face Reading](https://mytesttype.com/gwansang/): Uses a submitted photo to present cultural, entertainment-oriented observations about facial features and impressions.
-- AI Palm Reading: In development and not yet publicly available.
+- [AI Palm Reading](https://mytesttype.com/palm-reading/): Uses a submitted palm photo to present cultural, entertainment-oriented observations about traditional palm-reading symbols.
 - [K-Shaman AI Saju](https://mytesttype.com/k-shaman/): Uses birth date and birth time as inputs to present cultural, entertainment-oriented Saju guidance about tendencies and everyday behavior patterns.
 
 ## Scope and safety
 
 - Results are cultural and entertainment-oriented guidance.
 - Results do not definitively predict the future or replace medical, legal, financial, or other professional advice.
-- The current public experiences are AI Face Reading and K-Shaman AI Saju. AI Palm Reading is not yet active.
+- All four experiences are publicly available. Results are not factual claims about a person's identity, health, future, wealth, or relationships.
 
 ## Contact
 
