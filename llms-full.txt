@@ -1,0 +1,53 @@
+# MyTestType: service reference
+
+MyTestType is a Korean cultural entertainment website. It offers four public experiences and does not make factual claims about identity, health, wealth, relationships, or the future.
+
+## What is MyTestType?
+
+MyTestType provides AI-assisted cultural readings and creative character experiences. Users may explore a past-life character, face-reading traditions, palm-reading traditions, or Korean Saju (사주팔자). The service is for entertainment and cultural reference.
+
+## Public services
+
+### AI Past-Life Character Test
+
+URL: https://mytesttype.com/
+
+Users submit a face photo. The service selects a historical character or occupation theme from the entertainment experience and creates a creative image that keeps the submitted face as a visual reference. The result includes a short character story, historical-era context, an illustrative compensation comparison, and social sharing controls.
+
+### AI Face Reading
+
+URL: https://mytesttype.com/gwansang/
+
+Users submit a face photo. The service presents observations inspired by traditional Korean face-reading language, including impression, relationship style, everyday tendencies, and creative historical-character references. It is not a scientific personality, health, genetics, or fortune assessment.
+
+### AI Palm Reading
+
+URL: https://mytesttype.com/palm-reading/
+
+Users submit a palm photo, with an optional two-person compatibility mode. The service presents cultural observations inspired by traditional palm-reading symbols such as life, head, heart, fate, wealth, and relationship lines. It does not predict health, lifespan, fertility, or guaranteed wealth.
+
+### K-Shaman AI Saju
+
+URL: https://mytesttype.com/k-shaman/
+
+Users enter birth information and receive cultural, entertainment-oriented Saju guidance. The service explains calculated traditional calendar features and everyday tendencies in conversational language. It is not professional medical, legal, financial, or life-outcome advice.
+
+## Common questions
+
+Q: Does MyTestType require an account?
+A: The public experiences are designed to be usable without a required sign-in. Availability can depend on the current site flow.
+
+Q: Are the results scientific predictions?
+A: No. Results are cultural and entertainment-oriented interpretations or creative image experiences, not scientific predictions or verified personal facts.
+
+Q: Does the service store uploaded photos?
+A: Photos are sent to the configured AI processing service to fulfill the requested analysis or image generation. Users should review the site's privacy policy before uploading sensitive images.
+
+Q: How can users contact MyTestType?
+A: Contact email: proofcom26@gmail.com. Privacy policy: https://mytesttype.com/privacy/
+
+## Machine-readable pages
+
+- Sitemap: https://mytesttype.com/sitemap.xml
+- Crawler policy: https://mytesttype.com/robots.txt
+- Short service summary: https://mytesttype.com/llms.txt
