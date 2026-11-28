@@ -51,3 +51,10 @@ A: Contact email: proofcom26@gmail.com. Privacy policy: https://mytesttype.com/p
 - Sitemap: https://mytesttype.com/sitemap.xml
 - Crawler policy: https://mytesttype.com/robots.txt
 - Short service summary: https://mytesttype.com/llms.txt
+
+## Search-intent guides
+
+- Past life and Joseon occupations: https://mytesttype.com/guide/past-life/
+- Face reading and facial impressions: https://mytesttype.com/guide/face/
+- Palm lines and palm-reading photos: https://mytesttype.com/guide/palm/
+- Saju and birth-date readings: https://mytesttype.com/guide/saju/

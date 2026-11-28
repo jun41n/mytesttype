@@ -1,21 +1,18 @@
 # MyTestType
 
-> MyTestType is a Korean cultural entertainment service with four public experiences: AI Past-Life Character, AI Face Reading, AI Palm Reading, and K-Shaman AI Saju.
+MyTestType is a cultural entertainment service with four active experiences:
 
-## Public experiences
+- AI past-life character test: https://mytesttype.com/
+- AI face-reading guide and test: https://mytesttype.com/gwansang/
+- AI palm-reading guide and test: https://mytesttype.com/palm-reading/
+- K-Shaman AI Saju: https://mytesttype.com/k-shaman/
 
-- [AI Past-Life Character Test](https://mytesttype.com/): Uses a submitted photo to create a cultural, entertainment-oriented past-life character result.
-- [AI Face Reading](https://mytesttype.com/gwansang/): Uses a submitted photo to present cultural, entertainment-oriented observations about facial features and impressions.
-- [AI Palm Reading](https://mytesttype.com/palm-reading/): Uses a submitted palm photo to present cultural, entertainment-oriented observations about traditional palm-reading symbols.
-- [K-Shaman AI Saju](https://mytesttype.com/k-shaman/): Uses birth date and birth time as inputs to present cultural, entertainment-oriented Saju guidance about tendencies and everyday behavior patterns.
+Search-intent guides:
 
-## Scope and safety
+- Past life and Joseon occupations: https://mytesttype.com/guide/past-life/
+- Face reading and facial impressions: https://mytesttype.com/guide/face/
+- Palm lines and palm-reading photos: https://mytesttype.com/guide/palm/
+- Saju and birth-date readings: https://mytesttype.com/guide/saju/
 
-- Results are cultural and entertainment-oriented guidance.
-- Results do not definitively predict the future or replace medical, legal, financial, or other professional advice.
-- All four experiences are publicly available. Results are not factual claims about a person's identity, health, future, wealth, or relationships.
-
-## Contact
-
-- Email: proofcom26@gmail.com
-- Privacy: https://mytesttype.com/privacy/
+Results are cultural and entertainment-oriented references, not scientific,
+medical, financial, legal, or guaranteed predictions.
